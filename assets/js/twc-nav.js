@@ -45,7 +45,7 @@
   var NAV_MAP = {
     'THEWRISTCLUB': function () { return 'index.html'; },
     'Home': function () { return 'index.html'; },
-    'Timepieces': function () { return 'catalog.html'; },
+    'Timepieces': function () { return 'catalog/'; },
     'Features': function () {
       if (location.pathname.endsWith('index.html') || location.pathname === '/') {
         var f = document.getElementById('twc-features');
@@ -126,7 +126,7 @@
       ev.stopPropagation();
       var col = document.getElementById('twc-collection');
       if (col) col.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      else location.href = 'catalog.html';
+      else location.href = 'catalog/';
       return;
     }
 

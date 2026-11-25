@@ -1,11 +1,11 @@
 /**
- * THEWRISTCLUB — shared shop library (catalog.html + product.html).
+ * THEWRISTCLUB — shared shop library (catalog/ + product/).
  * Vanilla JS, zero deps, dark-luxury theme helpers. Never throws.
  *
  * Data contract (SHOP_CONTRACT.md):
  *   assets/data/catalog-index.json -> [{brand, brandKey, category, count, cover}]
  *   assets/data/catalog/<brandKey>.json -> {brand, brandKey, category, cover, items:[{id,name,images,video,mrp,mrpNote,price,desc,specs}]}
- * Product URLs: product.html?p=<brandKey>/<n>  (n = 1-based index in the brand file)
+ * Product URLs: product/?p=<brandKey>/<n>  (n = 1-based index in the brand file)
  */
 ;(function () {
   'use strict';
@@ -87,7 +87,7 @@
     } catch (_e) { return { ok: false, reason: 'error', raw: '' }; }
   };
 
-  /** Full param reader for catalog.html (?cat= / ?brand= / ?sort=). */
+  /** Full param reader for catalog/ (?cat= / ?brand= / ?sort=). */
   API.parseParams = function (search) {
     var out = { cat: 'all', brand: 'all', sort: 'brand', p: '' };
     try {
@@ -170,11 +170,11 @@
     } catch (_e) { return ''; }
   };
 
-  /** product.html?p=<brandKey>/<n> */
+  /** product/?p=<brandKey>/<n> */
   API.itemURL = function (brandKey, n) {
     try {
-      return 'product.html?p=' + encodeURIComponent(String(brandKey)) + '/' + (parseInt(n, 10) || 1);
-    } catch (_e) { return 'catalog.html'; }
+      return 'product/?p=' + encodeURIComponent(String(brandKey)) + '/' + (parseInt(n, 10) || 1);
+    } catch (_e) { return 'catalog/'; }
   };
 
   /* ------------------------------------------------------------------ */
@@ -225,7 +225,7 @@
 
       var n = (isFinite(itemN) && itemN >= 1) ? itemN : API.itemN(item, brand && brand.items ? brand : (brandKey ? { brandKey: brandKey, items: [] } : null));
       var name = nameOf(item) || 'Timepiece';
-      var href = brandKey ? API.itemURL(brandKey, n) : 'catalog.html';
+      var href = brandKey ? API.itemURL(brandKey, n) : 'catalog/';
 
       var card = el('a', 'twc-card' + (extraClass ? ' ' + extraClass : ''));
       card.href = href;

@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="../">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./assets/css/css2-8ac0455e.css">
+<title>Our Collection — THEWRISTCLUB</title>
+<meta name="description" content="Browse 1,200+ premium watches across 50+ brands at The Wrist Club. Every piece photographed in-house.">
+<style>
+  /* ---- Framer chrome suppression ---- */
+  #__framer-editorbar-container, #__framer-editorbar-label, #__framer-editorbar-button,
+  #__framer-badge-container, [id*="framer-badge"]{display:none!important}
+
+  :root{
+    --bg:#0d0d0d; --surface:#161616; --surface-2:#101010;
+    --gold:#ffffff; --text:#eaeaea; --muted:rgba(255,255,255,.6);
+    --faint:rgba(255,255,255,.45); --line:rgba(255,255,255,.1);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:radial-gradient(1400px 720px at 50% -140px,rgba(255,255,255,.05),transparent 65%),var(--bg);color:var(--text);
+    font-family:"Geist","Geist Placeholder",ui-sans-serif,-apple-system,"Helvetica Neue",Arial,sans-serif;
+    -webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  img{display:block}
+
+  /* ---- Header ---- */
+  .twc-header{position:fixed;top:0;left:0;right:0;z-index:1000;display:flex;align-items:center;
+    justify-content:space-between;padding:16px 28px;background:rgba(13,13,13,.86);
+    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+  .twc-wordmark{font-size:22px;font-weight:600;letter-spacing:2px;text-transform:uppercase;
+    color:var(--text);text-decoration:none}
+  .twc-wordmark:hover{color:var(--gold)}
+  .twc-header-link{all:unset;cursor:pointer;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;
+    color:var(--muted);padding:8px 16px;border:1px solid var(--line);border-radius:999px;transition:all .25s ease}
+  .twc-header-link:hover{color:var(--text);border-color:var(--gold)}
+
+  /* ---- Hero ---- */
+  .twc-hero{padding:150px 24px 0;text-align:center}
+  .twc-overline{font-size:11.5px;letter-spacing:4px;text-transform:uppercase;color:var(--faint);
+    font-weight:600;margin-bottom:20px}
+  .twc-hero h1{font-size:clamp(46px,7vw,78px);margin:0 0 16px;line-height:1.04;letter-spacing:-0.03em;font-weight:300;color:var(--text)}
+  .twc-hero h1 b{font-weight:600}
+  .twc-hero p{color:var(--muted);font-size:16px;margin:0}
+  .twc-hero::after{content:"";display:block;max-width:1280px;margin:48px auto 0;height:1px;
+    background:linear-gradient(90deg,transparent,rgba(255,255,255,.14),transparent)}
+
+  /* ---- Controls ---- */
+  .twc-controls{max-width:1280px;margin:0 auto;padding:0 24px 10px}
+  .twc-controls-top{position:sticky;top:56px;z-index:600;width:100%;background:rgba(13,13,13,.92);
+    backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);
+    padding:16px 24px 10px;border-bottom:1px solid rgba(255,255,255,.07)}
+  .twc-controls-top .twc-cats,.twc-controls-top .twc-toolbar{max-width:1280px;margin-left:auto;margin-right:auto}
+  .twc-cats{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-bottom:16px}
+  .twc-cat{all:unset;cursor:pointer;padding:10px 22px;border-radius:999px;border:1px solid rgba(255,255,255,.14);
+    color:var(--text);font-size:13px;letter-spacing:.3px;transition:all .25s ease}
+  .twc-cat:hover{border-color:rgba(255,255,255,.55)}
+  .twc-cat[data-active="1"]{background:var(--gold);border-color:var(--gold);color:#0d0d0d;font-weight:600}
+
+  .twc-toolbar{display:flex;align-items:center;justify-content:space-between;gap:14px;
+    flex-wrap:wrap;margin-bottom:12px}
+  .twc-count{font-size:13.5px;color:var(--faint)}
+  .twc-sortwrap{display:flex;align-items:center;gap:8px}
+  .twc-sortlabel{font-size:11.5px;letter-spacing:1.2px;text-transform:uppercase;color:var(--faint)}
+  .twc-sort{all:unset;cursor:pointer;background:var(--surface);border:1px solid var(--line);
+    border-radius:999px;padding:8px 16px;color:var(--text);font-size:13px;transition:border-color .25s ease}
+  .twc-sort:hover{border-color:var(--gold)}
+  .twc-sort option{background:var(--surface);color:var(--text)}
+
+  .twc-brandrow{display:flex;gap:8px;overflow-x:auto;padding:4px 2px 14px;scrollbar-width:thin;
+    scrollbar-color:rgba(255,255,255,.18) transparent}
+  .twc-brandrow::-webkit-scrollbar{height:6px}
+  .twc-brandrow::-webkit-scrollbar-thumb{background:rgba(255,255,255,.18);border-radius:99px}
+  .twc-bpill{all:unset;flex:0 0 auto;cursor:pointer;padding:8px 16px;border-radius:999px;
+    border:1px solid rgba(255,255,255,.12);color:var(--muted);font-size:12.5px;letter-spacing:.2px;white-space:nowrap;transition:all .2s ease}
+  .twc-bpill:hover{color:var(--text);border-color:rgba(255,255,255,.4)}
+  .twc-bpill[data-active="1"]{background:var(--text);color:#0a0a0a;border-color:var(--text);font-weight:600}
+  .twc-bpill .twc-bpill-n{opacity:.55;margin-left:4px;font-size:11px}
+
+  /* ---- Grid ---- */
+  .twc-main{max-width:1280px;margin:0 auto;padding:16px 24px 110px}
+  .twc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:24px}
+  @keyframes twcCardIn{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+  .twc-grid .twc-card{animation:twcCardIn .55s cubic-bezier(.22,.61,.36,1) backwards}
+
+  .twc-loadwrap{display:flex;justify-content:center;padding:36px 0 0}
+  .twc-loadmore{all:unset;cursor:pointer;padding:15px 44px;border-radius:999px;background:var(--gold);
+    color:#0d0d0d;font-weight:600;font-size:13.5px;letter-spacing:.3px;transition:all .25s ease}
+  .twc-loadmore:hover{transform:translateY(-2px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
+  .twc-loadmore:hover{filter:brightness(1.1);transform:translateY(-1px)}
+
+  /* ---- States ---- */
+  .twc-state{text-align:center;padding:70px 20px;color:var(--muted)}
+  .twc-state h3{color:var(--text);font-size:20px;margin:0 0 8px;font-weight:600}
+  .twc-state p{margin:0 0 20px;font-size:14px}
+  .twc-state button{all:unset;cursor:pointer;padding:11px 26px;border-radius:999px;border:1px solid var(--gold);
+    color:var(--gold);font-size:13.5px;transition:all .25s ease}
+  .twc-state button:hover{background:var(--gold);color:#0a0a0a}
+  .twc-skeleton{height:0}
+
+  /* ---- Footer note ---- */
+  .twc-foot{max-width:1280px;margin:0 auto;padding:0 24px 80px;text-align:center;color:var(--faint);font-size:13px}
+
+  @media(max-width:640px){
+    .twc-header{padding:13px 16px}
+    .twc-hero{padding-top:110px}
+    .twc-grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:14px}
+    .twc-main{padding:8px 16px 70px}
+    .twc-controls{padding:0 16px 10px}
+    .twc-controls-top{top:53px;margin:0 -16px;padding:12px 16px 6px}
+  }
+</style>
+</head>
+<body>
+
+<header class="twc-header">
+  <a class="twc-wordmark" href="index.html">THEWRISTCLUB</a>
+  <a class="twc-header-link" href="index.html">Back to Home</a>
+</header>
+
+<section class="twc-hero">
+  <div class="twc-overline">THE WRIST CLUB</div>
+  <h1>Our <b>Collection</b></h1>
+  <p id="twc-hero-sub">1,200+ watches, 50+ brands — every piece photographed in-house.</p>
+</section>
+
+<section class="twc-controls">
+  <div class="twc-controls-top">
+  <div class="twc-cats" id="twc-cats" role="tablist" aria-label="Category"></div>
+  <div class="twc-toolbar">
+    <div class="twc-count" id="twc-count">Loading the collection…</div>
+    <div class="twc-sortwrap">
+      <label class="twc-sortlabel" for="twc-sort">Sort</label>
+      <select class="twc-sort" id="twc-sort" aria-label="Sort watches">
+        <option value="brand">Brand A–Z</option>
+        <option value="name">Name A–Z</option>
+        <option value="price">Price low → high</option>
+      </select>
+    </div>
+  </div>
+  </div>
+  <div class="twc-brandrow" id="twc-brandrow" aria-label="Brands"></div>
+</section>
+
+<main class="twc-main">
+  <div class="twc-grid" id="twc-grid"></div>
+  <div class="twc-loadwrap" id="twc-loadwrap"></div>
+  <div class="twc-state" id="twc-state" hidden>
+    <h3 id="twc-state-title">Nothing to show</h3>
+    <p id="twc-state-text">Try different filters.</p>
+    <button id="twc-state-btn" hidden>Reset filters</button>
+  </div>
+</main>
+
+<p class="twc-foot">Every watch is an authentic piece, verified in-house. WhatsApp us for live video viewing, prices and availability.</p>
+
+<script src="assets/js/twc-shop.js" defer></script><script src="assets/js/twc-nav.js" defer></script><script src="assets/js/twc-social.js" defer></script>
+<script defer>
+;(function () {
+  'use strict';
+
+  var PAGE_SIZE = 24;
+  var state = {
+    cat: 'all', brand: 'all', sort: 'brand',
+    refs: [],            /* ordered [{brandKey, n, brandName, brandCat}] */
+    shown: 0,
+    index: [],
+    itemData: {},        /* brandKey -> brand file data (cached by TWCSHOP too) */
+    loadingAll: false,   /* background full prefetch for name/price sorts */
+    bootFailed: false
+  };
+  var grid, cats, brandrow, sortSel, countEl, loadwrap, stateBox, stateTitle, stateText, stateBtn, heroSub;
+
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  }
+  function $(id) { return document.getElementById(id); }
+
+  /* ---------- data plumbing ---------- */
+
+  function cacheBrandData(data) {
+    try {
+      if (data && data.brandKey && !state.itemData[data.brandKey]) state.itemData[data.brandKey] = data;
+    } catch (_e) { /* never throw */ }
+  }
+
+  function getBrandData(brandKey) {
+    return TWCSHOP.loadBrand(brandKey).then(function (d) { cacheBrandData(d); return d; });
+  }
+
+  /* Build the ordered flat list of item refs from the index. */
+  function buildRefs() {
+    var brands = TWCSHOP.byCategory(state.index, state.cat);
+    if (state.brand !== 'all') {
+      brands = brands.filter(function (b) { return b.brandKey === state.brand; });
+    }
+    var refs = [];
+    brands.forEach(function (b) {
+      var count = (typeof b.count === 'number' && b.count > 0) ? b.count : 0;
+      for (var n = 1; n <= count; n++) {
+        refs.push({ brandKey: b.brandKey, n: n, brandName: b.brand || '', brandCat: b.category });
+      }
+    });
+
+    var knownBrands = brands; /* brand entries in current filter */
+    if (state.sort === 'brand' || !state.sort) {
+      /* sort by brand name A–Z, then item order — works from the index alone */
+      refs.sort(function (a, b2) {
+        return a.brandName.localeCompare(b2.brandName) || a.n - b2.n;
+      });
+    } else {
+      /* name / price sorts need brand-file data; sort with whatever is loaded
+         (index-only fallback = brand order) and re-sort as data streams in. */
+      refs.sort(function (a, b2) {
+        var da = state.itemData[a.brandKey], db = state.itemData[b2.brandKey];
+        var ia = da && da.items && da.items[a.n - 1], ib = db && db.items && db.items[b2.n - 1];
+        if (state.sort === 'name') {
+          var an = ia && ia.name ? ia.name : '', bn = ib && ib.name ? ib.name : '';
+          if (!an && !bn) return a.brandName.localeCompare(b2.brandName) || a.n - b2.n;
+          if (!an) return 1;
+          if (!bn) return -1;
+          return an.localeCompare(bn);
+        }
+        /* price */
+        var am = ia && typeof ia.mrp === 'number' ? ia.mrp : null;
+        var bm = ib && typeof ib.mrp === 'number' ? ib.mrp : null;
+        if (am == null && bm == null) return a.brandName.localeCompare(b2.brandName) || a.n - b2.n;
+        if (am == null) return 1;
+        if (bm == null) return -1;
+        return am - bm || a.brandName.localeCompare(b2.brandName);
+      });
+      /* kick off a background prefetch of all brand files in this filter so
+         name/price ordering converges to the true order. */
+      prefetchAll(knownBrands);
+    }
+    return refs;
+  }
+
+  function prefetchAll(brands) {
+    try {
+      if (state.loadingAll || !Array.isArray(brands)) return;
+      state.loadingAll = true;
+      var chain = Promise.resolve();
+      brands.forEach(function (b) {
+        chain = chain.then(function () {
+          return getBrandData(b.brandKey).then(function () {
+            if (state.sort === 'name' || state.sort === 'price') rerender();
+          }).catch(function () { /* missing brand file: leave as-is */ });
+        });
+      });
+      chain.then(function () { state.loadingAll = false; }).catch(function () { state.loadingAll = false; });
+    } catch (_e) { state.loadingAll = false; }
+  }
+
+  /* ---------- rendering ---------- */
+
+  function renderCats() {
+    try {
+      cats.innerHTML = '';
+      var list = [['all', 'All Watches'], ['him', 'For Him'], ['her', 'For Her'], ['unisex', 'Unisex']];
+      list.forEach(function (c) {
+        var t = el('button', 'twc-cat', c[1]);
+        t.type = 'button';
+        t.setAttribute('data-filter', c[0]);
+        t.setAttribute('data-active', String(state.cat === c[0] ? 1 : 0));
+        cats.appendChild(t);
+      });
+    } catch (_e) { /* never throw */ }
+  }
+
+  function renderBrandPills() {
+    try {
+      brandrow.innerHTML = '';
+      var brands = TWCSHOP.byCategory(state.index, state.cat);
+      var all = el('button', 'twc-bpill', 'All Brands');
+      all.type = 'button';
+      all.setAttribute('data-brand', 'all');
+      all.innerHTML = 'All Brands <span class="twc-bpill-n">(' + brands.length + ')</span>';
+      all.setAttribute('data-active', String(state.brand === 'all' ? 1 : 0));
+      brandrow.appendChild(all);
+      brands.forEach(function (b) {
+        var p = el('button', 'twc-bpill');
+        p.type = 'button';
+        p.setAttribute('data-brand', b.brandKey);
+        p.innerHTML = '';
+        p.appendChild(document.createTextNode(b.brand || b.brandKey));
+        var nSpan = el('span', 'twc-bpill-n', '(' + (typeof b.count === 'number' ? b.count : '?') + ')');
+        p.appendChild(nSpan);
+        p.setAttribute('data-active', String(state.brand === b.brandKey ? 1 : 0));
+        brandrow.appendChild(p);
+        if (state.brand === b.brandKey) {
+          try { p.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' }); } catch (_e) {}
+        }
+      });
+    } catch (_e) { /* never throw */ }
+  }
+
+  function updateCount() {
+    try {
+      var total = state.refs.length;
+      var shown = Math.min(state.shown, total);
+      var label = total === 1 ? 'watch' : 'watches';
+      countEl.textContent = total ? 'Showing ' + shown + ' of ' + total + ' ' + label : '';
+    } catch (_e) { /* never throw */ }
+  }
+
+  function showState(title, text, showReset) {
+    try {
+      stateTitle.textContent = title;
+      stateText.textContent = text;
+      stateBtn.hidden = !showReset;
+      stateBox.hidden = false;
+    } catch (_e) { /* never throw */ }
+  }
+  function hideState() { try { stateBox.hidden = true; } catch (_e) {} }
+
+  function renderBatch() {
+    try {
+      hideState();
+      loadwrap.innerHTML = '';
+      var start = state.shown, end = Math.min(state.shown + PAGE_SIZE, state.refs.length);
+      if (start >= state.refs.length) {
+        updateCount();
+        if (!state.refs.length) {
+          if (state.bootFailed) {
+            showState('We couldn\u2019t load the collection', 'Something went wrong fetching the catalog. Check your connection and try again.', true);
+          } else {
+            showState('No watches match your filters', 'Try another category or brand — the full collection is just a tap away.', true);
+          }
+        } else {
+          updateCount();
+        }
+        return;
+      }
+
+      /* render placeholders immediately so the grid doesn't jump */
+      var slice = state.refs.slice(start, end);
+      var cards = [];
+      slice.forEach(function (r, i) {
+        var ph = el('div', 'twc-card');
+        ph.setAttribute('data-ph', String(i));
+        grid.appendChild(ph);
+        cards.push(ph);
+      });
+      updateCount();
+
+      /* fetch only the brand files needed for this batch */
+      state.shown = end;
+      updateCount();
+      var byBrand = {};
+      slice.forEach(function (r) { (byBrand[r.brandKey] = byBrand[r.brandKey] || []).push(r); });
+      var keys = Object.keys(byBrand);
+      Promise.all(keys.map(function (k) {
+        return getBrandData(k).catch(function () { return null; });
+      })).then(function () {
+        try {
+          /* replace placeholders with real cards */
+          var frag = document.createDocumentFragment();
+          slice.forEach(function (r) {
+            var d = state.itemData[r.brandKey];
+            var item = d && d.items && d.items[r.n - 1];
+            var brandEntry = { brand: r.brandName, brandKey: r.brandKey, items: d && d.items ? d.items : [] };
+            if (item) {
+              frag.appendChild(TWCSHOP.renderCard(item, brandEntry, r.n));
+            } else {
+              /* brand file missing / item gone: still show a graceful card */
+              var fallback = el('a', 'twc-card');
+              fallback.href = TWCSHOP.itemURL(r.brandKey, r.n);
+              var im = el('div', 'twc-card-img twc-img-missing'); fallback.appendChild(im);
+              var bd = el('div', 'twc-card-body');
+              bd.appendChild(el('div', 'twc-card-brand', r.brandName || 'The Wrist Club'));
+              bd.appendChild(el('div', 'twc-card-name', 'Timepiece'));
+              bd.appendChild(el('div', 'twc-card-ourprice', 'Price on Request'));
+              fallback.appendChild(bd);
+              frag.appendChild(fallback);
+            }
+          });
+          cards.forEach(function (ph) { try { ph.remove(); } catch (_e) {} });
+          grid.appendChild(frag);
+          var fresh = Array.prototype.slice.call(grid.children).slice(-slice.length);
+          fresh.forEach(function (c, ci) { try { c.style.animationDelay = (ci % 24) * 35 + 'ms'; } catch (_e) {} });
+          if (state.shown < state.refs.length) {
+            var more = el('button', 'twc-loadmore', 'Load more');
+            loadwrap.appendChild(more);
+          }
+        } catch (_e) { /* never throw */ }
+      });
+    } catch (e) {
+      try { showState('We couldn\u2019t load the collection', 'Something went wrong. Please try again.', true); } catch (_e2) {}
+    }
+  }
+
+  function rerender() {
+    try {
+      state.refs = buildRefs();
+      state.shown = 0;
+      grid.innerHTML = '';
+      renderBatch();
+    } catch (_e) { /* never throw */ }
+  }
+
+  /* ---------- events ---------- */
+
+  function wire() {
+    try {
+      cats.addEventListener('click', function (ev) {
+        try {
+          var t = ev.target.closest && ev.target.closest('.twc-cat');
+          if (!t) return;
+          state.cat = t.getAttribute('data-filter') || 'all';
+          state.brand = 'all';
+          renderCats(); renderBrandPills(); rerender();
+        } catch (_e) {}
+      });
+      brandrow.addEventListener('click', function (ev) {
+        try {
+          var p = ev.target.closest && ev.target.closest('.twc-bpill');
+          if (!p) return;
+          state.brand = p.getAttribute('data-brand') || 'all';
+          renderBrandPills(); rerender();
+        } catch (_e) {}
+      });
+      sortSel.addEventListener('change', function () {
+        try { state.sort = sortSel.value || 'brand'; rerender(); } catch (_e) {}
+      });
+      loadwrap.addEventListener('click', function (ev) {
+        try {
+          if (ev.target.closest && ev.target.closest('.twc-loadmore')) renderBatch();
+        } catch (_e) {}
+      });
+      stateBtn.addEventListener('click', function () {
+        try {
+          state.cat = 'all'; state.brand = 'all';
+          renderCats(); renderBrandPills(); rerender();
+        } catch (_e) {}
+      });
+    } catch (_e) { /* never throw */ }
+  }
+
+  /* ---------- boot ---------- */
+
+  function boot() {
+    try {
+      grid = $('twc-grid'); cats = $('twc-cats'); brandrow = $('twc-brandrow');
+      sortSel = $('twc-sort'); countEl = $('twc-count'); loadwrap = $('twc-loadwrap');
+      stateBox = $('twc-state'); stateTitle = $('twc-state-title'); stateText = $('twc-state-text');
+      stateBtn = $('twc-state-btn'); heroSub = $('twc-hero-sub');
+      if (!grid || !cats) return;
+
+      /* lift the sticky filter bar to <body> so it can stick beyond its short parent */
+      try {
+        var bar = document.querySelector('.twc-controls-top');
+        if (bar && bar.parentElement !== document.body) {
+          var ctl = document.querySelector('section.twc-controls');
+          document.body.insertBefore(bar, ctl);
+        }
+      } catch (_e) {}
+
+      var params = TWCSHOP.parseParams(window.location.search);
+      state.cat = params.cat; state.brand = params.brand; state.sort = params.sort;
+      sortSel.value = state.sort === 'name' || state.sort === 'price' ? state.sort : 'brand';
+
+      renderCats();
+      wire();
+
+      TWCSHOP.loadIndex().then(function (index) {
+        try {
+          state.index = index;
+          var total = 0;
+          index.forEach(function (b) { total += (typeof b.count === 'number' && b.count > 0) ? b.count : 0; });
+          heroSub.textContent = total + '+ watches, ' + index.length + '+ brands — every piece photographed in-house.';
+          /* if ?brand= points at a brand outside ?cat=, keep the brand (it wins) */
+          renderBrandPills();
+          rerender();
+        } catch (_e) { /* never throw */ }
+      }).catch(function () {
+        state.bootFailed = true;
+        try { showState('We couldn\u2019t load the collection', 'The catalog is unavailable right now. Please try again.', true); } catch (_e2) {}
+      });
+    } catch (_e) { /* never throw */ }
+  }
+
+  window.__twcCatalog = state;
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
+  else boot();
+})();
+</script>
+</body>
+</html>

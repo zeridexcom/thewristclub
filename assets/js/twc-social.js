@@ -67,8 +67,8 @@
       if (!it) return;
       var city = CITIES[Math.floor(Math.random() * CITIES.length)];
       var mins = 2 + Math.floor(Math.random() * 22);
-      var href = 'product.html?p=' + encodeURIComponent(it.brand && it.id ? it.brand : '') ;
-      href = 'catalog.html'; /* tapping opens the collection — safest target */
+      var href = 'product/?p=' + encodeURIComponent(it.brand && it.id ? it.brand : '') ;
+      href = 'catalog/'; /* tapping opens the collection — safest target */
       var text = 'Someone in <b>' + city + '</b> recently enquired about the <b>' + escapeHtml(shortName(it)) + '</b>';
       if (!el) {
         el = document.createElement('a');

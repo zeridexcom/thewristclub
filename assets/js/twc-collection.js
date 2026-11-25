@@ -2,8 +2,8 @@
  * THEWRISTCLUB — Home-page "Our Collection" section (Amazon-style shop front).
  * Injects a limited, curated front into index.html — NEVER the full 1,247 cards:
  *   - heading + sub
- *   - shop-by-category tiles (For Him / For Her / Unisex) -> catalog.html?cat=
- *   - Top Brands (up to 12, by largest count) -> catalog.html?brand=
+ *   - shop-by-category tiles (For Him / For Her / Unisex) -> catalog/?cat=
+ *   - Top Brands (up to 12, by largest count) -> catalog/?brand=
  *   - Featured Watches (horizontal strip, 8 items across a few brands) -> product pages
  *   - "View Full Collection" button -> catalog.html
  * Vanilla JS, idempotent, never throws. Exposes window.__twcCollection.
@@ -110,7 +110,7 @@
         });
         if (!first) return; /* category empty in data — skip defensively */
         var a = el('a', 'twc-col-cat');
-        a.href = 'catalog.html?cat=' + c.key;
+        a.href = 'catalog/?cat=' + c.key;
         if (first.cover) {
           var img = document.createElement('img');
           img.loading = 'lazy'; img.decoding = 'async'; img.alt = c.label + ' watches';
@@ -139,7 +139,7 @@
       var row = el('div', 'twc-col-brands');
       brands.forEach(function (b) {
         var a = el('a', 'twc-col-brandtile');
-        a.href = 'catalog.html?brand=' + encodeURIComponent(b.brandKey);
+        a.href = 'catalog/?brand=' + encodeURIComponent(b.brandKey);
         if (b.cover) {
           var img = document.createElement('img');
           img.loading = 'lazy'; img.decoding = 'async'; img.alt = b.brand + ' watches';
@@ -214,7 +214,7 @@
       brandTiles(inner, index);
       if (window.TWCSHOP) featuredStrip(inner, index);
       var cta = el('a', 'twc-col-cta', 'View Full Collection \u2192');
-      cta.href = 'catalog.html';
+      cta.href = 'catalog/';
       inner.appendChild(cta);
     } catch (_e) { /* never throw */ }
   }
