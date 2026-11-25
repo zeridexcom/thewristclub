@@ -1,0 +1,2 @@
+import{a as c}from"/assets/js/chunk-SWYZG2NI-441714db.js";import{e as i}from"/assets/js/chunk-WLHSDIGQ-997a23cc.js";var l=i(c()),s=new WeakMap,n=null;function b(){return n||(n=new ResizeObserver(r=>{for(let t of r){let e=s.get(t.target);e&&e(t.target)}})),n}function f(r,t){(0,l.useEffect)(()=>{let e=r.current;if(!e)return;let o=b();return s.set(e,t),o.observe(e),()=>{o.unobserve(e),s.delete(e)}},[r,t])}export{f as a};
+//# sourceMappingURL=/assets/js/chunk-BLSKQ6TG-8b089243.js.map

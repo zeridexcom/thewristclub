@@ -1,0 +1,103 @@
+{
+ "brand": "Budget Automatics",
+ "brandKey": "cartier-patek-breitling-budget-automatic",
+ "category": "unisex",
+ "cover": "assets/collection/Cartier PATEK Breitling Budget Automatic/PHOTO-2024-11-30-07-55-08.jpg.jpg",
+ "items": [
+  {
+   "id": "cartier-patek-breitling-budget-automatic-1",
+   "name": "Budget Automatic Open-Heart (White Dial, Brown Leather, Moonphase)",
+   "images": [
+    "assets/collection/Cartier PATEK Breitling Budget Automatic/PHOTO-2024-11-30-07-55-08.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Automatic styling with a skeletonised heart: white dial, a brown leather, and a moonphase finish.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/cartier-patek-breitling-budget-automatic/PHOTO-2024-11-30-07-55-08.jpg.jpg"
+  },
+  {
+   "id": "cartier-patek-breitling-budget-automatic-2",
+   "name": "Budget Automatic Skeleton (Open-Heart, Rose-Gold)",
+   "images": [
+    "assets/collection/Cartier PATEK Breitling Budget Automatic/PHOTO-2024-11-30-07-55-08__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and an open-heart finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Skeleton",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/cartier-patek-breitling-budget-automatic/PHOTO-2024-11-30-07-55-08__2.jpg.jpg"
+  },
+  {
+   "id": "cartier-patek-breitling-budget-automatic-3",
+   "name": "Budget Automatic Skeleton Chronograph-Style (White Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Cartier PATEK Breitling Budget Automatic/PHOTO-2024-11-30-07-55-09.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, its signature strap, and a rose-gold finish.",
+   "specs": {
+    "Movement": "Automatic Skeleton",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/cartier-patek-breitling-budget-automatic/PHOTO-2024-11-30-07-55-09.jpg.jpg"
+  },
+  {
+   "id": "cartier-patek-breitling-budget-automatic-4",
+   "name": "Budget Automatic Open-Heart (White Dial, Silver Case)",
+   "images": [
+    "assets/collection/Cartier PATEK Breitling Budget Automatic/PHOTO-2024-11-30-07-55-09__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A detailed open-heart automatic look \u2014 white dial with visible movement, its signature strap, a silver case finish.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/cartier-patek-breitling-budget-automatic/PHOTO-2024-11-30-07-55-09__2.jpg.jpg"
+  },
+  {
+   "id": "cartier-patek-breitling-budget-automatic-5",
+   "name": "Budget Automatic Skeleton (White Dial, Brown Leather)",
+   "images": [
+    "assets/collection/Cartier PATEK Breitling Budget Automatic/PHOTO-2024-11-30-07-55-10.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a brown leather, and a premium finish.",
+   "specs": {
+    "Movement": "Automatic Skeleton",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/cartier-patek-breitling-budget-automatic/PHOTO-2024-11-30-07-55-10.jpg.jpg"
+  }
+ ]
+}

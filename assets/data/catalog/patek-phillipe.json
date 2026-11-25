@@ -1,0 +1,160 @@
+{
+ "brand": "Patek phillipe",
+ "brandKey": "patek-phillipe",
+ "category": "unisex",
+ "cover": "assets/collection/Patek phillipe/IMG-20240119-WA0002.jpg.jpg",
+ "items": [
+  {
+   "id": "patek-phillipe-1",
+   "name": "Patek-Style Skeleton Automatic (Rose-Gold, Brown Leather)",
+   "images": [
+    "assets/collection/Patek phillipe/IMG-20240119-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "An ornately engraved open-worked dial with blued starry moonphase aperture, Roman chapter ring and rose-gold case on brown alligator leather.",
+   "specs": {
+    "Movement": "Automatic skeleton",
+    "Case": "Rose-gold-tone stainless steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/patek-phillipe/IMG-20240119-WA0002.jpg.jpg"
+  },
+  {
+   "id": "patek-phillipe-2",
+   "name": "Patek-Style Nautilus Skeleton (Steel, Blue Dial)",
+   "images": [
+    "assets/collection/Patek phillipe/IMG-20240328-WA0014.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "The iconic horizontally-embossed octagonal case in steel, with a fully skeletonised movement framed in blue and an integrated steel bracelet.",
+   "specs": {
+    "Movement": "Automatic skeleton",
+    "Case": "Stainless steel",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/patek-phillipe/IMG-20240328-WA0014.jpg.jpg"
+  },
+  {
+   "id": "patek-phillipe-3",
+   "name": "Patek-Style Skeleton Automatic (Rose-Gold, Black Open-Dial)",
+   "images": [
+    "assets/collection/Patek phillipe/IMG-20240424-WA0009.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A rose-gold case surrounds a black open-dial with Calatrava-cross skeleton centre, Roman numerals and blued hands on black leather.",
+   "specs": {
+    "Movement": "Automatic skeleton",
+    "Case": "Rose-gold-tone stainless steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/patek-phillipe/IMG-20240424-WA0009.jpg.jpg"
+  },
+  {
+   "id": "patek-phillipe-4",
+   "name": "Patek-Style Nautilus Chronograph (Two-Tone Rose-Gold, Blue Dial)",
+   "images": [
+    "assets/collection/Patek phillipe/IMG-20250611-WA0007.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A rose-gold bezel over a steel case, blue horizontally-embossed dial with a large chronograph register and date, on a two-tone integrated bracelet.",
+   "specs": {
+    "Movement": "Automatic chronograph",
+    "Case": "Two-tone steel & rose-gold",
+    "Diameter": "40mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/patek-phillipe/IMG-20250611-WA0007.jpg.jpg"
+  },
+  {
+   "id": "patek-phillipe-5",
+   "name": "Patek-Style Nautilus Chronograph (Steel, Blue Dial)",
+   "images": [
+    "assets/collection/Patek phillipe/IMG-20250614-WA0010.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "Full-steel Nautilus-style chronograph with blue embossed dial, white sub-register with red accents and luminous baton hands.",
+   "specs": {
+    "Movement": "Automatic chronograph",
+    "Case": "Stainless steel",
+    "Diameter": "40mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/patek-phillipe/IMG-20250614-WA0010.jpg.jpg"
+  },
+  {
+   "id": "patek-phillipe-6",
+   "name": "Datejust-Style Two-Tone Chronograph (Black Diamond Dial)",
+   "images": [
+    "assets/collection/Patek phillipe/IMG_20240424_182038_629.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A fluted gold bezel over black dial with diamond-set hour markers, cyclops date and two-tone jubilee-style bracelet.",
+   "specs": {
+    "Movement": "Quartz three-hand",
+    "Case": "Two-tone stainless steel",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/patek-phillipe/IMG_20240424_182038_629.jpg.jpg"
+  },
+  {
+   "id": "patek-phillipe-7",
+   "name": "Patek-Style Skeleton (Steel, Black Dial)",
+   "images": [
+    "assets/collection/Patek phillipe/IMG_20240505_160901_198.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A crisp steel skeleton with black open-worked dial presented in a lacquered display box with full presentation set.",
+   "specs": {
+    "Movement": "Automatic skeleton",
+    "Case": "Stainless steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/patek-phillipe/IMG_20240505_160901_198.jpg.jpg"
+  },
+  {
+   "id": "patek-phillipe-8",
+   "name": "Patek-Style Grand Complication Open-Dial (Rose-Gold)",
+   "images": [
+    "assets/collection/Patek phillipe/IMG_20240521_120736_264.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A cream guilloche dial with Roman numerals, oversize date and visible tourbillon-style escapement, cased in rose gold on brown leather.",
+   "specs": {
+    "Movement": "Automatic open-dial complication",
+    "Case": "Rose-gold-tone stainless steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/patek-phillipe/IMG_20240521_120736_264.jpg.jpg"
+  }
+ ]
+}

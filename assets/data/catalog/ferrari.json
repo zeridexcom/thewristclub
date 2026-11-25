@@ -1,0 +1,65 @@
+{
+ "brand": "Ferrari",
+ "brandKey": "ferrari",
+ "category": "unisex",
+ "cover": "assets/collection/Ferrari/IMG-20231205-WA0002.jpg.jpg",
+ "items": [
+  {
+   "id": "ferrari-1",
+   "name": "Scuderia Ferrari Pista Chronograph (Yellow Strap, Black Case)",
+   "images": [
+    "assets/collection/Ferrari/IMG-20231205-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a yellow strap; the Ferrari signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Ion-Plated Steel",
+    "Diameter": "44mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/ferrari/IMG-20231205-WA0002.jpg.jpg"
+  },
+  {
+   "id": "ferrari-2",
+   "name": "Scuderia Ferrari Pista Chronograph (Red Accents, Black Case)",
+   "images": [
+    "assets/collection/Ferrari/IMG-20240203-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Ion-Plated Steel",
+    "Diameter": "44mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/ferrari/IMG-20240203-WA0002.jpg.jpg"
+  },
+  {
+   "id": "ferrari-3",
+   "name": "Scuderia Ferrari Pista Chronograph (Red Dial, Black Case)",
+   "images": [
+    "assets/collection/Ferrari/IMG_20231120_155358_178.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 25995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a red dial and its signature strap, finished in a black case finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Ion-Plated Steel",
+    "Diameter": "44mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/ferrari/IMG_20231120_155358_178.jpg.jpg"
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "brand": "Omega",
+ "brandKey": "omega",
+ "category": "unisex",
+ "cover": "assets/collection/Omega/IMG-20231205-WA0005.jpg.jpg",
+ "items": [
+  {
+   "id": "omega-1",
+   "name": "Omega Seamaster Aqua Terra Master Chronometer (Rose-Gold, Blue Rubber)",
+   "images": [
+    "assets/collection/Omega/IMG-20231205-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1400000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Teal-blue vertical-teak dial framed in rose gold, luminous sail hands and a textured blue rubber strap \u2014 150 metres of sportive elegance.",
+   "specs": {
+    "Movement": "Automatic (Co-Axial Master Chronometer)",
+    "Case": "Steel & rose-gold-tone",
+    "Diameter": "41mm",
+    "Water Resistance": "15 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20231205-WA0005.jpg.jpg"
+  },
+  {
+   "id": "omega-2",
+   "name": "Omega Seamaster Diver 300M (Black Dial)",
+   "images": [
+    "assets/collection/Omega/IMG-20240208-WA0019.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 606100,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The Bond diver \u2014 black wave dial, black ceramic wave-pattern bezel, helium valve and a steel bracelet, rated to 300 metres.",
+   "specs": {
+    "Movement": "Automatic (Co-Axial Master Chronometer)",
+    "Case": "Stainless steel",
+    "Diameter": "42mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20240208-WA0019.jpg.jpg"
+  },
+  {
+   "id": "omega-3",
+   "name": "Omega Seamaster Diver 300M (Blue Dial)",
+   "images": [
+    "assets/collection/Omega/IMG-20240221-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 606100,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Deep blue wave dial and matching blue ceramic bezel with white dive scale, on a robust steel bracelet rated to 300 metres.",
+   "specs": {
+    "Movement": "Automatic (Co-Axial Master Chronometer)",
+    "Case": "Stainless steel",
+    "Diameter": "42mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20240221-WA0000.jpg.jpg"
+  },
+  {
+   "id": "omega-4",
+   "name": "Omega Seamaster Diver 300M (Grey Dial, Blue Bezel)",
+   "images": [
+    "assets/collection/Omega/IMG-20240221-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 715000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A smoked grey wave dial under a glossy blue ceramic bezel \u2014 the celebrated 'No Time To Die' aesthetic on a full steel bracelet.",
+   "specs": {
+    "Movement": "Automatic (Co-Axial Master Chronometer)",
+    "Case": "Stainless steel",
+    "Diameter": "42mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20240221-WA0002.jpg.jpg"
+  },
+  {
+   "id": "omega-5",
+   "name": "Omega Seamaster Diver 300M (Green Dial, Green Bezel)",
+   "images": [
+    "assets/collection/Omega/IMG-20240221-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 606100,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Emerald wave dial with matching green ceramic bezel and date at 6 o'clock, finished on a polished steel bracelet.",
+   "specs": {
+    "Movement": "Automatic (Co-Axial Master Chronometer)",
+    "Case": "Stainless steel",
+    "Diameter": "42mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20240221-WA0005.jpg.jpg"
+  },
+  {
+   "id": "omega-6",
+   "name": "Omega Seamaster Aqua Terra Worldtimer (Blue Rubber)",
+   "images": [
+    "assets/collection/Omega/IMG-20240229-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1047100,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A photorealistic miniature Earth at the heart of a blue worldtimer dial, with 24-city GMT ring and a blue rubber strap.",
+   "specs": {
+    "Movement": "Automatic worldtimer",
+    "Case": "Stainless steel",
+    "Diameter": "43mm",
+    "Water Resistance": "15 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20240229-WA0004.jpg.jpg"
+  },
+  {
+   "id": "omega-7",
+   "name": "Omega Speedmaster Master Chronometer (Rose-Gold, Green Dial)",
+   "images": [
+    "assets/collection/Omega/IMG-20240229-WA0009.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1800000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A racing-style green dial with twin snailed sub-registers, rose-gold case and tachymetre-flanged bezel on green leather.",
+   "specs": {
+    "Movement": "Automatic chronograph (Co-Axial Master Chronometer)",
+    "Case": "Steel & rose-gold-tone",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20240229-WA0009.jpg.jpg"
+  },
+  {
+   "id": "omega-8",
+   "name": "Omega Seamaster Aqua Terra 150M (Black Dial, Steel)",
+   "images": [
+    "assets/collection/Omega/IMG-20240302-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 660000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Black vertical-teak dial with silver-teak indices and gold-tipped sail hands on a brushed steel bracelet, water resistant to 150 metres.",
+   "specs": {
+    "Movement": "Automatic (Co-Axial Master Chronometer)",
+    "Case": "Stainless steel",
+    "Diameter": "41mm",
+    "Water Resistance": "15 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20240302-WA0002.jpg.jpg"
+  },
+  {
+   "id": "omega-9",
+   "name": "Omega Seamaster Aqua Terra Worldtimer (Green Rubber)",
+   "images": [
+    "assets/collection/Omega/IMG-20240320-WA0022.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1047100,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A moss-green worldtimer with illuminated Earth centrepiece, bronze-toned hands and city ring on a textured green rubber strap.",
+   "specs": {
+    "Movement": "Automatic worldtimer",
+    "Case": "Stainless steel",
+    "Diameter": "43mm",
+    "Water Resistance": "15 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20240320-WA0022.jpg.jpg"
+  },
+  {
+   "id": "omega-10",
+   "name": "Omega Seamaster Diver 300M (Rose-Gold Bezel, Black Rubber)",
+   "images": [
+    "assets/collection/Omega/IMG-20240927-WA0009.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1020000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Black wave dial under a rose-gold-toned ceramic bezel with Sedna-style indices, on a black rubber strap rated to 300 metres.",
+   "specs": {
+    "Movement": "Automatic (Co-Axial Master Chronometer)",
+    "Case": "Steel & rose-gold-tone",
+    "Diameter": "42mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20240927-WA0009.jpg.jpg"
+  },
+  {
+   "id": "omega-11",
+   "name": "MoonSwatch Speedmaster Moonwatch (White Bioceramic)",
+   "images": [
+    "assets/collection/Omega/IMG-20241222-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27500,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The cult Omega x Swatch MoonSwatch in white bioceramic, black tachymeter bezel and tricompax dial on a black strap.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Bioceramic",
+    "Diameter": "42mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20241222-WA0002.jpg.jpg"
+  },
+  {
+   "id": "omega-12",
+   "name": "Omega Seamaster Aqua Terra 150M (Black Dial, Steel)",
+   "images": [
+    "assets/collection/Omega/IMG-20250116-WA0019.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 660000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The classic 41mm Aqua Terra \u2014 black teak-pattern dial, tapering steel bracelet and 150-metre water resistance.",
+   "specs": {
+    "Movement": "Automatic (Co-Axial Master Chronometer)",
+    "Case": "Stainless steel",
+    "Diameter": "41mm",
+    "Water Resistance": "15 ATM"
+   },
+   "thumb": "assets/collection-thumbs/omega/IMG-20250116-WA0019.jpg.jpg"
+  }
+ ]
+}

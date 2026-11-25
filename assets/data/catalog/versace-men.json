@@ -1,0 +1,84 @@
+{
+ "brand": "Versace",
+ "brandKey": "versace-men",
+ "category": "him",
+ "cover": "assets/collection/Versace men/IMG-20240406-WA0004.jpg.jpg",
+ "items": [
+  {
+   "id": "versace-men-1",
+   "name": "Versace Greca Chronograph (Blue Ion-Plated)",
+   "images": [
+    "assets/collection/Versace men/IMG-20240406-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 145800,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An ion-plated blue Versace chronograph with Greca-engraved bezel, date window and matching blue bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/versace-men/IMG-20240406-WA0004.jpg.jpg"
+  },
+  {
+   "id": "versace-men-2",
+   "name": "Versace Greca Chronograph (Gold-Tone)",
+   "images": [
+    "assets/collection/Versace men/IMG-20251113-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 145800,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A fully gold-tone Versace chronograph carrying the signature Greca-engraved bezel and a sunray champagne dial.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/versace-men/IMG-20251113-WA0005.jpg.jpg"
+  },
+  {
+   "id": "versace-men-3",
+   "name": "Versace Sport Chronograph (All-Black)",
+   "images": [
+    "assets/collection/Versace men/IMG_20240616_090337_163.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 145800,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A stealth all-black Versace chronograph with VERSACE-engraved bezel, triple sub-dials and matching black bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/versace-men/IMG_20240616_090337_163.jpg.jpg"
+  },
+  {
+   "id": "versace-men-4",
+   "name": "Versace Sport Chronograph (Two-Tone Rose Gold)",
+   "images": [
+    "assets/collection/Versace men/IMG_20240707_211115_355.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 145800,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A two-tone Versace chronograph blending steel and rose gold, with a silver dial, triple sub-dials and Greca-engraved bezel.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel and Rose-Gold-Tone Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/versace-men/IMG_20240707_211115_355.jpg.jpg"
+  }
+ ]
+}

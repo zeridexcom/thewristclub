@@ -1,0 +1,825 @@
+{
+ "brand": "Casio",
+ "brandKey": "casio",
+ "category": "unisex",
+ "cover": "assets/collection/Casio/0a790f42-be5c-456d-a007-1fa16605d859.JPG.jpg",
+ "items": [
+  {
+   "id": "casio-1",
+   "name": "Casio Edifice Chronograph (All-Black, Steel Bracelet)",
+   "images": [
+    "assets/collection/Casio/0a790f42-be5c-456d-a007-1fa16605d859.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a steel bracelet; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/0a790f42-be5c-456d-a007-1fa16605d859.JPG.jpg"
+  },
+  {
+   "id": "casio-2",
+   "name": "Casio Edifice Chronograph (Black & Gold-Tone)",
+   "images": [
+    "assets/collection/Casio/145c4c92-addd-4dbd-88c5-1de306e381bf.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/145c4c92-addd-4dbd-88c5-1de306e381bf.JPG.jpg"
+  },
+  {
+   "id": "casio-3",
+   "name": "Casio Edifice Chronograph (Black Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Casio/18c3c714-ddb1-4f07-a761-892f3df904ad.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a black dial and a steel bracelet, finished in a premium finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/18c3c714-ddb1-4f07-a761-892f3df904ad.JPG.jpg"
+  },
+  {
+   "id": "casio-4",
+   "name": "Casio Edifice Chronograph (Black & Rose-Gold)",
+   "images": [
+    "assets/collection/Casio/197ec049-27a5-40a5-a092-05502bf4769a.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and its signature strap; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/197ec049-27a5-40a5-a092-05502bf4769a.JPG.jpg"
+  },
+  {
+   "id": "casio-5",
+   "name": "Casio Edifice Chronograph (Black & Gold, Black Bracelet)",
+   "images": [
+    "assets/collection/Casio/2a95ad20-6f2d-411f-ac54-5c7a778f7ed0.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on a black bracelet, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/2a95ad20-6f2d-411f-ac54-5c7a778f7ed0.JPG.jpg"
+  },
+  {
+   "id": "casio-6",
+   "name": "Casio Edifice Chronograph (Silver-White Dial)",
+   "images": [
+    "assets/collection/Casio/332819e8-1ac6-4518-a6c0-e4b2e083e386.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a silver-white dial and its signature strap, finished in a premium finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/332819e8-1ac6-4518-a6c0-e4b2e083e386.JPG.jpg"
+  },
+  {
+   "id": "casio-7",
+   "name": "Casio Edifice Chronograph (Black & Gold-Tone Bracelet)",
+   "images": [
+    "assets/collection/Casio/3a2fab94-5a86-47c9-a6cd-499d2c5e2a24.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a black & gold-tone bracelet; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/3a2fab94-5a86-47c9-a6cd-499d2c5e2a24.JPG.jpg"
+  },
+  {
+   "id": "casio-8",
+   "name": "Casio Edifice Chronograph (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/Casio/4bbe20e9-2fce-48af-8e62-1f3a237f2f17.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: black chronograph dial on a black leather, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/4bbe20e9-2fce-48af-8e62-1f3a237f2f17.JPG.jpg"
+  },
+  {
+   "id": "casio-9",
+   "name": "Casio Edifice Chronograph (Black Dial, Leather Strap)",
+   "images": [
+    "assets/collection/Casio/5310d827-2cb5-4911-88a9-19c8801a6711.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a black dial and a leather strap, finished in a premium finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/5310d827-2cb5-4911-88a9-19c8801a6711.JPG.jpg"
+  },
+  {
+   "id": "casio-10",
+   "name": "Casio Edifice Chronograph (White Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Casio/56223dc5-b1fa-446a-b57a-55c40769cb49.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a white dial and a steel bracelet; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/56223dc5-b1fa-446a-b57a-55c40769cb49.JPG.jpg"
+  },
+  {
+   "id": "casio-11",
+   "name": "Casio Edifice Chronograph (Blue & Silver)",
+   "images": [
+    "assets/collection/Casio/59f4e1b5-e62f-446b-9cd6-541dc1c92102.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/59f4e1b5-e62f-446b-9cd6-541dc1c92102.JPG.jpg"
+  },
+  {
+   "id": "casio-12",
+   "name": "Casio Edifice Chronograph (Black & Blue Accents)",
+   "images": [
+    "assets/collection/Casio/73149558-2f37-408a-bce3-8e93c57243ed.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and its signature strap, finished in a black & blue accents finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/73149558-2f37-408a-bce3-8e93c57243ed.JPG.jpg"
+  },
+  {
+   "id": "casio-13",
+   "name": "Casio Edifice Chronograph (Two-Tone, Grey Dial)",
+   "images": [
+    "assets/collection/Casio/8946447a-b58b-49f3-b201-21f277c3785a.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a grey dial and its signature strap; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/8946447a-b58b-49f3-b201-21f277c3785a.JPG.jpg"
+  },
+  {
+   "id": "casio-14",
+   "name": "Casio Edifice Chronograph (Black & Red Accents)",
+   "images": [
+    "assets/collection/Casio/8f8378f5-a751-4a7b-a406-1f195266f2cb.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/8f8378f5-a751-4a7b-a406-1f195266f2cb.JPG.jpg"
+  },
+  {
+   "id": "casio-15",
+   "name": "Casio Edifice Chronograph (Two-Tone Gold/Silver)",
+   "images": [
+    "assets/collection/Casio/9f6b8a41-f3e1-4b5f-b53a-6108dce90043.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and its signature strap, finished in a two-tone gold/silver finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/9f6b8a41-f3e1-4b5f-b53a-6108dce90043.JPG.jpg"
+  },
+  {
+   "id": "casio-16",
+   "name": "Casio Edifice Chronograph (Gold-Tone, Black Dial)",
+   "images": [
+    "assets/collection/Casio/Casio EFR 540 1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a black dial and its signature strap; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/Casio EFR 540 1.jpg.jpg"
+  },
+  {
+   "id": "casio-17",
+   "name": "Casio Edifice Chronograph (Blue Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Casio/Casio EFR 540 2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: blue chronograph dial on a steel bracelet, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/Casio EFR 540 2.jpg.jpg"
+  },
+  {
+   "id": "casio-18",
+   "name": "Casio Edifice Chronograph (Black & Gold, Leather Strap)",
+   "images": [
+    "assets/collection/Casio/IMG-20231205-WA0007.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and a leather strap, finished in a black & gold finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/IMG-20231205-WA0007.jpg.jpg"
+  },
+  {
+   "id": "casio-19",
+   "name": "Casio Edifice Chronograph (Gold-Tone, Skeleton-Style Dial)",
+   "images": [
+    "assets/collection/Casio/IMG-20240921-WA0018.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a skeleton-style dial and its signature strap; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/IMG-20240921-WA0018.jpg.jpg"
+  },
+  {
+   "id": "casio-20",
+   "name": "Casio Edifice Chronograph (Navy Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Casio/IMG-20241117-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: navy chronograph dial on a steel bracelet, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/IMG-20241117-WA0001.jpg.jpg"
+  },
+  {
+   "id": "casio-21",
+   "name": "Casio Edifice Chronograph (Two-Tone, Black Dial)",
+   "images": [
+    "assets/collection/Casio/IMG_20210604_143829_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a black dial and its signature strap, finished in a two-tone finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/IMG_20210604_143829_1.jpg.jpg"
+  },
+  {
+   "id": "casio-22",
+   "name": "Casio Edifice Chronograph (Black & Gold Leather)",
+   "images": [
+    "assets/collection/Casio/IMG_20210609_150625_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a black & gold leather; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/IMG_20210609_150625_1.jpg.jpg"
+  },
+  {
+   "id": "casio-23",
+   "name": "Casio Vintage Digital (Rose-Gold Case, White Dial)",
+   "images": [
+    "assets/collection/Casio/IMG_20240331_132725_895.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 9995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 white dial with its signature strap, the signature Casio silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Digital Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/IMG_20240331_132725_895.jpg.jpg"
+  },
+  {
+   "id": "casio-24",
+   "name": "Casio Edifice Chronograph (Black & Blue Leather)",
+   "images": [
+    "assets/collection/Casio/IMG_4678.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and a black & blue leather, finished in a premium finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/IMG_4678.jpg.jpg"
+  },
+  {
+   "id": "casio-25",
+   "name": "Casio Edifice Chronograph (Gold & Black)",
+   "images": [
+    "assets/collection/Casio/IMG_4679.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and its signature strap; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/IMG_4679.jpg.jpg"
+  },
+  {
+   "id": "casio-26",
+   "name": "Casio Edifice Chronograph (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/Casio/PHOTO-2021-03-14-13-07-11.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: black chronograph dial on a black leather, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/PHOTO-2021-03-14-13-07-11.jpg.jpg"
+  },
+  {
+   "id": "casio-27",
+   "name": "Casio Edifice Chronograph (Black & Rose-Gold Leather)",
+   "images": [
+    "assets/collection/Casio/PHOTO-2021-03-14-13-07-11__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and a black & rose-gold leather, finished in a premium finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/PHOTO-2021-03-14-13-07-11__2.jpg.jpg"
+  },
+  {
+   "id": "casio-28",
+   "name": "Casio Edifice Chronograph (White Subdials, Black Leather)",
+   "images": [
+    "assets/collection/Casio/PHOTO-2021-03-14-13-07-11__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a black leather; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/PHOTO-2021-03-14-13-07-11__3.jpg.jpg"
+  },
+  {
+   "id": "casio-29",
+   "name": "Casio Edifice Chronograph (Black & Gold, Brown Leather)",
+   "images": [
+    "assets/collection/Casio/PHOTO-2021-03-14-13-07-11__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on a brown leather, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/PHOTO-2021-03-14-13-07-11__4.jpg.jpg"
+  },
+  {
+   "id": "casio-30",
+   "name": "Casio Edifice Chronograph (Blue Accents, Black Leather)",
+   "images": [
+    "assets/collection/Casio/PHOTO-2021-03-14-13-07-11__5.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and a black leather, finished in a blue accents finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/PHOTO-2021-03-14-13-07-11__5.jpg.jpg"
+  },
+  {
+   "id": "casio-31",
+   "name": "Casio Edifice Chronograph (Gold-Tone, Brown Leather)",
+   "images": [
+    "assets/collection/Casio/PHOTO-2021-03-14-13-07-11__6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a brown leather; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/PHOTO-2021-03-14-13-07-11__6.jpg.jpg"
+  },
+  {
+   "id": "casio-32",
+   "name": "Casio Edifice Chronograph (Blue & Silver Bracelet)",
+   "images": [
+    "assets/collection/Casio/a8cb2666-1c0e-4428-8bbf-81b696b1f6ec.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on a blue & silver bracelet, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/a8cb2666-1c0e-4428-8bbf-81b696b1f6ec.JPG.jpg"
+  },
+  {
+   "id": "casio-33",
+   "name": "Casio Edifice Chronograph (White Dial, Black Accents)",
+   "images": [
+    "assets/collection/Casio/ae9790fb-651d-4a3b-9911-9eb9f2199236.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a white dial and its signature strap, finished in a black accents finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/ae9790fb-651d-4a3b-9911-9eb9f2199236.JPG.jpg"
+  },
+  {
+   "id": "casio-34",
+   "name": "Casio Vintage Digital (Gold-Tone, Black Dial)",
+   "images": [
+    "assets/collection/Casio/b6612cac-222f-446d-ad59-6b60afbb15c9.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 9995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, its signature strap, and a gold-tone finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Digital Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/b6612cac-222f-446d-ad59-6b60afbb15c9.JPG.jpg"
+  },
+  {
+   "id": "casio-35",
+   "name": "Casio Edifice Chronograph (Two-Tone, Gold Accents)",
+   "images": [
+    "assets/collection/Casio/b9a11c80-93e3-4a79-8b98-bd49f0eb1b25.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/b9a11c80-93e3-4a79-8b98-bd49f0eb1b25.JPG.jpg"
+  },
+  {
+   "id": "casio-36",
+   "name": "Casio Edifice Chronograph (Black & Gold Bracelet)",
+   "images": [
+    "assets/collection/Casio/ba3eef45-e27f-4384-bb1d-d73fa9b7c013.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and a black & gold bracelet, finished in a premium finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/ba3eef45-e27f-4384-bb1d-d73fa9b7c013.JPG.jpg"
+  },
+  {
+   "id": "casio-37",
+   "name": "Casio Edifice Chronograph (All-Black, Leather Strap)",
+   "images": [
+    "assets/collection/Casio/c276fd43-d6ca-4641-b5ad-95f4953534fa.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a leather strap; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/c276fd43-d6ca-4641-b5ad-95f4953534fa.JPG.jpg"
+  },
+  {
+   "id": "casio-38",
+   "name": "Casio Edifice Chronograph (Black & Gold Bracelet)",
+   "images": [
+    "assets/collection/Casio/c2be6f33-a30b-4316-a6f4-ff7baed39e58.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on a black & gold bracelet, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/c2be6f33-a30b-4316-a6f4-ff7baed39e58.JPG.jpg"
+  },
+  {
+   "id": "casio-39",
+   "name": "Casio Edifice Chronograph (Black Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Casio/d02f5d7c-340e-4cd8-8e18-95ca29806387.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a black dial and a steel bracelet, finished in a premium finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/d02f5d7c-340e-4cd8-8e18-95ca29806387.JPG.jpg"
+  },
+  {
+   "id": "casio-40",
+   "name": "Casio Edifice Chronograph (Blue & Silver Bracelet)",
+   "images": [
+    "assets/collection/Casio/d542f465-a8c3-471f-98be-6ea7adcf1a8f.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a blue & silver bracelet; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/d542f465-a8c3-471f-98be-6ea7adcf1a8f.JPG.jpg"
+  },
+  {
+   "id": "casio-41",
+   "name": "Casio Edifice Chronograph (Black Case, Blue Bezel)",
+   "images": [
+    "assets/collection/Casio/e66de7b0-6bce-4db1-a118-b3477e03bb22.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/e66de7b0-6bce-4db1-a118-b3477e03bb22.JPG.jpg"
+  },
+  {
+   "id": "casio-42",
+   "name": "Casio Edifice Chronograph (Two-Tone, Gold & Silver)",
+   "images": [
+    "assets/collection/Casio/f875d43f-0db2-4698-b945-db46c00d16ef.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and its signature strap, finished in a two-tone finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/f875d43f-0db2-4698-b945-db46c00d16ef.JPG.jpg"
+  },
+  {
+   "id": "casio-43",
+   "name": "Casio Edifice Chronograph (White Dial, Blue Rubber)",
+   "images": [
+    "assets/collection/Casio/fccea863-d39e-4711-9fdc-ab85bea339ca.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 11495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a white dial and a blue rubber; the Casio signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/casio/fccea863-d39e-4711-9fdc-ab85bea339ca.JPG.jpg"
+  }
+ ]
+}

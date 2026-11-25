@@ -1,0 +1,141 @@
+{
+ "brand": "Bvlgari",
+ "brandKey": "bvlgari",
+ "category": "unisex",
+ "cover": "assets/collection/Bvlgari/IMG-20231128-WA0016.jpg.jpg",
+ "items": [
+  {
+   "id": "bvlgari-1",
+   "name": "Bvlgari Aluminium Chronograph (Black Bezel, Black Rubber)",
+   "images": [
+    "assets/collection/Bvlgari/IMG-20231128-WA0016.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 550000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The Bvlgari look, executed to premium first-copy grade: signature dial, a black rubber, a black bezel finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Aluminium & Titanium-Style Case",
+    "Diameter": "40mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/bvlgari/IMG-20231128-WA0016.jpg.jpg"
+  },
+  {
+   "id": "bvlgari-2",
+   "name": "Bvlgari Aluminium Chronograph (Gold-Tone Bezel, Black Rubber)",
+   "images": [
+    "assets/collection/Bvlgari/IMG-20231128-WA0017.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 550000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 signature dial on a black rubber, a gold-tone bezel finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Aluminium & Titanium-Style Case",
+    "Diameter": "40mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/bvlgari/IMG-20231128-WA0017.jpg.jpg"
+  },
+  {
+   "id": "bvlgari-3",
+   "name": "Bvlgari Aluminium Chronograph (Black Bezel, Black Dial)",
+   "images": [
+    "assets/collection/Bvlgari/IMG-20231128-WA0018.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 550000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic Bvlgari chronograph \u2014 black dial, its signature strap, and a black bezel finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Aluminium & Titanium-Style Case",
+    "Diameter": "40mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/bvlgari/IMG-20231128-WA0018.jpg.jpg"
+  },
+  {
+   "id": "bvlgari-4",
+   "name": "Bvlgari Aluminium Chronograph (Steel Bezel, Leather Strap)",
+   "images": [
+    "assets/collection/Bvlgari/IMG-20231128-WA0019.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 550000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The Bvlgari look, executed to premium first-copy grade: signature dial, a leather strap, a steel bezel finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Aluminium & Titanium-Style Case",
+    "Diameter": "40mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/bvlgari/IMG-20231128-WA0019.jpg.jpg"
+  },
+  {
+   "id": "bvlgari-5",
+   "name": "Bvlgari Aluminium Chronograph Special Edition (Blue Bezel, White Rubber)",
+   "images": [
+    "assets/collection/Bvlgari/IMG-20240202-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 550000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 signature dial on a white rubber, a blue bezel finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Aluminium & Titanium-Style Case",
+    "Diameter": "40mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/bvlgari/IMG-20240202-WA0002.jpg.jpg"
+  },
+  {
+   "id": "bvlgari-6",
+   "name": "Bvlgari Aluminium Chronograph (Blue Bezel, Brown Strap)",
+   "images": [
+    "assets/collection/Bvlgari/IMG-20240223-WA0014.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 550000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic Bvlgari chronograph \u2014 signature dial, a brown strap, and a blue bezel finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Aluminium & Titanium-Style Case",
+    "Diameter": "40mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/bvlgari/IMG-20240223-WA0014.jpg.jpg"
+  },
+  {
+   "id": "bvlgari-7",
+   "name": "Bvlgari Aluminium Chronograph (Blue Bezel, Blue Rubber)",
+   "images": [
+    "assets/collection/Bvlgari/IMG-20240301-WA0012.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 550000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The Bvlgari look, executed to premium first-copy grade: signature dial, a blue rubber, a blue bezel finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Aluminium & Titanium-Style Case",
+    "Diameter": "40mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/bvlgari/IMG-20240301-WA0012.jpg.jpg"
+  }
+ ]
+}

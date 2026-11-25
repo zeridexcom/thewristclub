@@ -1,0 +1,2 @@
+import{b as r}from"/assets/js/chunk-YV5BFUPQ-f282f05d.js";import{c as e}from"/assets/js/chunk-4JY5UMT2-eb896d4a.js";function n(a){let t=r();switch(a){case"default":return{variant:"default"};case"darker":return{variant:"darker",darkOnDark:t};default:e(a,"Invalid modal variant")}}function s(a){switch(a){case"default":return{variant:"default"};case"darker":return{variant:"darker",darkOnDark:!0};default:e(a,"Invalid modal variant")}}export{n as a,s as b};
+//# sourceMappingURL=/assets/js/chunk-CDPPSWHD-7fc481e3.js.map

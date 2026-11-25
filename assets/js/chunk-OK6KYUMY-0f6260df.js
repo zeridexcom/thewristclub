@@ -1,0 +1,2 @@
+import{x as s}from"/assets/js/chunk-MFIC6MJS-4b2986da.js";var t=class extends Promise{_state="initial";resolve;reject;get state(){return this._state}pending(){return this._state="pending",this}isResolved(){return this._state==="fulfilled"||this._state==="rejected"}constructor(){let r,i;super((e,n)=>{r=e,i=n}),this.resolve=e=>{this._state="fulfilled",r(e)},this.reject=e=>{this._state="rejected",i(e)}}};t.prototype.constructor=Promise;function o(){return new Map}function d(){return s(o)}export{t as a,d as b};
+//# sourceMappingURL=/assets/js/chunk-OK6KYUMY-0f6260df.js.map

@@ -1,0 +1,502 @@
+{
+ "brand": "Tissot",
+ "brandKey": "tissot",
+ "category": "unisex",
+ "cover": "assets/collection/TISSOT/08892aa7-7a81-4ff0-ae3e-7f13e67a9eea.JPG.jpg",
+ "items": [
+  {
+   "id": "tissot-1",
+   "name": "Tissot Couturier Chronograph (White Dial, Brown Leather)",
+   "images": [
+    "assets/collection/TISSOT/08892aa7-7a81-4ff0-ae3e-7f13e67a9eea.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 61000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot Couturier chronograph with a silver-white dial, rose-gold accents and a chestnut brown leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/08892aa7-7a81-4ff0-ae3e-7f13e67a9eea.JPG.jpg"
+  },
+  {
+   "id": "tissot-2",
+   "name": "Tissot Couturier Chronograph (All-Black)",
+   "images": [
+    "assets/collection/TISSOT/5d3481b2-181e-4568-9a7f-7740779aff3e.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 61000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A stealth Tissot Couturier chronograph in all black with triple sub-dials and a black leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/5d3481b2-181e-4568-9a7f-7740779aff3e.JPG.jpg"
+  },
+  {
+   "id": "tissot-3",
+   "name": "Tissot Couturier Chronograph (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/TISSOT/9af57d0d-8db8-4ebb-bc3b-3999051ad103.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 61000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot Couturier chronograph with a black dial and matching black leather strap over a steel case.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/9af57d0d-8db8-4ebb-bc3b-3999051ad103.JPG.jpg"
+  },
+  {
+   "id": "tissot-4",
+   "name": "Tissot PR 100 Chronograph (Two-Tone, Black Dial)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20240112-WA0018.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 43000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A two-tone Tissot PR 100 chronograph pairing a black dial with a gold-and-steel link bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel and Gold-Tone Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20240112-WA0018.jpg.jpg"
+  },
+  {
+   "id": "tissot-5",
+   "name": "Tissot PR 100 Chronograph (Green Dial, Black Leather)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20240123-WA0014.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 43000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot chronograph with a rich green dial, steel case and black leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20240123-WA0014.jpg.jpg"
+  },
+  {
+   "id": "tissot-6",
+   "name": "Tissot T-Touch Expert Solar (Black)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20240130-WA0008.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot T-Touch Expert Solar with touch-activated functions, digital-analog display and rugged black bracelet.",
+   "specs": {
+    "Movement": "Solar Quartz",
+    "Case": "Titanium",
+    "Diameter": "45 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20240130-WA0008.jpg.jpg"
+  },
+  {
+   "id": "tissot-7",
+   "name": "Tissot PRS 516 Chronograph (Black Dial, Perforated Leather)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20240213-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 48000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A motorsport-inspired Tissot PRS 516 chronograph with black dial, red accents and perforated racing leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "42 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20240213-WA0004.jpg.jpg"
+  },
+  {
+   "id": "tissot-8",
+   "name": "Tissot PRX Skeleton Automatic (White Dial, Grey Rubber)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20240308-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 67000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot PRX with an open-worked Powermatic 80 skeleton movement on display under a white-toned dial and grey rubber strap.",
+   "specs": {
+    "Movement": "Automatic (Powermatic 80)",
+    "Case": "Stainless Steel",
+    "Diameter": "40 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20240308-WA0000.jpg.jpg"
+  },
+  {
+   "id": "tissot-9",
+   "name": "Tissot PRX Skeleton Automatic (Blue Dial, Blue Rubber)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20240314-WA0007.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 67000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A striking Tissot PRX skeleton automatic with blue open-worked dial and matching blue rubber strap.",
+   "specs": {
+    "Movement": "Automatic (Powermatic 80)",
+    "Case": "Stainless Steel",
+    "Diameter": "40 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20240314-WA0007.jpg.jpg"
+  },
+  {
+   "id": "tissot-10",
+   "name": "Tissot Le Locle Powermatic 80 Open Heart (Silver Dial, Brown Leather)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20240506-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 47000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot Le Locle Powermatic 80 open heart revealing the automatic caliber through a silver dial on brown leather.",
+   "specs": {
+    "Movement": "Automatic (Powermatic 80)",
+    "Case": "Stainless Steel",
+    "Diameter": "39.3 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20240506-WA0002.jpg.jpg"
+  },
+  {
+   "id": "tissot-11",
+   "name": "Tissot PRX Skeleton Automatic (All-Black)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20240615-WA0009.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 67000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A fully black Tissot PRX skeleton automatic with open-worked dial and integrated black strap.",
+   "specs": {
+    "Movement": "Automatic (Powermatic 80)",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "40 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20240615-WA0009.jpg.jpg"
+  },
+  {
+   "id": "tissot-12",
+   "name": "Tissot PRS 516 Chronograph (Two-Tone Gold)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20240711-WA0010.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 52000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot PRS 516 chronograph in two-tone gold and steel with a black dial and racing-inspired sub-dials.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel and Gold-Tone Steel",
+    "Diameter": "42 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20240711-WA0010.jpg.jpg"
+  },
+  {
+   "id": "tissot-13",
+   "name": "Tissot Chemin des Tourelles Skeleton (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20241019-WA0008.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 57000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot skeleton automatic exposing its gears through a black dial, finished with a black leather strap.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20241019-WA0008.jpg.jpg"
+  },
+  {
+   "id": "tissot-14",
+   "name": "Tissot Carson Chronograph (Black Roman Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20241218-WA0007.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 45000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A classic Tissot Carson chronograph with black Roman-numeral dial on a polished steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20241218-WA0007.jpg.jpg"
+  },
+  {
+   "id": "tissot-15",
+   "name": "Tissot Carson Chronograph (Black Roman Dial, Two-Tone)",
+   "images": [
+    "assets/collection/TISSOT/IMG-20250114-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 45000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot Carson chronograph pairing a black Roman-numeral dial with a warm two-tone rose-gold bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel and Rose-Gold-Tone Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG-20250114-WA0004.jpg.jpg"
+  },
+  {
+   "id": "tissot-16",
+   "name": "Tissot PRX Skeleton Automatic (Black, Rubber Strap)",
+   "images": [
+    "assets/collection/TISSOT/IMG_20240109_000635_858.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 67000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A black Tissot PRX skeleton automatic with visible Powermatic 80 movement and rugged black rubber strap.",
+   "specs": {
+    "Movement": "Automatic (Powermatic 80)",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "40 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG_20240109_000635_858.jpg.jpg"
+  },
+  {
+   "id": "tissot-17",
+   "name": "Tissot PRS 516 Chronograph (Two-Tone, Gold-Steel Bracelet)",
+   "images": [
+    "assets/collection/TISSOT/IMG_20240405_122151_015.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 52000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot PRS 516 chronograph in gold-and-steel with black dial and tachymeter bezel.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel and Gold-Tone Steel",
+    "Diameter": "42 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG_20240405_122151_015.jpg.jpg"
+  },
+  {
+   "id": "tissot-18",
+   "name": "Tissot Skeleton Automatic (Black Skeleton Dial, Black Leather)",
+   "images": [
+    "assets/collection/TISSOT/IMG_20240418_142105_444.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 57000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot skeleton automatic whose black open-worked dial reveals the caliber, on a black leather strap.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG_20240418_142105_444.jpg.jpg"
+  },
+  {
+   "id": "tissot-19",
+   "name": "Tissot Carson Chronograph (Black Roman Dial, Two-Tone Rose)",
+   "images": [
+    "assets/collection/TISSOT/IMG_20240507_142953_526.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 45000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot chronograph with black Roman-numeral dial framed by a two-tone rose-gold steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel and Rose-Gold-Tone Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG_20240507_142953_526.jpg.jpg"
+  },
+  {
+   "id": "tissot-20",
+   "name": "Tissot Open-Heart Automatic (Black Roman Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/TISSOT/IMG_20240511_194846_382.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 47000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot open-heart automatic showing the balance wheel beneath a black Roman-numeral dial on steel.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/IMG_20240511_194846_382.jpg.jpg"
+  },
+  {
+   "id": "tissot-21",
+   "name": "Tissot PRS 516 Chronograph (Black Dial, Brown Leather)",
+   "images": [
+    "assets/collection/TISSOT/PicsArt_07-28-01.49.14.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 48000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot PRS 516 chronograph with black dial, tachymeter bezel and stitched brown leather racing strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "42 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/PicsArt_07-28-01.49.14.jpg.jpg"
+  },
+  {
+   "id": "tissot-22",
+   "name": "Tissot PRS 516 Chronograph (Dark Dial, Tan Leather)",
+   "images": [
+    "assets/collection/TISSOT/PicsArt_07-28-08.08.06.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 48000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot PRS 516 chronograph with dark dial, silver sub-dials and tan leather racing strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "42 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/PicsArt_07-28-08.08.06.jpg.jpg"
+  },
+  {
+   "id": "tissot-23",
+   "name": "Tissot PRS 516 Chronograph (All-Black)",
+   "images": [
+    "assets/collection/TISSOT/PicsArt_07-28-08.08.41.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 48000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An all-black Tissot PRS 516 chronograph with matte dial and black leather racing strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "42 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/PicsArt_07-28-08.08.41.jpg.jpg"
+  },
+  {
+   "id": "tissot-24",
+   "name": "Tissot Chronograph (Colourway Set)",
+   "images": [
+    "assets/collection/TISSOT/d1d23a34-a51f-4fef-9d1d-95b19315a95e.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 61000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A set of Tissot-style chronographs shown across six colorways, from black to rose-gold on leather straps.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/d1d23a34-a51f-4fef-9d1d-95b19315a95e.JPG.jpg"
+  },
+  {
+   "id": "tissot-25",
+   "name": "Tissot PR 100 Chronograph (Silver Dial, Brown Leather)",
+   "images": [
+    "assets/collection/TISSOT/e7408add-c658-4ce4-8056-2f5afa32619c.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 43000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A clean Tissot chronograph with silver-white dial, steel case and chocolate brown leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/e7408add-c658-4ce4-8056-2f5afa32619c.JPG.jpg"
+  },
+  {
+   "id": "tissot-26",
+   "name": "Tissot Couturier Chronograph (Black Dial, Rose-Gold Case)",
+   "images": [
+    "assets/collection/TISSOT/f6b30a55-578d-45a2-bec8-5c28ce2161c8.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 61000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tissot Couturier chronograph with rose-gold case, black dial and black leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tissot/f6b30a55-578d-45a2-bec8-5c28ce2161c8.JPG.jpg"
+  }
+ ]
+}

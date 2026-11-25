@@ -1,0 +1,84 @@
+{
+ "brand": "Hugoboss Men",
+ "brandKey": "hugoboss-men",
+ "category": "him",
+ "cover": "assets/collection/Hugoboss Men/IMG-20240211-WA0005.jpg.jpg",
+ "items": [
+  {
+   "id": "hugoboss-men-1",
+   "name": "Hugo Boss Sport Chronograph (Blue-Black Bezel, Steel)",
+   "images": [
+    "assets/collection/Hugoboss Men/IMG-20240211-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 26925,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A black dial set against a deep blue-black tachymeter bezel, with red centre-seconds accent and a brushed steel bracelet for a bold sportive finish.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hugoboss-men/IMG-20240211-WA0005.jpg.jpg"
+  },
+  {
+   "id": "hugoboss-men-2",
+   "name": "Hugo Boss Sport Chronograph (Two-Tone Gold, Black Dial)",
+   "images": [
+    "assets/collection/Hugoboss Men/IMG-20240214-WA0011.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 28425,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Black dial framed by a gold-accented tachymeter bezel, paired with a two-tone steel-and-gold bracelet for unmistakable presence.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Two-tone stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hugoboss-men/IMG-20240214-WA0011.jpg.jpg"
+  },
+  {
+   "id": "hugoboss-men-3",
+   "name": "Hugo Boss Black Chronograph (5 BAR, Black Bracelet)",
+   "images": [
+    "assets/collection/Hugoboss Men/IMG-20240222-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24670,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An all-black slim chronograph with gunmetal dial, twin registers, date window and polished black link bracelet \u2014 water resistant to 5 bar.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Black ion-plated stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hugoboss-men/IMG-20240222-WA0005.jpg.jpg"
+  },
+  {
+   "id": "hugoboss-men-4",
+   "name": "Hugo Boss Sport Chronograph (Green Silicone Strap)",
+   "images": [
+    "assets/collection/Hugoboss Men/IMG-20240225-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 22425,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A stealthy black-on-black chronograph brought to life by a vivid green silicone strap and date window at 4 o'clock.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Black ion-plated stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hugoboss-men/IMG-20240225-WA0001.jpg.jpg"
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "brand": "Fossil (Ladies)",
+ "brandKey": "fossil-women",
+ "category": "unisex",
+ "cover": "assets/collection/Fossil Women/6589fe4d-c7fa-4a94-a97a-dd8b5e6f08de.JPG.jpg",
+ "items": [
+  {
+   "id": "fossil-women-1",
+   "name": "Fossil Lilian Chronograph (Rose-Gold, Crystal Markers)",
+   "images": [
+    "assets/collection/Fossil Women/6589fe4d-c7fa-4a94-a97a-dd8b5e6f08de.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: signature dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/6589fe4d-c7fa-4a94-a97a-dd8b5e6f08de.JPG.jpg"
+  },
+  {
+   "id": "fossil-women-2",
+   "name": "Fossil Lilian Chronograph (Rose-Gold, White Dial)",
+   "images": [
+    "assets/collection/Fossil Women/6b1acdd6-9ae3-49b3-808a-bff3a65c2a2a.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a white dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/6b1acdd6-9ae3-49b3-808a-bff3a65c2a2a.JPG.jpg"
+  },
+  {
+   "id": "fossil-women-3",
+   "name": "Fossil Lilian Chronograph (Rose-Gold, Crystal Set)",
+   "images": [
+    "assets/collection/Fossil Women/797e08af-f165-4383-9252-43b1e140e2fa.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: signature dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/797e08af-f165-4383-9252-43b1e140e2fa.JPG.jpg"
+  },
+  {
+   "id": "fossil-women-4",
+   "name": "Fossil Tailor Chronograph (Two-Tone, White Dial)",
+   "images": [
+    "assets/collection/Fossil Women/90e2703d-79d2-4a58-9165-68ed5702bc96.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 10995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a white dial on its signature strap, a two-tone finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "35mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/90e2703d-79d2-4a58-9165-68ed5702bc96.JPG.jpg"
+  },
+  {
+   "id": "fossil-women-5",
+   "name": "Fossil Jacqueline Mini (Champagne Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Fossil Women/IMG-20240214-WA0014.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: champagne dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/IMG-20240214-WA0014.jpg.jpg"
+  },
+  {
+   "id": "fossil-women-6",
+   "name": "Fossil Jacqueline (Gold-Tone, Champagne Dial)",
+   "images": [
+    "assets/collection/Fossil Women/IMG-20240430-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a champagne dial on its signature strap, a gold-tone finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/IMG-20240430-WA0004.jpg.jpg"
+  },
+  {
+   "id": "fossil-women-7",
+   "name": "Fossil Virginia (Rose-Gold, Crystal Dial)",
+   "images": [
+    "assets/collection/Fossil Women/IMG-20251112-WA0018.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: crystal dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/IMG-20251112-WA0018.jpg.jpg"
+  },
+  {
+   "id": "fossil-women-8",
+   "name": "Fossil Carlie (Rose-Gold, Rose Dial)",
+   "images": [
+    "assets/collection/Fossil Women/IMG-20251114-WA0019(1).jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a rose dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "28mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/IMG-20251114-WA0019(1).jpg.jpg"
+  },
+  {
+   "id": "fossil-women-9",
+   "name": "Fossil Annette (Rose-Gold, Rose Dial, Leaf Bracelet)",
+   "images": [
+    "assets/collection/Fossil Women/IMG_20231129_155210_557.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: rose dial, a leaf bracelet, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/IMG_20231129_155210_557.jpg.jpg"
+  },
+  {
+   "id": "fossil-women-10",
+   "name": "Fossil Jacqueline (Steel, White Dial)",
+   "images": [
+    "assets/collection/Fossil Women/IMG_20240421_163547_709.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a white dial on its signature strap, a steel finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/IMG_20240421_163547_709.jpg.jpg"
+  },
+  {
+   "id": "fossil-women-11",
+   "name": "Fossil Carlie Mini (Rose-Gold Bangle, Rose Dial)",
+   "images": [
+    "assets/collection/Fossil Women/IMG_20240522_172824_202.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: rose dial, a rose-gold bangle, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/IMG_20240522_172824_202.jpg.jpg"
+  },
+  {
+   "id": "fossil-women-12",
+   "name": "Fossil Tailor (Emerald Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Fossil Women/IMG_20240613_113648_134.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a emerald dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "35mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/IMG_20240613_113648_134.jpg.jpg"
+  },
+  {
+   "id": "fossil-women-13",
+   "name": "Fossil Carlie (Steel, Silver Dial)",
+   "images": [
+    "assets/collection/Fossil Women/IMG_20240803_143738_836.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: silver dial, its signature strap, and a steel finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/IMG_20240803_143738_836.jpg.jpg"
+  },
+  {
+   "id": "fossil-women-14",
+   "name": "Fossil Tailor Chronograph (Two-Tone, White Dial)",
+   "images": [
+    "assets/collection/Fossil Women/IMG_4467.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a white dial on its signature strap, a two-tone finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "35mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/IMG_4467.jpg.jpg"
+  },
+  {
+   "id": "fossil-women-15",
+   "name": "Fossil Lilian Chronograph (Rose-Gold, White Dial)",
+   "images": [
+    "assets/collection/Fossil Women/eca3fb1e-20ef-4c27-9fc0-55c9284cf886.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: white dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/fossil-women/eca3fb1e-20ef-4c27-9fc0-55c9284cf886.JPG.jpg"
+  }
+ ]
+}

@@ -1,0 +1,483 @@
+{
+ "brand": "Diesel (Oversized)",
+ "brandKey": "diesel-big-daddy",
+ "category": "unisex",
+ "cover": "assets/collection/Diesel Big Daddy/127c4dd9-aed3-4737-b736-437aeaff8dad.JPG.jpg",
+ "items": [
+  {
+   "id": "diesel-big-daddy-1",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (All-Black, Black Bracelet)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/127c4dd9-aed3-4737-b736-437aeaff8dad.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 32995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a black bracelet; the Diesel Big Daddy signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/127c4dd9-aed3-4737-b736-437aeaff8dad.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-2",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Gold-Tone, Black Dial)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/460f9eb6-0aeb-45b9-be25-a34536771aae.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: black chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/460f9eb6-0aeb-45b9-be25-a34536771aae.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-3",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Black, Grey Dial)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/46e1c756-29ba-43bf-8b33-28199a5ec43b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 32995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a grey dial and its signature strap, finished in a black finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/46e1c756-29ba-43bf-8b33-28199a5ec43b.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-4",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Two-Tone, Blue Dial)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/5af96dd4-8067-44c9-978f-81e2a3112349.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a blue dial and its signature strap; the Diesel Big Daddy signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/5af96dd4-8067-44c9-978f-81e2a3112349.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-5",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/6eb108fe-d812-42c8-a0f7-ed2cf912a221.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 30995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: black chronograph dial on a black leather, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/6eb108fe-d812-42c8-a0f7-ed2cf912a221.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-6",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Two-Tone, Black Dial)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/87d3dd48-a0f7-4511-8a16-e6dffb343f00.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a black dial and its signature strap, finished in a two-tone finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/87d3dd48-a0f7-4511-8a16-e6dffb343f00.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-7",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Black Mesh Bracelet)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/8945968e-90b5-4242-8e17-bdfbd894eca9.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 32995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a black mesh bracelet; the Diesel Big Daddy signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/8945968e-90b5-4242-8e17-bdfbd894eca9.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-8",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Gold-Tone, Silver Dial)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/IMG_3590.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: silver chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/IMG_3590.jpg.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-9",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Blue Accents, Black Bracelet)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/PHOTO-2024-11-30-07-56-50.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 32995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and a black bracelet, finished in a blue accents finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/PHOTO-2024-11-30-07-56-50.jpg.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-10",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Two-Tone, Grey Dial)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/PHOTO-2024-11-30-07-56-51.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a grey dial and its signature strap; the Diesel Big Daddy signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/PHOTO-2024-11-30-07-56-51.jpg.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-11",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Gold-Tone, Rose Dial)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/PHOTO-2024-11-30-07-56-51__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: rose chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/PHOTO-2024-11-30-07-56-51__2.jpg.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-12",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Black, Brown Leather)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/PHOTO-2024-11-30-07-56-51__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 30995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and a brown leather, finished in a black finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/PHOTO-2024-11-30-07-56-51__3.jpg.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-13",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (All-Black, Grey Accents)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/PHOTO-2024-11-30-07-56-52.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 32995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and its signature strap; the Diesel Big Daddy signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/PHOTO-2024-11-30-07-56-52.jpg.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-14",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Gold-Tone, Black Bracelet)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/PHOTO-2024-11-30-07-56-52__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on a black bracelet, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/PHOTO-2024-11-30-07-56-52__2.jpg.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-15",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Blue Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/PHOTO-2024-11-30-07-56-52__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a blue dial and a steel bracelet, finished in a premium finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/PHOTO-2024-11-30-07-56-52__3.jpg.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-16",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Black, White Accents)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/PHOTO-2024-11-30-07-56-52__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 32995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and its signature strap; the Diesel Big Daddy signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/PHOTO-2024-11-30-07-56-52__4.jpg.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-17",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Two-Tone, Rose-Gold & Steel)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/PHOTO-2024-11-30-07-59-38.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/PHOTO-2024-11-30-07-59-38.jpg.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-18",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Black Dial, Brown Leather)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/a86fe081-d570-48cd-8722-2e93cea4a0e2.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 30995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a black dial and a brown leather, finished in a premium finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/a86fe081-d570-48cd-8722-2e93cea4a0e2.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-19",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Gold-Tone, Black & Gold)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/c710cf02-a0a6-463a-88d8-39e7d0bcfdc5.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and its signature strap; the Diesel Big Daddy signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/c710cf02-a0a6-463a-88d8-39e7d0bcfdc5.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-20",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Black, Grey Strap)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/da63c2db-b434-4504-94b8-1590662bbfbd.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 30995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on a grey strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/da63c2db-b434-4504-94b8-1590662bbfbd.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-21",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Two-Tone, Silver & Gold)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/df9d6fe0-ab82-45f9-8d34-13d8c1d9848f.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and its signature strap, finished in a two-tone finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/df9d6fe0-ab82-45f9-8d34-13d8c1d9848f.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-22",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (All-Black, Blue Accents)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/e4fc4b00-53b3-4927-9b90-d20e546670b2.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 32995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and its signature strap; the Diesel Big Daddy signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/e4fc4b00-53b3-4927-9b90-d20e546670b2.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-23",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Gold-Tone, White Subdials)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/e94dc693-ee43-4c72-b9b3-ccc0c15d1669.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: signature chronograph dial on its signature strap, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/e94dc693-ee43-4c72-b9b3-ccc0c15d1669.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-24",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Black, Silver Bezel)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/ee8f2bcb-f1be-4a8a-a8cb-c086df3a2447.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 32995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and its signature strap, finished in a black finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/ee8f2bcb-f1be-4a8a-a8cb-c086df3a2447.JPG.jpg"
+  },
+  {
+   "id": "diesel-big-daddy-25",
+   "name": "Diesel Mr. Daddy 2.0 Chronograph (Rose Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Diesel Big Daddy/fee1ace0-f581-46ba-af9b-79e4b68830b5.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 34995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a rose dial and a steel bracelet; the Diesel Big Daddy signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "57mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-big-daddy/fee1ace0-f581-46ba-af9b-79e4b68830b5.JPG.jpg"
+  }
+ ]
+}

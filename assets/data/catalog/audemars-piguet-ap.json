@@ -1,0 +1,331 @@
+{
+ "brand": "Audemars Piguet",
+ "brandKey": "audemars-piguet-ap",
+ "category": "unisex",
+ "cover": "assets/collection/Audemars Piguet AP/BDDC764F-80B5-4CEC-A8D6-EBF1E0EA6BBF.jpeg.jpg",
+ "items": [
+  {
+   "id": "audemars-piguet-ap-1",
+   "name": "Audemars Piguet Royal Oak 41mm (Rose-Gold, Blue Tapisserie Dial)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/BDDC764F-80B5-4CEC-A8D6-EBF1E0EA6BBF.jpeg.jpg"
+   ],
+   "video": null,
+   "mrp": 6500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Elegant heritage styling: blue tapisserie dial, its signature strap, and a rose-gold finish inspired by the Audemars Piguet AP icon.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "18K Rose-Gold-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/BDDC764F-80B5-4CEC-A8D6-EBF1E0EA6BBF.jpeg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-2",
+   "name": "Audemars Piguet Royal Oak Double Balance Wheel Openworked (Steel)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/IMG-20241219-WA0010.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a steel finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Skeleton",
+    "Case": "Stainless Steel",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/IMG-20241219-WA0010.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-3",
+   "name": "Audemars Piguet Royal Oak 41mm (Steel, Ice-Blue Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-33.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 4500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Elegant heritage styling: signature dial, its signature strap, and a steel finish inspired by the Audemars Piguet AP icon.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-33.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-4",
+   "name": "Audemars Piguet Royal Oak 41mm (Rose-Gold, White Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-34.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 6500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A refined Audemars Piguet AP silhouette \u2014 signature dial on its signature strap, a rose-gold finish; quiet luxury at first-copy grade.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "18K Rose-Gold-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-34.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-5",
+   "name": "Audemars Piguet Royal Oak 41mm (Rose-Gold, Blue Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-34__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 6500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Elegant heritage styling: signature dial, its signature strap, and a rose-gold finish inspired by the Audemars Piguet AP icon.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "18K Rose-Gold-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-34__2.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-6",
+   "name": "Audemars Piguet Royal Oak 41mm (Rose-Gold, White Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-34__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 6500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A refined Audemars Piguet AP silhouette \u2014 signature dial on its signature strap, a rose-gold finish; quiet luxury at first-copy grade.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "18K Rose-Gold-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-34__3.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-7",
+   "name": "Audemars Piguet Royal Oak 41mm (Rose-Gold, Blue Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-35.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 6500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Elegant heritage styling: signature dial, its signature strap, and a rose-gold finish inspired by the Audemars Piguet AP icon.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "18K Rose-Gold-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-35.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-8",
+   "name": "Audemars Piguet Royal Oak 41mm (Rose-Gold, Black Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-35__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 6500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A refined Audemars Piguet AP silhouette \u2014 signature dial on its signature strap, a rose-gold finish; quiet luxury at first-copy grade.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "18K Rose-Gold-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-35__2.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-9",
+   "name": "Audemars Piguet Royal Oak 41mm (Rose-Gold, Green Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-35__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 6500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Elegant heritage styling: signature dial, its signature strap, and a rose-gold finish inspired by the Audemars Piguet AP icon.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "18K Rose-Gold-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-35__3.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-10",
+   "name": "Audemars Piguet Royal Oak Openworked (Steel, Blue Dial)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-35__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a steel finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Skeleton",
+    "Case": "Stainless Steel",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-35__4.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-11",
+   "name": "Audemars Piguet Royal Oak (Black Ceramic, Black Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-36.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 9500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Elegant heritage styling: signature dial, its signature strap, and a black ceramic finish inspired by the Audemars Piguet AP icon.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Black Ceramic-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-36.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-12",
+   "name": "Audemars Piguet Royal Oak Chronograph (Yellow-Gold, Blue Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-36__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 6500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic Audemars Piguet AP chronograph \u2014 signature dial, its signature strap, and a yellow-gold finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "18K Yellow-Gold-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-36__2.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-13",
+   "name": "Audemars Piguet Royal Oak (Yellow-Gold, Black Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-36__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 5500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Elegant heritage styling: signature dial, its signature strap, and a yellow-gold finish inspired by the Audemars Piguet AP icon.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "18K Yellow-Gold-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-36__3.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-14",
+   "name": "Audemars Piguet Royal Oak Openworked (Steel, Skeleton Dial)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-37.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 10500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a steel finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Skeleton",
+    "Case": "Stainless Steel",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-37.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-15",
+   "name": "Audemars Piguet Royal Oak 41mm (Steel, Blue Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-37__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 4200000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Elegant heritage styling: signature dial, its signature strap, and a steel finish inspired by the Audemars Piguet AP icon.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-37__2.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-16",
+   "name": "Audemars Piguet Royal Oak 41mm (Steel, Grey Tapisserie)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-37__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 4200000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A refined Audemars Piguet AP silhouette \u2014 signature dial on its signature strap, a steel finish; quiet luxury at first-copy grade.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-37__3.jpg.jpg"
+  },
+  {
+   "id": "audemars-piguet-ap-17",
+   "name": "Audemars Piguet Royal Oak Perpetual Calendar (Black Ceramic)",
+   "images": [
+    "assets/collection/Audemars Piguet AP/PHOTO-2024-11-30-07-38-38.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, its signature strap, and a black ceramic finish.",
+   "specs": {
+    "Movement": "Automatic Perpetual Calendar",
+    "Case": "Black Ceramic-Style",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/audemars-piguet-ap/PHOTO-2024-11-30-07-38-38.jpg.jpg"
+  }
+ ]
+}

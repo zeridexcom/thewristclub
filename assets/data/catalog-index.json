@@ -1,0 +1,402 @@
+[
+ {
+  "brand": "Emporio Armani",
+  "brandKey": "armani-men",
+  "category": "him",
+  "count": 20,
+  "cover": "assets/collection/Armani Men/IMG-20231208-WA0002.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/armani-men/IMG-20231208-WA0002.jpg.jpg"
+ },
+ {
+  "brand": "Emporio Armani (Ladies)",
+  "brandKey": "armani-womens",
+  "category": "him",
+  "count": 28,
+  "cover": "assets/collection/Armani Womens/1b0bc97e-22c6-4a0d-bb45-bf99b8c7cd02.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/armani-womens/1b0bc97e-22c6-4a0d-bb45-bf99b8c7cd02.JPG.jpg"
+ },
+ {
+  "brand": "Audemars Piguet",
+  "brandKey": "audemars-piguet-ap",
+  "category": "unisex",
+  "count": 17,
+  "cover": "assets/collection/Audemars Piguet AP/BDDC764F-80B5-4CEC-A8D6-EBF1E0EA6BBF.jpeg.jpg",
+  "coverThumb": "assets/collection-thumbs/audemars-piguet-ap/BDDC764F-80B5-4CEC-A8D6-EBF1E0EA6BBF.jpeg.jpg"
+ },
+ {
+  "brand": "Breitling",
+  "brandKey": "breitling",
+  "category": "unisex",
+  "count": 1,
+  "cover": "assets/collection/Breitling/Screenshot_20240406_131407_WhatsApp.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/breitling/Screenshot_20240406_131407_WhatsApp.jpg.jpg"
+ },
+ {
+  "brand": "Burberry (Ladies)",
+  "brandKey": "burberry-women-s",
+  "category": "unisex",
+  "count": 17,
+  "cover": "assets/collection/Burberry Women\u2019s/2e72b1bb-bd4b-42ac-9847-6b136a163c91.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/burberry-women-s/2e72b1bb-bd4b-42ac-9847-6b136a163c91.JPG.jpg"
+ },
+ {
+  "brand": "Bvlgari",
+  "brandKey": "bvlgari",
+  "category": "unisex",
+  "count": 7,
+  "cover": "assets/collection/Bvlgari/IMG-20231128-WA0016.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/bvlgari/IMG-20231128-WA0016.jpg.jpg"
+ },
+ {
+  "brand": "Bvlgari (Ladies)",
+  "brandKey": "bvlgari-women",
+  "category": "unisex",
+  "count": 2,
+  "cover": "assets/collection/Bvlgari Women/IMG-20231215-WA0002.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/bvlgari-women/IMG-20231215-WA0002.jpg.jpg"
+ },
+ {
+  "brand": "Calvin Klein",
+  "brandKey": "calvin-klein",
+  "category": "unisex",
+  "count": 2,
+  "cover": "assets/collection/Calvin Klein/IMG-20240927-WA0016.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/calvin-klein/IMG-20240927-WA0016.jpg.jpg"
+ },
+ {
+  "brand": "Calvin Klein (Ladies)",
+  "brandKey": "calvin-klein-women-s",
+  "category": "him",
+  "count": 3,
+  "cover": "assets/collection/Calvin Klein Women's/IMG-20241114-WA0000.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/calvin-klein-women-s/IMG-20241114-WA0000.jpg.jpg"
+ },
+ {
+  "brand": "Cartier",
+  "brandKey": "cartier",
+  "category": "unisex",
+  "count": 2,
+  "cover": "assets/collection/Cartier/IMG-20240317-WA0005.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/cartier/IMG-20240317-WA0005.jpg.jpg"
+ },
+ {
+  "brand": "Budget Automatics",
+  "brandKey": "cartier-patek-breitling-budget-automatic",
+  "category": "unisex",
+  "count": 5,
+  "cover": "assets/collection/Cartier PATEK Breitling Budget Automatic/PHOTO-2024-11-30-07-55-08.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/cartier-patek-breitling-budget-automatic/PHOTO-2024-11-30-07-55-08.jpg.jpg"
+ },
+ {
+  "brand": "Casio",
+  "brandKey": "casio",
+  "category": "unisex",
+  "count": 43,
+  "cover": "assets/collection/Casio/0a790f42-be5c-456d-a007-1fa16605d859.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/casio/0a790f42-be5c-456d-a007-1fa16605d859.JPG.jpg"
+ },
+ {
+  "brand": "Citizen",
+  "brandKey": "citizen",
+  "category": "unisex",
+  "count": 1,
+  "cover": "assets/collection/Citizen/IMG-20250514-WA0006.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/citizen/IMG-20250514-WA0006.jpg.jpg"
+ },
+ {
+  "brand": "Daniel Wellington",
+  "brandKey": "dw",
+  "category": "unisex",
+  "count": 47,
+  "cover": "assets/collection/DW/14c12e6b-4322-459b-8108-ac90f3065e16.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/dw/14c12e6b-4322-459b-8108-ac90f3065e16.JPG.jpg"
+ },
+ {
+  "brand": "Daniel Wellington (Leather)",
+  "brandKey": "dw-new-m-leather",
+  "category": "unisex",
+  "count": 30,
+  "cover": "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0076.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0076.jpg.jpg"
+ },
+ {
+  "brand": "Daniel Wellington (Ladies)",
+  "brandKey": "dw-women",
+  "category": "unisex",
+  "count": 22,
+  "cover": "assets/collection/DW WOMEN/20231121_095854.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/dw-women/20231121_095854.jpg.jpg"
+ },
+ {
+  "brand": "Diesel",
+  "brandKey": "diesel-10-bar",
+  "category": "unisex",
+  "count": 14,
+  "cover": "assets/collection/Diesel 10 Bar/04d5a9d1-ca40-4d0e-9447-300f417d25ec.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/diesel-10-bar/04d5a9d1-ca40-4d0e-9447-300f417d25ec.JPG.jpg"
+ },
+ {
+  "brand": "Diesel (Oversized)",
+  "brandKey": "diesel-big-daddy",
+  "category": "unisex",
+  "count": 25,
+  "cover": "assets/collection/Diesel Big Daddy/127c4dd9-aed3-4737-b736-437aeaff8dad.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/diesel-big-daddy/127c4dd9-aed3-4737-b736-437aeaff8dad.JPG.jpg"
+ },
+ {
+  "brand": "Ferrari",
+  "brandKey": "ferrari",
+  "category": "unisex",
+  "count": 3,
+  "cover": "assets/collection/Ferrari/IMG-20231205-WA0002.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/ferrari/IMG-20231205-WA0002.jpg.jpg"
+ },
+ {
+  "brand": "Fossil",
+  "brandKey": "fossil-men-s",
+  "category": "him",
+  "count": 96,
+  "cover": "assets/collection/Fossil Men\u2019s/010d4a20-b1f5-4a4f-ac82-db6f2e355d8c.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/fossil-men-s/010d4a20-b1f5-4a4f-ac82-db6f2e355d8c.JPG.jpg"
+ },
+ {
+  "brand": "Fossil (Ladies)",
+  "brandKey": "fossil-women",
+  "category": "unisex",
+  "count": 15,
+  "cover": "assets/collection/Fossil Women/6589fe4d-c7fa-4a94-a97a-dd8b5e6f08de.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/fossil-women/6589fe4d-c7fa-4a94-a97a-dd8b5e6f08de.JPG.jpg"
+ },
+ {
+  "brand": "G-Shock",
+  "brandKey": "g-shock",
+  "category": "unisex",
+  "count": 37,
+  "cover": "assets/collection/G-Shock/975031AB-EF5E-45EF-9872-485885C0A858.JPEG.jpg",
+  "coverThumb": "assets/collection-thumbs/g-shock/975031AB-EF5E-45EF-9872-485885C0A858.JPEG.jpg"
+ },
+ {
+  "brand": "Graham",
+  "brandKey": "graham-men-s",
+  "category": "him",
+  "count": 2,
+  "cover": "assets/collection/Graham Men's/IMG-20240116-WA0007.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/graham-men-s/IMG-20240116-WA0007.jpg.jpg"
+ },
+ {
+  "brand": "Gucci Women",
+  "brandKey": "gucci-women",
+  "category": "unisex",
+  "count": 5,
+  "cover": "assets/collection/Gucci Women/IMG-20240318-WA0004.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/gucci-women/IMG-20240318-WA0004.jpg.jpg"
+ },
+ {
+  "brand": "Hublot",
+  "brandKey": "hublot-fibre",
+  "category": "unisex",
+  "count": 95,
+  "cover": "assets/collection/HUBLOT FIBRE/017f5830-a580-4404-8d80-fb702b6e9bee.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/hublot-fibre/017f5830-a580-4404-8d80-fb702b6e9bee.JPG.jpg"
+ },
+ {
+  "brand": "Hublot (Metal Bracelet)",
+  "brandKey": "hublot-metal",
+  "category": "unisex",
+  "count": 16,
+  "cover": "assets/collection/HUBLOT METAL/IMG-20240112-WA0006.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/hublot-metal/IMG-20240112-WA0006.jpg.jpg"
+ },
+ {
+  "brand": "Hugo Boss",
+  "brandKey": "hugoboss-men",
+  "category": "him",
+  "count": 4,
+  "cover": "assets/collection/Hugoboss Men/IMG-20240211-WA0005.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/hugoboss-men/IMG-20240211-WA0005.jpg.jpg"
+ },
+ {
+  "brand": "Longines",
+  "brandKey": "longines",
+  "category": "unisex",
+  "count": 3,
+  "cover": "assets/collection/Longines/IMG-20241010-WA0002.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/longines/IMG-20241010-WA0002.jpg.jpg"
+ },
+ {
+  "brand": "Michael Kors (Chronograph)",
+  "brandKey": "mk-chronograph",
+  "category": "unisex",
+  "count": 11,
+  "cover": "assets/collection/MK Chronograph/2fd7c1d0-a173-4dca-aabd-d356747683fe.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/mk-chronograph/2fd7c1d0-a173-4dca-aabd-d356747683fe.JPG.jpg"
+ },
+ {
+  "brand": "Michael Kors (Men's)",
+  "brandKey": "mk-men-s",
+  "category": "him",
+  "count": 20,
+  "cover": "assets/collection/MK Men\u2019s/ABB40C9C-8335-4248-9DF0-889218BBFCE1.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/mk-men-s/ABB40C9C-8335-4248-9DF0-889218BBFCE1.jpg.jpg"
+ },
+ {
+  "brand": "Maserati",
+  "brandKey": "maserati-men-s",
+  "category": "him",
+  "count": 3,
+  "cover": "assets/collection/Maserati Men's/IMG-20240123-WA0008.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/maserati-men-s/IMG-20240123-WA0008.jpg.jpg"
+ },
+ {
+  "brand": "Michael Kors (Ladies)",
+  "brandKey": "michael-kors-w",
+  "category": "her",
+  "count": 98,
+  "cover": "assets/collection/Michael Kors W/01b7488d-ea37-46df-a37c-5739bda68393.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/michael-kors-w/01b7488d-ea37-46df-a37c-5739bda68393.JPG.jpg"
+ },
+ {
+  "brand": "Movado",
+  "brandKey": "movado-men",
+  "category": "him",
+  "count": 1,
+  "cover": "assets/collection/Movado Men/IMG-20240219-WA0001.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/movado-men/IMG-20240219-WA0001.jpg.jpg"
+ },
+ {
+  "brand": "Omega",
+  "brandKey": "omega",
+  "category": "unisex",
+  "count": 12,
+  "cover": "assets/collection/Omega/IMG-20231205-WA0005.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/omega/IMG-20231205-WA0005.jpg.jpg"
+ },
+ {
+  "brand": "Patek Philippe",
+  "brandKey": "patek-phillipe",
+  "category": "unisex",
+  "count": 8,
+  "cover": "assets/collection/Patek phillipe/IMG-20240119-WA0002.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/patek-phillipe/IMG-20240119-WA0002.jpg.jpg"
+ },
+ {
+  "brand": "Rado (Ladies)",
+  "brandKey": "rado-ladies",
+  "category": "her",
+  "count": 10,
+  "cover": "assets/collection/RADO LADIES/BeautyPlus_20180503110407826_save.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/rado-ladies/BeautyPlus_20180503110407826_save.jpg.jpg"
+ },
+ {
+  "brand": "Rolex",
+  "brandKey": "rolex-new-5-nov",
+  "category": "unisex",
+  "count": 92,
+  "cover": "assets/collection/ROLX NEW 5 NOV/-1139350781.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/rolex-new-5-nov/-1139350781.jpg.jpg"
+ },
+ {
+  "brand": "Rolex Heritage",
+  "brandKey": "rx",
+  "category": "unisex",
+  "count": 95,
+  "cover": "assets/collection/RX/IMG-20231201-WA0004.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/rx/IMG-20231201-WA0004.jpg.jpg"
+ },
+ {
+  "brand": "Rolex Men's New",
+  "brandKey": "rx-men-s-new",
+  "category": "him",
+  "count": 65,
+  "cover": "assets/collection/RX Men\u2019s New!/IMG-20240108-WA0010.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/rx-men-s-new/IMG-20240108-WA0010.jpg.jpg"
+ },
+ {
+  "brand": "Rado",
+  "brandKey": "rado-men",
+  "category": "him",
+  "count": 10,
+  "cover": "assets/collection/Rado Men/IMG-20241017-WA0005.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/rado-men/IMG-20241017-WA0005.jpg.jpg"
+ },
+ {
+  "brand": "Richard Mille",
+  "brandKey": "richard-mille",
+  "category": "unisex",
+  "count": 2,
+  "cover": "assets/collection/Richard Mille/IMG-20240205-WA0053.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/richard-mille/IMG-20240205-WA0053.jpg.jpg"
+ },
+ {
+  "brand": "Rolex (Ladies)",
+  "brandKey": "rolex-women-s",
+  "category": "him",
+  "count": 3,
+  "cover": "assets/collection/Rolex Women's/D973197C-96D7-4D50-9227-667C3F042827.JPEG.jpg",
+  "coverThumb": "assets/collection-thumbs/rolex-women-s/D973197C-96D7-4D50-9227-667C3F042827.JPEG.jpg"
+ },
+ {
+  "brand": "Seiko Men",
+  "brandKey": "seiko-men",
+  "category": "him",
+  "count": 2,
+  "cover": "assets/collection/Seiko Men/IMG-20240712-WA0004.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/seiko-men/IMG-20240712-WA0004.jpg.jpg"
+ },
+ {
+  "brand": "Tissot",
+  "brandKey": "tissot",
+  "category": "unisex",
+  "count": 26,
+  "cover": "assets/collection/TISSOT/08892aa7-7a81-4ff0-ae3e-7f13e67a9eea.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/tissot/08892aa7-7a81-4ff0-ae3e-7f13e67a9eea.JPG.jpg"
+ },
+ {
+  "brand": "Tag Heuer",
+  "brandKey": "tag-heuer",
+  "category": "unisex",
+  "count": 92,
+  "cover": "assets/collection/Tag Heuer/01e0772f-d3f2-4eeb-a609-5396e0ecb8ae.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/tag-heuer/01e0772f-d3f2-4eeb-a609-5396e0ecb8ae.JPG.jpg"
+ },
+ {
+  "brand": "Tommy Hilfiger",
+  "brandKey": "tommy-hilfiger",
+  "category": "unisex",
+  "count": 8,
+  "cover": "assets/collection/Tommy Hilfiger/IMG-20240118-WA0001.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/tommy-hilfiger/IMG-20240118-WA0001.jpg.jpg"
+ },
+ {
+  "brand": "Tommy Hilfiger (Ladies)",
+  "brandKey": "tommy-hilfiger-women",
+  "category": "unisex",
+  "count": 1,
+  "cover": "assets/collection/Tommy Hilfiger (women)/IMG_20240507_175247_435.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/tommy-hilfiger-women/IMG_20240507_175247_435.jpg.jpg"
+ },
+ {
+  "brand": "Casio Vintage",
+  "brandKey": "vintage-casio",
+  "category": "unisex",
+  "count": 19,
+  "cover": "assets/collection/VINTAGE CASIO/2a89d1da-ffd1-4317-8999-96ccbab01995.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/vintage-casio/2a89d1da-ffd1-4317-8999-96ccbab01995.JPG.jpg"
+ },
+ {
+  "brand": "Versace",
+  "brandKey": "versace-men",
+  "category": "him",
+  "count": 4,
+  "cover": "assets/collection/Versace men/IMG-20240406-WA0004.jpg.jpg",
+  "coverThumb": "assets/collection-thumbs/versace-men/IMG-20240406-WA0004.jpg.jpg"
+ },
+ {
+  "brand": "Ladies' Picks",
+  "brandKey": "women-s-watches",
+  "category": "him",
+  "count": 96,
+  "cover": "assets/collection/Women's Watches/01b7488d-ea37-46df-a37c-5739bda68393.JPG.jpg",
+  "coverThumb": "assets/collection-thumbs/women-s-watches/01b7488d-ea37-46df-a37c-5739bda68393.JPG.jpg"
+ }
+]

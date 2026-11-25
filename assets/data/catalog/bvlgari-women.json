@@ -1,0 +1,46 @@
+{
+ "brand": "Bvlgari (Ladies)",
+ "brandKey": "bvlgari-women",
+ "category": "unisex",
+ "cover": "assets/collection/Bvlgari Women/IMG-20231215-WA0002.jpg.jpg",
+ "items": [
+  {
+   "id": "bvlgari-women-1",
+   "name": "Bvlgari Serpenti Tubogas (Green Dial, Diamond Markers)",
+   "images": [
+    "assets/collection/Bvlgari Women/IMG-20231215-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 2800000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Elegant heritage styling: green dial, its signature strap, and a diamond markers finish inspired by the Bvlgari Women icon.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Style Tubogas Wrap",
+    "Diameter": "35mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/bvlgari-women/IMG-20231215-WA0002.jpg.jpg"
+  },
+  {
+   "id": "bvlgari-women-2",
+   "name": "Bvlgari Serpenti Tubogas (Silver Dial, Rose-Gold Wrap)",
+   "images": [
+    "assets/collection/Bvlgari Women/IMG-20241122-WA0028.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 2800000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A refined Bvlgari Women silhouette \u2014 silver dial on its signature strap, a rose-gold wrap finish; quiet luxury at first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Style Tubogas Wrap",
+    "Diameter": "35mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/bvlgari-women/IMG-20241122-WA0028.jpg.jpg"
+  }
+ ]
+}

@@ -1,0 +1,578 @@
+{
+ "brand": "Daniel Wellington (Leather)",
+ "brandKey": "dw-new-m-leather",
+ "category": "unisex",
+ "cover": "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0076.jpg.jpg",
+ "items": [
+  {
+   "id": "dw-new-m-leather-1",
+   "name": "DW Classic Leather Set (Ice-Blue & Black Dials)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0076.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 29995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (ice-blue & black dials) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36 & 40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0076.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-2",
+   "name": "DW Classic St Mawes 40mm (White Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0077.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 white dial with a brown leather, the signature DW NEW M LEATHER silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0077.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-3",
+   "name": "DW Classic Sheffield 40mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0078.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a black leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0078.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-4",
+   "name": "DW Classic Sheffield 40mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0078__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, a black leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0078__2.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-5",
+   "name": "DW Classic St Mawes 40mm (Black Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0079.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 black dial with a brown leather, the signature DW NEW M LEATHER silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0079.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-6",
+   "name": "DW Classic St Mawes 40mm (Black Dial, Dark-Brown Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0081.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a dark-brown leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0081.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-7",
+   "name": "DW Classic St Mawes 40mm (Black Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0082.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, a brown leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0082.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-8",
+   "name": "DW Classic St Mawes 40mm (Black Dial, Cognac Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0083.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 black dial with a cognac leather, the signature DW NEW M LEATHER silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0083.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-9",
+   "name": "DW Classic Sheffield 40mm (White Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0084.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 white dial on a black leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0084.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-10",
+   "name": "DW Classic Cornwall 40mm (White Dial, Red Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0085.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: white dial, a red leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0085.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-11",
+   "name": "DW Classic (Ice-Blue Dial, Tan Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0086.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 ice-blue dial with an tan leather, the signature DW NEW M LEATHER silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0086.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-12",
+   "name": "DW Classic Sheffield 40mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0087.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a black leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0087.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-13",
+   "name": "DW Classic Cornwall 40mm (Black Dial, Red Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0088.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, a red leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0088.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-14",
+   "name": "DW Classic Black Gift Set (Rose-Gold, 40 & 36mm)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0089.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 32995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (rose-gold, 40 & 36mm) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "36 & 40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0089.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-15",
+   "name": "DW Classic St Mawes 36mm (White Dial, Brown Leather, Rose-Gold)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0090.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 white dial on a brown leather, finished in a rose-gold finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0090.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-16",
+   "name": "DW Classic Sheffield 36mm (White Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0091.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 16995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: white dial, a black leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0091.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-17",
+   "name": "DW Classic St Mawes 36mm (Black Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0092.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 16995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 black dial with a brown leather, the signature DW NEW M LEATHER silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0092.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-18",
+   "name": "DW Classic Leather Collection (Assorted Dials & Straps)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0093.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 29995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (assorted dials & straps) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36 & 40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0093.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-19",
+   "name": "DW Classic Black & White Leather Set",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0094.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 29995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (two matching watches) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36 & 40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0094.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-20",
+   "name": "DW Classic St Mawes 40mm (Black Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0095.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 black dial with a brown leather, the signature DW NEW M LEATHER silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0095.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-21",
+   "name": "DW Classic Glasgow 40mm (Black Dial, Croc-Embossed Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0096.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a croc-embossed leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0096.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-22",
+   "name": "DW Classic Reading 40mm (White Dial, Blue Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0097.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: white dial, a blue leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0097.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-23",
+   "name": "DW Classic St Mawes 40mm (Black Dial, Red-Brown Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0099.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 black dial with a red-brown leather, the signature DW NEW M LEATHER silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0099.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-24",
+   "name": "DW Classic Sheffield 40mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0100.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a black leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0100.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-25",
+   "name": "DW Classic Sheffield 40mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20220712-WA0101.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, a black leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20220712-WA0101.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-26",
+   "name": "DW Classic Glasgow Rose-Gold 40mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20240312-WA0010.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 black dial with a black leather, the signature DW NEW M LEATHER silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20240312-WA0010.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-27",
+   "name": "DW Classic Sheffield 40mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20240531-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a black leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20240531-WA0005.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-28",
+   "name": "DW Classic Icon (Brown Dial, Check Leather Strap)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20241205-WA0017.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: brown dial, a check leather strap, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20241205-WA0017.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-29",
+   "name": "DW Classic Sheffield 40mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/IMG-20241212-WA0020.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 black dial with a black leather, the signature DW NEW M LEATHER silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/IMG-20241212-WA0020.jpg.jpg"
+  },
+  {
+   "id": "dw-new-m-leather-30",
+   "name": "DW Classic Sheffield 36mm (White Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW NEW M LEATHER/f52165b8dd7e4dd980c8df9a58ddb433.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 16995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 white dial on a black leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-new-m-leather/f52165b8dd7e4dd980c8df9a58ddb433.jpg.jpg"
+  }
+ ]
+}

@@ -1,0 +1,711 @@
+{
+ "brand": "G-Shock",
+ "brandKey": "g-shock",
+ "category": "unisex",
+ "cover": "assets/collection/G-Shock/975031AB-EF5E-45EF-9872-485885C0A858.JPEG.jpg",
+ "items": [
+  {
+   "id": "g-shock-1",
+   "name": "G-Shock GM-110RH-1A (Rainbow Metal, Rose-Gold)",
+   "images": [
+    "assets/collection/G-Shock/975031AB-EF5E-45EF-9872-485885C0A858.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a rainbow metal finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Ion-Plated Metal Case",
+    "Diameter": "45mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/975031AB-EF5E-45EF-9872-485885C0A858.JPEG.jpg"
+  },
+  {
+   "id": "g-shock-2",
+   "name": "G-Shock GM-2100 (Gold-Tone Metal Bezel)",
+   "images": [
+    "assets/collection/G-Shock/IMG-20250109-WA0012.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a gold-tone metal bezel finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Stainless-Steel Bezel",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/IMG-20250109-WA0012.jpg.jpg"
+  },
+  {
+   "id": "g-shock-3",
+   "name": "G-Shock GM-110RH-1A (Gold Metal, Rainbow Dial)",
+   "images": [
+    "assets/collection/G-Shock/IMG_3283.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a gold metal finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Ion-Plated Metal Case",
+    "Diameter": "45mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/IMG_3283.jpg.jpg"
+  },
+  {
+   "id": "g-shock-4",
+   "name": "G-Shock GA-700 (White)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-31.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 9995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a white finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "53mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-31.jpg.jpg"
+  },
+  {
+   "id": "g-shock-5",
+   "name": "G-Shock GM-2100-1A (Steel Bezel, Black Resin)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-31__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a steel bezel finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Stainless-Steel Bezel",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-31__2.jpg.jpg"
+  },
+  {
+   "id": "g-shock-6",
+   "name": "G-Shock CasiOak Set (All-Black Trio)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-31__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 19995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (all-black trio) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Cases",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-31__3.jpg.jpg"
+  },
+  {
+   "id": "g-shock-7",
+   "name": "G-Shock GM-2100B-1A (Metal Bezel)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-32.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a metal bezel finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Metal Bezel",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-32.jpg.jpg"
+  },
+  {
+   "id": "g-shock-8",
+   "name": "G-Shock GA-2100BB-1A (All-Black)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-32__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, an all-black finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Black Resin Case",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-32__2.jpg.jpg"
+  },
+  {
+   "id": "g-shock-9",
+   "name": "G-Shock GA-2100-1A (Black)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-33.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 7795,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a black finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case, 200m Class",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-33.jpg.jpg"
+  },
+  {
+   "id": "g-shock-10",
+   "name": "G-Shock GA-2100-1A (Black)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-33__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 7795,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a black finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case, 200m Class",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-33__2.jpg.jpg"
+  },
+  {
+   "id": "g-shock-11",
+   "name": "G-Shock GA-2100BB-1A (All-Black)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-33__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in an all-black finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Black Resin Case",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-33__3.jpg.jpg"
+  },
+  {
+   "id": "g-shock-12",
+   "name": "G-Shock GA-2100BB-1A (All-Black)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-33__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, an all-black finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Black Resin Case",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-33__4.jpg.jpg"
+  },
+  {
+   "id": "g-shock-13",
+   "name": "G-Shock DW-5600BB (All-Black Digital)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-34.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in an all-black digital finish.",
+   "specs": {
+    "Movement": "Digital Quartz",
+    "Case": "Resin Case",
+    "Diameter": "42mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-34.jpg.jpg"
+  },
+  {
+   "id": "g-shock-14",
+   "name": "G-Shock GM-5600B-1 (Steel Digital)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-34__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 26990,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a steel digital finish.",
+   "specs": {
+    "Movement": "Digital Quartz",
+    "Case": "Stainless-Steel Case",
+    "Diameter": "42mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-34__2.jpg.jpg"
+  },
+  {
+   "id": "g-shock-15",
+   "name": "G-Shock GM-2100BB-1A (Black Metal)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-34__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a black metal finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Black Metal Bezel",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-34__3.jpg.jpg"
+  },
+  {
+   "id": "g-shock-16",
+   "name": "G-Shock GA-2110SU-3A (Olive)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-35.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 7795,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, an olive finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-35.jpg.jpg"
+  },
+  {
+   "id": "g-shock-17",
+   "name": "G-Shock GM-2100-1A (Steel Bezel)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-35__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a steel bezel finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Stainless-Steel Bezel",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-35__2.jpg.jpg"
+  },
+  {
+   "id": "g-shock-18",
+   "name": "G-Shock GA-2100 (White/Grey)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-35__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a white/grey finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-35__3.jpg.jpg"
+  },
+  {
+   "id": "g-shock-19",
+   "name": "G-Shock GA-2100 (Blue)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-35__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a blue finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-35__4.jpg.jpg"
+  },
+  {
+   "id": "g-shock-20",
+   "name": "G-Shock GM-2100 (Grey Metal Bezel)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-36.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a grey metal bezel finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Stainless-Steel Bezel",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-36.jpg.jpg"
+  },
+  {
+   "id": "g-shock-21",
+   "name": "G-Shock GA-2100 (Black)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-36__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a black finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Black Resin Case",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-36__2.jpg.jpg"
+  },
+  {
+   "id": "g-shock-22",
+   "name": "G-Shock GA-110 (Black/Yellow)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-36__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a black/yellow finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "55mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-36__3.jpg.jpg"
+  },
+  {
+   "id": "g-shock-23",
+   "name": "G-Shock GA-110 (Black/Blue)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-36__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a black/blue finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "55mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-36__4.jpg.jpg"
+  },
+  {
+   "id": "g-shock-24",
+   "name": "G-Shock GA-110 (White)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-37.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a white finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "55mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-37.jpg.jpg"
+  },
+  {
+   "id": "g-shock-25",
+   "name": "G-Shock GA-110RG (White/Rose-Gold)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-37__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a white/rose-gold finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "55mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-37__2.jpg.jpg"
+  },
+  {
+   "id": "g-shock-26",
+   "name": "G-Shock GA-110RG-7A (White/Rose-Gold)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-37__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a white/rose-gold finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "55mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-37__3.jpg.jpg"
+  },
+  {
+   "id": "g-shock-27",
+   "name": "G-Shock GA-2100 Set (All-Black Duo)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-38.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 19995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (all-black duo) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Cases",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-38.jpg.jpg"
+  },
+  {
+   "id": "g-shock-28",
+   "name": "G-Shock GM-5600B (Silver Steel Digital)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-38__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 26990,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a silver steel digital finish.",
+   "specs": {
+    "Movement": "Digital Quartz",
+    "Case": "Stainless-Steel Case",
+    "Diameter": "42mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-38__2.jpg.jpg"
+  },
+  {
+   "id": "g-shock-29",
+   "name": "G-Shock DW-5600 (Black Digital)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-38__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a black digital finish.",
+   "specs": {
+    "Movement": "Digital Quartz",
+    "Case": "Resin Case",
+    "Diameter": "42mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-38__3.jpg.jpg"
+  },
+  {
+   "id": "g-shock-30",
+   "name": "G-Shock GM-5600B (Black Steel Digital)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-38__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 26990,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a black steel digital finish.",
+   "specs": {
+    "Movement": "Digital Quartz",
+    "Case": "Stainless-Steel Case",
+    "Diameter": "42mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-38__4.jpg.jpg"
+  },
+  {
+   "id": "g-shock-31",
+   "name": "G-Shock GA-110 (Blue & White Duo)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-39.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a blue & white duo finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "55mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-39.jpg.jpg"
+  },
+  {
+   "id": "g-shock-32",
+   "name": "G-Shock GA-2100 (White/Grey)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-39__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a white/grey finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-39__2.jpg.jpg"
+  },
+  {
+   "id": "g-shock-33",
+   "name": "G-Shock GA-110 (Transparent/Yellow)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-39__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a transparent/yellow finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case",
+    "Diameter": "55mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-39__3.jpg.jpg"
+  },
+  {
+   "id": "g-shock-34",
+   "name": "G-Shock DW-5600 (Olive)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-40.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 8995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, an olive finish.",
+   "specs": {
+    "Movement": "Digital Quartz",
+    "Case": "Resin Case",
+    "Diameter": "42mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-40.jpg.jpg"
+  },
+  {
+   "id": "g-shock-35",
+   "name": "G-Shock GA-2100 (Camo Metal Bezel)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-40__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a camo metal bezel finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Metal Bezel",
+    "Diameter": "44mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-40__2.jpg.jpg"
+  },
+  {
+   "id": "g-shock-36",
+   "name": "G-Shock Mudmaster (Black/Green)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-40__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Tough G-Shock engineering \u2014 shock-resistant construction and a famous bold digital-analog profile, a black/green finish.",
+   "specs": {
+    "Movement": "Quartz (Analog-Digital)",
+    "Case": "Resin Case, Mud-Resistant",
+    "Diameter": "55mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-40__3.jpg.jpg"
+  },
+  {
+   "id": "g-shock-37",
+   "name": "G-Shock Digital (Neon Yellow)",
+   "images": [
+    "assets/collection/G-Shock/PHOTO-2024-11-30-07-41-40__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 7995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Built for hard wear: shock-resistant G-Shock case, digital-analog display, everyday durability in a neon yellow finish.",
+   "specs": {
+    "Movement": "Digital Quartz",
+    "Case": "Resin Case",
+    "Diameter": "45mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/g-shock/PHOTO-2024-11-30-07-41-40__4.jpg.jpg"
+  }
+ ]
+}

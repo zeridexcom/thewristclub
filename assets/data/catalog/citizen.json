@@ -1,0 +1,27 @@
+{
+ "brand": "Citizen",
+ "brandKey": "citizen",
+ "category": "unisex",
+ "cover": "assets/collection/Citizen/IMG-20250514-WA0006.jpg.jpg",
+ "items": [
+  {
+   "id": "citizen-1",
+   "name": "Citizen Automatic Skeleton (Two-Tone Bracelet, White Dial)",
+   "images": [
+    "assets/collection/Citizen/IMG-20250514-WA0006.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a two-tone bracelet, and a premium finish.",
+   "specs": {
+    "Movement": "Automatic Skeleton",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/citizen/IMG-20250514-WA0006.jpg.jpg"
+  }
+ ]
+}

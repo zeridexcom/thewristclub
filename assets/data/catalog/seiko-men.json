@@ -1,0 +1,46 @@
+{
+ "brand": "Seiko Men",
+ "brandKey": "seiko-men",
+ "category": "him",
+ "cover": "assets/collection/Seiko Men/IMG-20240712-WA0004.jpg.jpg",
+ "items": [
+  {
+   "id": "seiko-men-1",
+   "name": "Seiko 5 Sports Open-Heart Automatic (Black Dial)",
+   "images": [
+    "assets/collection/Seiko Men/IMG-20240712-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 40000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold Seiko automatic with an open-heart aperture revealing the movement, set in a black dial on a stitched black leather strap.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "42.5 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/seiko-men/IMG-20240712-WA0004.jpg.jpg"
+  },
+  {
+   "id": "seiko-men-2",
+   "name": "Seiko 5 Sports Open-Heart Automatic (Green Dial)",
+   "images": [
+    "assets/collection/Seiko Men/IMG_20240607_140443_197.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 40000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Seiko automatic whose green open-heart dial exposes the caliber at work, paired with a rugged green fabric strap.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "42.5 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/seiko-men/IMG_20240607_140443_197.jpg.jpg"
+  }
+ ]
+}

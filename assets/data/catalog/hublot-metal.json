@@ -1,0 +1,312 @@
+{
+ "brand": "Hublot (Metal Bracelet)",
+ "brandKey": "hublot-metal",
+ "category": "unisex",
+ "cover": "assets/collection/HUBLOT METAL/IMG-20240112-WA0006.jpg.jpg",
+ "items": [
+  {
+   "id": "hublot-metal-1",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Grey Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/IMG-20240112-WA0006.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT METAL look, executed to premium first-copy grade: grey dial, a steel bracelet, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/IMG-20240112-WA0006.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-2",
+   "name": "Hublot Aerofusion Chronograph (Grey/Black, Steel Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/IMG-20240131-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 signature dial on a steel bracelet, a grey/black finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/IMG-20240131-WA0001.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-3",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Black Dial, Gold Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT METAL chronograph \u2014 black dial, a gold bracelet, and a king gold finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-4",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__10.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT METAL look, executed to premium first-copy grade: black dial, a steel bracelet, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__10.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-5",
+   "name": "Hublot Aerofusion Chronograph (Rose-Gold, Skeleton, Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__11.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1250000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a bracelet, and a rose-gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__11.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-6",
+   "name": "Hublot Aerofusion Chronograph (Titanium, Skeleton, Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__12.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a bracelet and a titanium finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__12.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-7",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Black Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__13.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT METAL look, executed to premium first-copy grade: signature dial, a black bracelet, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__13.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-8",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Grey Dial)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__14.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 grey dial on its signature strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__14.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-9",
+   "name": "Hublot Classic Fusion (Rose-Gold & Black, Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1450000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT METAL chronograph \u2014 signature dial, a bracelet, and a rose-gold & black finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Rose-Gold & Steel Two-Tone",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__2.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-10",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Black Dial, Gold Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT METAL look, executed to premium first-copy grade: black dial, a gold bracelet, a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__3.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-11",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Rose Dial)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 rose dial on its signature strap, a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__4.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-12",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__5.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT METAL chronograph \u2014 black dial, its signature strap, and a titanium finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__5.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-13",
+   "name": "Hublot Aerofusion Chronograph (Steel, Skeleton, Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a bracelet, and a steel finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__6.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-14",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__7.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 black dial on its signature strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__7.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-15",
+   "name": "Hublot Classic Fusion Chronograph Pair (Steel & Rose-Gold Bracelets)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__8.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT METAL chronograph \u2014 signature dial, its signature strap, and a steel & rose-gold bracelets finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__8.jpg.jpg"
+  },
+  {
+   "id": "hublot-metal-16",
+   "name": "Hublot Classic Fusion (King Gold, Rose Dial, Gold Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT METAL/PHOTO-2022-01-27-13-57-20__9.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT METAL look, executed to premium first-copy grade: rose dial, a gold bracelet, a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-metal/PHOTO-2022-01-27-13-57-20__9.jpg.jpg"
+  }
+ ]
+}

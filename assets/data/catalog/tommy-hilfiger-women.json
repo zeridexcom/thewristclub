@@ -1,0 +1,27 @@
+{
+ "brand": "Tommy Hilfiger (Ladies)",
+ "brandKey": "tommy-hilfiger-women",
+ "category": "unisex",
+ "cover": "assets/collection/Tommy Hilfiger (women)/IMG_20240507_175247_435.jpg.jpg",
+ "items": [
+  {
+   "id": "tommy-hilfiger-women-1",
+   "name": "Tommy Hilfiger Multi-Eye (Rose-Gold Tone)",
+   "images": [
+    "assets/collection/Tommy Hilfiger (women)/IMG_20240507_175247_435.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 15995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An all-rose-gold Tommy Hilfiger ladies watch with crystal-set bezel, Roman numerals and a matching multi-link bracelet.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "38 mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tommy-hilfiger-women/IMG_20240507_175247_435.jpg.jpg"
+  }
+ ]
+}

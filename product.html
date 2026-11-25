@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./assets/css/css2-8ac0455e.css">
+<title>Timepiece — THEWRISTCLUB</title>
+<meta name="description" content="Authentic timepiece from The Wrist Club — verified in-house, insured pan-India shipping, price on request.">
+<style>
+  /* ---- Framer chrome suppression ---- */
+  #__framer-editorbar-container, #__framer-editorbar-label, #__framer-editorbar-button,
+  #__framer-badge-container, [id*="framer-badge"]{display:none!important}
+
+  :root{
+    --bg:#0d0d0d; --surface:#161616; --surface-2:#101010;
+    --gold:#ffffff; --text:#eaeaea; --muted:rgba(255,255,255,.6);
+    --faint:rgba(255,255,255,.45); --line:rgba(255,255,255,.1);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:radial-gradient(1400px 720px at 50% -140px,rgba(255,255,255,.05),transparent 65%),var(--bg);color:var(--text);
+    font-family:"Geist","Geist Placeholder",ui-sans-serif,-apple-system,"Helvetica Neue",Arial,sans-serif;
+    -webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  img{display:block}
+
+  /* ---- Header ---- */
+  .twc-header{position:fixed;top:0;left:0;right:0;z-index:1000;display:flex;align-items:center;
+    justify-content:space-between;padding:16px 28px;background:rgba(13,13,13,.86);
+    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+  .twc-wordmark{font-size:22px;font-weight:600;letter-spacing:2px;text-transform:uppercase;
+    color:var(--text);text-decoration:none}
+  .twc-wordmark:hover{color:var(--gold)}
+  .twc-header-link{all:unset;cursor:pointer;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;
+    color:var(--muted);padding:8px 16px;border:1px solid var(--line);border-radius:999px;transition:all .25s ease}
+  .twc-header-link:hover{color:var(--text);border-color:var(--gold)}
+
+  /* ---- Layout ---- */
+  .twc-page{max-width:1216px;margin:0 auto;padding:104px 24px 72px}
+  .twc-back{display:inline-flex;align-items:center;gap:8px;color:var(--muted);text-decoration:none;
+    font-size:13.5px;margin-bottom:26px;transition:color .25s ease}
+  .twc-back:hover{color:var(--text)}
+
+  .twc-product{display:grid;grid-template-columns:minmax(0,55fr) minmax(0,45fr);gap:44px;align-items:start}
+
+  /* ---- Gallery ---- */
+  .twc-gallery-main{position:relative;aspect-ratio:3/4;background:var(--surface-2);
+    border:1px solid var(--line);border-radius:22px;overflow:hidden}
+  .twc-gallery-main img{width:100%;height:100%;object-fit:cover}
+  .twc-thumbs{display:flex;gap:10px;margin-top:12px;overflow-x:auto;padding-bottom:4px;
+    scrollbar-width:thin;scrollbar-color:rgba(255,255,255,.18) transparent}
+  .twc-thumbs::-webkit-scrollbar{height:6px}
+  .twc-thumbs::-webkit-scrollbar-thumb{background:rgba(255,255,255,.18);border-radius:99px}
+  .twc-thumb{all:unset;cursor:pointer;flex:0 0 auto;width:64px;height:64px;border-radius:12px;overflow:hidden;
+    border:1.5px solid var(--line);opacity:.65;transition:all .25s ease;background:var(--surface-2)}
+  .twc-thumb img{width:100%;height:100%;object-fit:cover}
+  .twc-thumb:hover{opacity:1;border-color:rgba(255,255,255,.4)}
+  .twc-thumb[data-active="1"]{opacity:1;border-color:var(--gold)}
+  .twc-img-missing{background:linear-gradient(135deg,#151515 0%,#0d0d0d 55%,#171717 100%)}
+  .twc-img-missing:after{content:"TWC";position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+    color:rgba(255,255,255,.16);font-size:34px;letter-spacing:8px;font-weight:600}
+
+  /* ---- Info column ---- */
+  .twc-brand-overline{font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--muted);
+    font-weight:600;margin-bottom:10px}
+  .twc-info h1{font-size:34px;font-weight:600;margin:0 0 18px;line-height:1.18;letter-spacing:-0.02em}
+
+  .twc-pricebox{background:var(--surface);border:1px solid var(--line);border-radius:18px;
+    padding:20px 22px;margin-bottom:22px}
+  .twc-mrp{color:var(--faint);font-size:14px;margin-bottom:6px}
+  .twc-mrp .twc-mrp-strike{text-decoration:line-through;color:rgba(255,255,255,.4)}
+  .twc-mrp .twc-mrp-note{font-size:12.5px;color:var(--faint);margin-left:8px}
+  .twc-ourlabel{font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+  .twc-ourprice{font-size:28px;font-weight:600;color:var(--gold);line-height:1.2}
+
+  .twc-desc{color:var(--muted);font-size:14.5px;line-height:1.7;margin:0 0 26px}
+  .twc-desc:empty{display:none}
+
+  .twc-sectiontitle{font-size:13px;letter-spacing:2px;text-transform:uppercase;color:var(--text);
+    font-weight:600;margin:0 0 14px}
+  .twc-specs{width:100%;border-collapse:collapse;margin-bottom:26px}
+  .twc-specs td{padding:10px 0;border-bottom:1px solid var(--line);font-size:13.5px;vertical-align:top}
+  .twc-specs td:first-child{color:var(--faint);width:42%;padding-right:14px}
+  .twc-specs td:last-child{color:var(--text)}
+
+  .twc-features{list-style:none;margin:0 0 30px;padding:0}
+  .twc-features li{position:relative;padding:6px 0 6px 22px;color:var(--muted);font-size:14px;line-height:1.55}
+  .twc-features li:before{content:"";position:absolute;left:0;top:13px;width:7px;height:7px;border-radius:99px;
+    background:var(--gold)}
+
+  .twc-cta{all:unset;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:10px;width:100%;
+    padding:16px 24px;border-radius:999px;background:var(--gold);color:#0a0a0a;font-weight:600;font-size:15px;
+    text-align:center;transition:all .25s ease;box-sizing:border-box}
+  .twc-cta:hover{filter:brightness(1.1);transform:translateY(-1px)}
+  .twc-cta svg{width:20px;height:20px;flex-shrink:0}
+  .twc-ctanote{text-align:center;color:var(--faint);font-size:12.5px;margin-top:10px}
+
+  /* ---- More from brand ---- */
+  .twc-more{margin-top:64px}
+  .twc-more h2{font-size:20px;font-weight:600;margin:0 0 18px}
+  .twc-morerow{display:grid;grid-auto-flow:column;grid-auto-columns:200px;gap:14px;overflow-x:auto;
+    padding-bottom:10px;scrollbar-width:thin;scrollbar-color:rgba(255,255,255,.18) transparent}
+  .twc-morerow::-webkit-scrollbar{height:6px}
+  .twc-morerow::-webkit-scrollbar-thumb{background:rgba(255,255,255,.18);border-radius:99px}
+  .twc-morerow .twc-card{grid-auto-columns:auto}
+  .twc-more-all{all:unset;cursor:pointer;flex:0 0 auto;display:flex;align-items:center;justify-content:center;
+    min-height:200px;padding:0 20px;border-radius:18px;border:1px dashed rgba(255,255,255,.35);color:var(--text);
+    font-size:13.5px;text-decoration:none;transition:all .25s ease}
+  .twc-more-all:hover{background:rgba(255,255,255,.06)}
+
+  /* ---- States ---- */
+  .twc-state{text-align:center;padding:90px 20px 120px;color:var(--muted)}
+  .twc-state .twc-overline{font-size:12px;letter-spacing:2.5px;text-transform:uppercase;color:var(--gold);
+    font-weight:600;margin-bottom:12px}
+  .twc-state h1{color:var(--text);font-size:28px;margin:0 0 10px;font-weight:600}
+  .twc-state p{margin:0 0 26px;font-size:14.5px}
+  .twc-state a{display:inline-block;padding:12px 28px;border-radius:999px;border:1px solid var(--gold);
+    color:var(--gold);font-size:13.5px;text-decoration:none;transition:all .25s ease}
+  .twc-state a:hover{background:var(--gold);color:#0a0a0a}
+
+  @media(max-width:810px){
+    .twc-header{padding:13px 16px}
+    .twc-page{padding:88px 16px 56px}
+    .twc-product{grid-template-columns:1fr;gap:28px}
+    .twc-info h1{font-size:24px}
+    .twc-ourprice{font-size:24px}
+  }
+</style>
+</head>
+<body>
+
+<header class="twc-header">
+  <a class="twc-wordmark" href="index.html">THEWRISTCLUB</a>
+  <a class="twc-header-link" href="catalog.html">Full Collection</a>
+</header>
+
+<main class="twc-page">
+  <a class="twc-back" id="twc-back" href="catalog.html">&larr; Back to Collection</a>
+  <div id="twc-content"></div>
+  <div class="twc-state" id="twc-state" hidden>
+    <div class="twc-overline">THE WRIST CLUB</div>
+    <h1>We couldn&rsquo;t find that watch</h1>
+    <p>This piece may have been moved or the link is incomplete. The full collection is waiting for you.</p>
+    <a href="catalog.html">Browse the Full Collection</a>
+  </div>
+</main>
+
+<script src="assets/js/twc-shop.js" defer></script><script src="assets/js/twc-nav.js" defer></script><script src="assets/js/twc-order.js" defer></script><script src="assets/js/twc-social.js" defer></script>
+<script defer>
+;(function () {
+  'use strict';
+
+  /* Enquiry WhatsApp number (placeholder) — single source of truth */
+  var WHATSAPP_NUMBER = '919000000000';
+
+  var FEATURES_DEFAULT = [
+    'Authentic piece, verified in-house',
+    'Insured pan-India shipping',
+    '7-day easy returns',
+    'WhatsApp for a live video call viewing'
+  ];
+
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  }
+  function $(id) { return document.getElementById(id); }
+
+  function whatsappLink(name, brandName) {
+    try {
+      var msg = "Hi! I'm interested in the " + name + " (" + brandName + ") listed on The Wrist Club.";
+      return 'https://wa.me/' + WHATSAPP_NUMBER + '?text=' + encodeURIComponent(msg);
+    } catch (_e) { return 'https://wa.me/' + WHATSAPP_NUMBER; }
+  }
+
+  /* Derive sensible feature bullets from specs + the standard defaults. */
+  function buildFeatures(specs) {
+    var out = [];
+    try {
+      var s = specs || {};
+      var order = ['Movement', 'Case', 'Diameter', 'Water Resistance', 'Material', 'Glass', 'Strap', 'Band'];
+      order.forEach(function (k) {
+        if (s[k] && typeof s[k] === 'string' && s[k].trim()) {
+          var labelMap = {
+            'Movement': 'Movement', 'Case': 'Case', 'Diameter': 'Case size',
+            'Water Resistance': 'Water resistance', 'Material': 'Material',
+            'Glass': 'Glass', 'Strap': 'Strap', 'Band': 'Band'
+          };
+          out.push(labelMap[k] + ' — ' + s[k].trim());
+        }
+      });
+    } catch (_e) { /* defaults only */ }
+    return out.concat(FEATURES_DEFAULT);
+  }
+
+  function specsTable(specs) {
+    try {
+      var keys = Object.keys(specs || {}).filter(function (k) {
+        return specs[k] != null && String(specs[k]).trim() !== '';
+      });
+      if (!keys.length) return null;
+      var table = el('table', 'twc-specs');
+      keys.forEach(function (k) {
+        var tr = el('tr');
+        tr.appendChild(el('td', null, k));
+        tr.appendChild(el('td', null, String(specs[k])));
+        table.appendChild(tr);
+      });
+      return table;
+    } catch (_e) { return null; }
+  }
+
+  function gallery(item) {
+    try {
+      var imgs = (item && Array.isArray(item.images) ? item.images : []).filter(function (u) { return u && typeof u === 'string'; });
+      if (!imgs.length) imgs = [''];
+
+      var main = el('div', 'twc-gallery-main');
+      var mainImg = document.createElement('img');
+      mainImg.alt = item.name || 'Timepiece';
+      mainImg.decoding = 'async';
+      if (imgs[0]) {
+        mainImg.addEventListener('error', function () {
+          try { mainImg.style.display = 'none'; main.classList.add('twc-img-missing'); } catch (_e) {}
+        });
+        mainImg.src = imgs[0];
+      } else {
+        mainImg.style.display = 'none';
+        main.classList.add('twc-img-missing');
+      }
+      main.appendChild(mainImg);
+
+      var wrap = el('div', 'twc-gallerywrap');
+      wrap.appendChild(main);
+      if (imgs.length > 1) {
+        var thumbs = el('div', 'twc-thumbs');
+        imgs.forEach(function (src, i) {
+          var t = el('button', 'twc-thumb');
+          t.type = 'button';
+          t.setAttribute('data-active', String(i === 0 ? 1 : 0));
+          var ti = document.createElement('img');
+          ti.alt = 'View ' + (i + 1);
+          ti.loading = 'lazy';
+          ti.addEventListener('error', function () { try { ti.style.display = 'none'; } catch (_e) {} });
+          ti.src = src;
+          t.appendChild(ti);
+          t.addEventListener('click', function () {
+            try {
+              mainImg.style.display = '';
+              mainImg.src = src;
+              main.classList.remove('twc-img-missing');
+              thumbs.querySelectorAll('.twc-thumb').forEach(function (x) { x.setAttribute('data-active', '0'); });
+              t.setAttribute('data-active', '1');
+            } catch (_e) { /* never throw */ }
+          });
+          thumbs.appendChild(t);
+        });
+        wrap.appendChild(thumbs);
+      }
+      return wrap;
+    } catch (_e) { return el('div'); }
+  }
+
+  function infoColumn(item, brandName, brandKey, n) {
+    try {
+      var info = el('div', 'twc-info');
+      info.appendChild(el('div', 'twc-brand-overline', brandName || 'The Wrist Club'));
+      info.appendChild(el('h1', null, item.name || 'Timepiece'));
+
+      /* price block */
+      var box = el('div', 'twc-pricebox');
+      var mrp = typeof item.mrp === 'number' && isFinite(item.mrp) ? item.mrp : null;
+      if (mrp != null) {
+        var mrpRow = el('div', 'twc-mrp');
+        mrpRow.appendChild(el('span', 'twc-mrp-strike', 'MRP ' + TWCSHOP.formatINR(mrp)));
+        var note = (typeof item.mrpNote === 'string' && item.mrpNote.trim()) ? item.mrpNote.trim() : '';
+        if (note) mrpRow.appendChild(el('span', 'twc-mrp-note', '· ' + note));
+        box.appendChild(mrpRow);
+      }
+      box.appendChild(el('div', 'twc-ourlabel', 'Our Price'));
+      box.appendChild(el('div', 'twc-ourprice', (typeof item.price === 'string' && item.price.trim()) ? item.price : 'Price on Request'));
+      info.appendChild(box);
+
+      if (typeof item.desc === 'string' && item.desc.trim()) {
+        info.appendChild(el('p', 'twc-desc', item.desc.trim()));
+      }
+
+      var table = specsTable(item.specs);
+      if (table) {
+        var st = el('h2', 'twc-sectiontitle', 'Specifications');
+        info.appendChild(st);
+        info.appendChild(table);
+      }
+
+      info.appendChild(el('h2', 'twc-sectiontitle', 'Features'));
+      var ul = el('ul', 'twc-features');
+      buildFeatures(item.specs).forEach(function (f) { ul.appendChild(el('li', null, f)); });
+      info.appendChild(ul);
+
+      /* WhatsApp CTA */
+      var cta = el('a', 'twc-cta', '');
+      cta.href = whatsappLink(item.name || 'a timepiece', brandName || 'The Wrist Club');
+      cta.target = '_blank';
+      cta.rel = 'noopener';
+      cta.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.04 2c-5.46 0-9.9 4.44-9.91 9.9 0 1.75.46 3.45 1.32 4.95L2 22l5.3-1.39a9.87 9.87 0 0 0 4.73 1.2h.01c5.46 0 9.9-4.44 9.9-9.9A9.86 9.86 0 0 0 12.04 2Zm5.8 14.06c-.24.68-1.4 1.3-1.93 1.35-.52.05-1.01.24-3.4-.71-2.87-1.13-4.68-4.06-4.82-4.25-.14-.19-1.15-1.55-1.15-2.95 0-1.4.73-2.09 1-2.38.26-.29.57-.36.76-.36.19 0 .38 0 .55.01.18.01.41-.07.64.49.24.56.8 1.95.87 2.09.07.14.12.31.02.5-.1.19-.15.31-.29.48-.15.17-.31.38-.44.51-.14.14-.29.3-.12.58.17.29.75 1.23 1.61 2 1.11.99 2.04 1.29 2.33 1.44.29.14.46.12.63-.07.17-.19.72-.85.92-1.14.19-.29.38-.24.65-.14.26.1 1.68.79 1.96.94.29.14.48.22.55.34.07.12.07.68-.17 1.36Z"/></svg>';
+      cta.appendChild(document.createTextNode('Enquire Now — WhatsApp'));
+      info.appendChild(cta);
+      info.appendChild(el('p', 'twc-ctanote', 'Reply time is usually minutes — happy to share a live video of the piece.'));
+
+      return info;
+    } catch (_e) { return el('div'); }
+  }
+
+  function moreFromBrand(items, brandName, brandKey, excludeN) {
+    try {
+      var others = (Array.isArray(items) ? items : [])
+        .map(function (it, i) { return { item: it, n: i + 1 }; })
+        .filter(function (o) { return o.n !== excludeN; })
+        .slice(0, 8);
+      if (!others.length) return null;
+
+      var section = el('div', 'twc-more');
+      section.appendChild(el('h2', null, 'More from ' + (brandName || 'this brand')));
+      var row = el('div', 'twc-morerow');
+      others.forEach(function (o) {
+        var brandEntry = { brand: brandName, brandKey: brandKey, items: items };
+        row.appendChild(TWCSHOP.renderCard(o.item, brandEntry, o.n));
+      });
+      var all = el('a', 'twc-more-all', 'View all ' + (brandName || '') + ' \u2192');
+      all.href = 'catalog.html?brand=' + encodeURIComponent(brandKey);
+      row.appendChild(all);
+      section.appendChild(row);
+      return section;
+    } catch (_e) { return null; }
+  }
+
+  function renderProduct(brandData, n) {
+    try {
+      var content = $('twc-content');
+      var stateBox = $('twc-state');
+      var items = brandData && Array.isArray(brandData.items) ? brandData.items : [];
+      var item = items[n - 1];
+      if (!item) {
+        content.innerHTML = '';
+        stateBox.hidden = false;
+        document.title = 'Watch not found — THEWRISTCLUB';
+        return;
+      }
+      stateBox.hidden = true;
+
+      var brandName = (brandData && brandData.brand) || '';
+      var brandKey = (brandData && brandData.brandKey) || '';
+
+      content.innerHTML = '';
+      var grid = el('div', 'twc-product');
+      grid.appendChild(gallery(item));
+      grid.appendChild(infoColumn(item, brandName, brandKey, n));
+      content.appendChild(grid);
+
+      var more = moreFromBrand(items, brandName, brandKey, n);
+      if (more) content.appendChild(more);
+
+      document.title = (item.name || 'Timepiece') + ' — THEWRISTCLUB';
+    } catch (_e) {
+      try { $('twc-state').hidden = false; } catch (_e2) {}
+    }
+  }
+
+  function boot() {
+    try {
+      var q = TWCSHOP.parseQuery(window.location.search);
+      var content = $('twc-content');
+      if (!content) return;
+      if (!q.ok) {
+        $('twc-state').hidden = false;
+        document.title = 'Watch not found — THEWRISTCLUB';
+        return;
+      }
+      /* back link: a ?brand= aware catalog view */
+      var back = $('twc-back');
+      try { back.href = 'catalog.html?brand=' + encodeURIComponent(q.brandKey); } catch (_e) {}
+
+      TWCSHOP.loadBrand(q.brandKey).then(function (d) {
+        renderProduct(d, q.n);
+      }).catch(function () {
+        content.innerHTML = '';
+        $('twc-state').hidden = false;
+        document.title = 'Watch not found — THEWRISTCLUB';
+      });
+    } catch (_e) {
+      try { $('twc-state').hidden = false; } catch (_e2) {}
+    }
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
+  else boot();
+})();
+</script>
+
+<script>
+/* product page: the Enquire CTA opens the WhatsApp order modal instead of jumping straight out */
+(function () {
+  document.addEventListener('click', function (ev) {
+    var a = ev.target.closest && ev.target.closest('a.twc-cta');
+    if (!a) return;
+    if (!window.TWCORDER) return;
+    ev.preventDefault();
+    var h1 = document.querySelector('.twc-info h1');
+    var brand = document.querySelector('.twc-brand-overline');
+    var img = document.querySelector('.twc-gallery-main img');
+    var url = 'product.html?p=' + (window.__twcProductKey || location.search.replace('?p=',''));
+    window.TWCORDER.open({
+      name: h1 ? h1.textContent.trim() : 'Timepiece',
+      brand: brand ? brand.textContent.trim() : 'The Wrist Club',
+      images: img ? [img.src] : [],
+      url: url
+    });
+  });
+})();
+</script>
+</body>
+</html>

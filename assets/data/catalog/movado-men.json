@@ -1,0 +1,27 @@
+{
+ "brand": "Movado Men",
+ "brandKey": "movado-men",
+ "category": "him",
+ "cover": "assets/collection/Movado Men/IMG-20240219-WA0001.jpg.jpg",
+ "items": [
+  {
+   "id": "movado-men-1",
+   "name": "Movado Museum Classic (Two-Tone Gold)",
+   "images": [
+    "assets/collection/Movado Men/IMG-20240219-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 89550,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The icon itself \u2014 a jet-black Museum dial with a single gold dot at 12 o'clock, gold-toned dauphine hands and a two-tone steel-and-gold link bracelet.",
+   "specs": {
+    "Movement": "Swiss quartz two-hand",
+    "Case": "Two-tone stainless steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/movado-men/IMG-20240219-WA0001.jpg.jpg"
+  }
+ ]
+}

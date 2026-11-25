@@ -1,0 +1,901 @@
+{
+ "brand": "Daniel Wellington",
+ "brandKey": "dw",
+ "category": "unisex",
+ "cover": "assets/collection/DW/14c12e6b-4322-459b-8108-ac90f3065e16.JPG.jpg",
+ "items": [
+  {
+   "id": "dw-1",
+   "name": "DW Classic St Mawes 40mm (Black Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW/14c12e6b-4322-459b-8108-ac90f3065e16.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, a brown leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/14c12e6b-4322-459b-8108-ac90f3065e16.JPG.jpg"
+  },
+  {
+   "id": "dw-2",
+   "name": "DW Classic Sheffield 36mm (White Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW/233f7507-a416-4218-8369-be410a796b791533535529616-Daniel-Wellington-Women-White-Analogue-Watch-DW00100186-5891533535529589-6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 white dial with a black leather, the signature DW silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/233f7507-a416-4218-8369-be410a796b791533535529616-Daniel-Wellington-Women-White-Analogue-Watch-DW00100186-5891533535529589-6.jpg.jpg"
+  },
+  {
+   "id": "dw-3",
+   "name": "DW Classic Sheffield 36mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW/2a52bc8a-f0c4-4d97-9662-d346f06530fe1533535610611-Daniel-Wellington-Women-Black-Analogue-Watch-DW00100180-1361533535610588-6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a black leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/2a52bc8a-f0c4-4d97-9662-d346f06530fe1533535610611-Daniel-Wellington-Women-Black-Analogue-Watch-DW00100180-1361533535610588-6.jpg.jpg"
+  },
+  {
+   "id": "dw-4",
+   "name": "DW Classic Petite St Mawes (White Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW/3595a34f-d4d5-4952-ac29-3ac018f5d3491533532814087-Daniel-Wellington-Women-White-Analogue-Watch-DW00100172-3391533532814037-6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: white dial, a brown leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "28mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/3595a34f-d4d5-4952-ac29-3ac018f5d3491533532814087-Daniel-Wellington-Women-White-Analogue-Watch-DW00100172-3391533532814037-6.jpg.jpg"
+  },
+  {
+   "id": "dw-5",
+   "name": "DW Classic Bristol 40mm (Navy Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW/4a434f25-1b80-4620-930f-586b7a81ee81.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 navy dial with a brown leather, the signature DW silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/4a434f25-1b80-4620-930f-586b7a81ee81.JPG.jpg"
+  },
+  {
+   "id": "dw-6",
+   "name": "DW Classic St Mawes 36mm (Black Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW/5152e3dc-9326-45b3-aaa1-56becda475761533532826227-Daniel-Wellington-Women-Black-Analogue-Watch-DW00100178-9291533532826198-6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a brown leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/5152e3dc-9326-45b3-aaa1-56becda475761533532826227-Daniel-Wellington-Women-Black-Analogue-Watch-DW00100178-9291533532826198-6.jpg.jpg"
+  },
+  {
+   "id": "dw-7",
+   "name": "DW Classic St Mawes 40mm (White Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW/51851CBA-7256-436C-82D8-E0145FE75BE5.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: white dial, a brown leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/51851CBA-7256-436C-82D8-E0145FE75BE5.JPEG.jpg"
+  },
+  {
+   "id": "dw-8",
+   "name": "DW Classic (Sky-Blue Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW/6b574ad7-3d69-4608-b466-c4ffc47244a4.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 sky-blue dial with a black leather, the signature DW silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/6b574ad7-3d69-4608-b466-c4ffc47244a4.JPG.jpg"
+  },
+  {
+   "id": "dw-9",
+   "name": "DW Classic St Mawes 36mm (White Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW/7d1a65b2-7669-4801-8efa-b468f19ad70c1533533532248-Daniel-Wellington-Women-White--White-Analogue-Watch-DW00100239-7131533533532223-6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 white dial on a brown leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/7d1a65b2-7669-4801-8efa-b468f19ad70c1533533532248-Daniel-Wellington-Women-White--White-Analogue-Watch-DW00100239-7131533533532223-6.jpg.jpg"
+  },
+  {
+   "id": "dw-10",
+   "name": "DW Classic Petite Sheffield 28mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW/876831ED-1A74-42D3-A75D-A2F6B8C29F4A.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 11995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, a black leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "28mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/876831ED-1A74-42D3-A75D-A2F6B8C29F4A.JPEG.jpg"
+  },
+  {
+   "id": "dw-11",
+   "name": "DW Classic St Mawes 40mm (Black Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW/8a0ce98e-7a5a-43d0-abb5-a3849cdd0c6d.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 black dial with a brown leather, the signature DW silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/8a0ce98e-7a5a-43d0-abb5-a3849cdd0c6d.JPG.jpg"
+  },
+  {
+   "id": "dw-12",
+   "name": "DW Classic Sheffield 36mm (White Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW/8f04723c-c63f-49d4-96b3-8ac1879545ae1533535702233-Daniel-Wellington-Women-Black-Analogue-Watch-DW00100225-1881533535702202-6.webp.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 white dial on a black leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/8f04723c-c63f-49d4-96b3-8ac1879545ae1533535702233-Daniel-Wellington-Women-Black-Analogue-Watch-DW00100225-1881533535702202-6.webp.jpg"
+  },
+  {
+   "id": "dw-13",
+   "name": "DW Classic St Mawes 36mm (White Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW/976decca-de96-4f6e-86b1-55f7742dcc791533533500429-Daniel-Wellington-Women-White--Black-Analogue-Watch-DW00100230-7971533533500404-6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: white dial, a brown leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/976decca-de96-4f6e-86b1-55f7742dcc791533533500429-Daniel-Wellington-Women-White--Black-Analogue-Watch-DW00100230-7971533533500404-6.jpg.jpg"
+  },
+  {
+   "id": "dw-14",
+   "name": "DW Classic Reading (White Dial, Blue Leather, Rose-Gold)",
+   "images": [
+    "assets/collection/DW/B8B4BD92-C77C-4B67-9B90-F9662E6CFF83.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 white dial with a blue leather, the signature DW silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/B8B4BD92-C77C-4B67-9B90-F9662E6CFF83.JPEG.jpg"
+  },
+  {
+   "id": "dw-15",
+   "name": "DW Classic Reading 40mm (White Dial, Blue Leather)",
+   "images": [
+    "assets/collection/DW/DW Blue.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 white dial on a blue leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/DW Blue.JPG.jpg"
+  },
+  {
+   "id": "dw-16",
+   "name": "DW Classic Gift Set (Black & White Dials, Brown Leather)",
+   "images": [
+    "assets/collection/DW/DW WOMEN&#39;S 1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (black & white dials, brown leather) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36 & 40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/DW WOMEN&#39;S 1.jpg.jpg"
+  },
+  {
+   "id": "dw-17",
+   "name": "DW Classic Gift Set (Black & White Dials, Brown Leather)",
+   "images": [
+    "assets/collection/DW/DW WOMEN&#39;S BLACK.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (black & white dials, brown leather) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36 & 40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/DW WOMEN&#39;S BLACK.jpg.jpg"
+  },
+  {
+   "id": "dw-18",
+   "name": "DW Classic Petite Mesh Collection (Assorted Colours)",
+   "images": [
+    "assets/collection/DW/F70EC132-A94A-43AE-AFFA-D961A6A3F362.PNG.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Slim mesh-bracelet elegance with a signature dial, an assorted colours finish \u2014 Scandi-minimal style, faithfully executed.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/F70EC132-A94A-43AE-AFFA-D961A6A3F362.PNG.jpg"
+  },
+  {
+   "id": "dw-19",
+   "name": "DW Classic Petite Mesh Set (Blue & Black Dials, Rose-Gold)",
+   "images": [
+    "assets/collection/DW/File_000-141_1.jpeg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (blue & black dials, rose-gold) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/File_000-141_1.jpeg.jpg"
+  },
+  {
+   "id": "dw-20",
+   "name": "DW Classic Petite Mesh Set (Black & White Dials)",
+   "images": [
+    "assets/collection/DW/File_000-45.jpeg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (black & white dials) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/File_000-45.jpeg.jpg"
+  },
+  {
+   "id": "dw-21",
+   "name": "DW Classic Petite Sterling (Black Dial, Silver Mesh)",
+   "images": [
+    "assets/collection/DW/File_000-88.jpeg.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A featherlight mesh bracelet cradles a black dial for the iconic minimalist look, a premium finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/File_000-88.jpeg.jpg"
+  },
+  {
+   "id": "dw-22",
+   "name": "DW Quadro Pressed Rose-Gold (White Dial)",
+   "images": [
+    "assets/collection/DW/IMG-20231204-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: white dial, its signature strap, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "29mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG-20231204-WA0004.jpg.jpg"
+  },
+  {
+   "id": "dw-23",
+   "name": "DW Classic Sheffield 40mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW/IMG-20240531-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 black dial with a black leather, the signature DW silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG-20240531-WA0005.jpg.jpg"
+  },
+  {
+   "id": "dw-24",
+   "name": "DW Classic Petite Mesh Set (Sterling & Black Dials, Silver)",
+   "images": [
+    "assets/collection/DW/IMG_0431.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (sterling & black dials, silver) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_0431.jpg.jpg"
+  },
+  {
+   "id": "dw-25",
+   "name": "DW Classic Sheffield Set (All-Black, 40 & 36mm)",
+   "images": [
+    "assets/collection/DW/IMG_0777.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (all-black, 40 & 36mm) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36 & 40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_0777.jpg.jpg"
+  },
+  {
+   "id": "dw-26",
+   "name": "DW Classic Petite Black Mesh Set (Black Dials)",
+   "images": [
+    "assets/collection/DW/IMG_1501.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (black dials) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_1501.jpg.jpg"
+  },
+  {
+   "id": "dw-27",
+   "name": "DW Classic Petite Ashfield (Black Dial, Black Mesh)",
+   "images": [
+    "assets/collection/DW/IMG_1501__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A featherlight mesh bracelet cradles a black dial for the iconic minimalist look, a premium finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_1501__2.jpg.jpg"
+  },
+  {
+   "id": "dw-28",
+   "name": "DW Classic Petite Evergold Mesh (Emerald Dial)",
+   "images": [
+    "assets/collection/DW/IMG_1509.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Slim mesh-bracelet elegance with a emerald dial, a premium finish \u2014 Scandi-minimal style, faithfully executed.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_1509.jpg.jpg"
+  },
+  {
+   "id": "dw-29",
+   "name": "DW Classic Petite Evergold Mesh (Saddle Dial)",
+   "images": [
+    "assets/collection/DW/IMG_1510.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A featherlight mesh bracelet cradles a saddle dial for the iconic minimalist look, a premium finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_1510.jpg.jpg"
+  },
+  {
+   "id": "dw-30",
+   "name": "DW Classic Petite Evergold (Gold Dial, Gold Mesh)",
+   "images": [
+    "assets/collection/DW/IMG_1511.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Slim mesh-bracelet elegance with a gold dial, a premium finish \u2014 Scandi-minimal style, faithfully executed.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_1511.jpg.jpg"
+  },
+  {
+   "id": "dw-31",
+   "name": "DW Dapper St Mawes 38mm (White Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW/IMG_1545.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 18995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The vintage-inspired DW chronograph \u2014 white dial on a brown leather, a premium finish, timeless proportions.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "38mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_1545.jpg.jpg"
+  },
+  {
+   "id": "dw-32",
+   "name": "DW Classic Petite Evergold Mesh (Gold Dials)",
+   "images": [
+    "assets/collection/DW/IMG_1625.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Slim mesh-bracelet elegance with a signature dial, a gold dials finish \u2014 Scandi-minimal style, faithfully executed.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_1625.jpg.jpg"
+  },
+  {
+   "id": "dw-33",
+   "name": "DW Classic Cornwall 40mm (Black Dial, Red Leather)",
+   "images": [
+    "assets/collection/DW/IMG_1730.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a red leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_1730.jpg.jpg"
+  },
+  {
+   "id": "dw-34",
+   "name": "DW Classic Petite Mesh Set (Ice-Blue & Black Dials, Rose-Gold)",
+   "images": [
+    "assets/collection/DW/IMG_20201229_121541__01.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (ice-blue & black dials, rose-gold) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_20201229_121541__01.jpg.jpg"
+  },
+  {
+   "id": "dw-35",
+   "name": "DW Classic Petite Evergold Mesh (Black Dial)",
+   "images": [
+    "assets/collection/DW/IMG_20201229_121644_1jj.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A featherlight mesh bracelet cradles a black dial for the iconic minimalist look, a premium finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_20201229_121644_1jj.jpg.jpg"
+  },
+  {
+   "id": "dw-36",
+   "name": "DW Classic Petite Evergold Mesh (Ice-Blue Dial)",
+   "images": [
+    "assets/collection/DW/IMG_20201231_163936_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Slim mesh-bracelet elegance with a ice-blue dial, a premium finish \u2014 Scandi-minimal style, faithfully executed.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_20201231_163936_1.jpg.jpg"
+  },
+  {
+   "id": "dw-37",
+   "name": "DW Classic Petite Ashfield 36mm (Black Dial, Black Mesh)",
+   "images": [
+    "assets/collection/DW/IMG_20210712_121807_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A featherlight mesh bracelet cradles a black dial for the iconic minimalist look, a premium finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_20210712_121807_1.jpg.jpg"
+  },
+  {
+   "id": "dw-38",
+   "name": "DW Quadro (Rose-Gold, White Dial, Pressed Mesh)",
+   "images": [
+    "assets/collection/DW/IMG_20240804_001639_514.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 white dial with a pressed mesh, the signature DW silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "29mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_20240804_001639_514.jpg.jpg"
+  },
+  {
+   "id": "dw-39",
+   "name": "DW Iconic Link (White Dial, Rose-Gold & Steel)",
+   "images": [
+    "assets/collection/DW/IMG_3218.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 19995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A featherlight mesh bracelet cradles a white dial for the iconic minimalist look, a rose-gold & steel finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_3218.jpg.jpg"
+  },
+  {
+   "id": "dw-40",
+   "name": "DW Iconic Link (White Dial, Gold-Tone)",
+   "images": [
+    "assets/collection/DW/IMG_3219.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 19995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Slim mesh-bracelet elegance with a white dial, a gold-tone finish \u2014 Scandi-minimal style, faithfully executed.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_3219.jpg.jpg"
+  },
+  {
+   "id": "dw-41",
+   "name": "DW Classic Glasgow Rose-Gold 36mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW/IMG_9539.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 black dial with a black leather, the signature DW silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/IMG_9539.jpg.jpg"
+  },
+  {
+   "id": "dw-42",
+   "name": "DW Classic Sheffield Set (Black Dials, 40 & 36mm)",
+   "images": [
+    "assets/collection/DW/PicsArt_06-14-08.30.27.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (black dials, 40 & 36mm) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36 & 40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/PicsArt_06-14-08.30.27.jpg.jpg"
+  },
+  {
+   "id": "dw-43",
+   "name": "DW Classic St Mawes 40mm (Ice-Blue Dial, Brown Leather)",
+   "images": [
+    "assets/collection/DW/b46c8b74-a9fe-407a-96da-b2e07049a316.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: ice-blue dial, an brown leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/b46c8b74-a9fe-407a-96da-b2e07049a316.JPG.jpg"
+  },
+  {
+   "id": "dw-44",
+   "name": "DW Classic Petite Ashfield 36mm (Black Dial, Black Mesh)",
+   "images": [
+    "assets/collection/DW/b6e123b3-2bcc-4eb3-9c78-ef23d897bed31533535578491-Daniel-Wellington-Women-Black-Analogue-Watch-DW00100168-291533535578441-6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 13995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Slim mesh-bracelet elegance with a black dial, a premium finish \u2014 Scandi-minimal style, faithfully executed.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/b6e123b3-2bcc-4eb3-9c78-ef23d897bed31533535578491-Daniel-Wellington-Women-Black-Analogue-Watch-DW00100168-291533535578441-6.jpg.jpg"
+  },
+  {
+   "id": "dw-45",
+   "name": "DW Classic Sheffield 36mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW/c0cbf472-7cb3-4986-a601-d272618714b1.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a black leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/c0cbf472-7cb3-4986-a601-d272618714b1.JPG.jpg"
+  },
+  {
+   "id": "dw-46",
+   "name": "DW Classic St Mawes 36mm (White Dial, Brown Leather, Rose-Gold)",
+   "images": [
+    "assets/collection/DW/c64e4b90-99ec-4c4f-bde7-f3cca1acac2e.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 13495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: white dial, a brown leather, and a rose-gold finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/c64e4b90-99ec-4c4f-bde7-f3cca1acac2e.JPG.jpg"
+  },
+  {
+   "id": "dw-47",
+   "name": "DW Classic Sheffield 36mm (White Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW/f972ea8f-7b7b-4a8c-835d-5d944e384fab.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 12799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 white dial with a black leather, the signature DW silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw/f972ea8f-7b7b-4a8c-835d-5d944e384fab.JPG.jpg"
+  }
+ ]
+}

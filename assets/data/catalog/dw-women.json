@@ -1,0 +1,426 @@
+{
+ "brand": "Daniel Wellington (Ladies)",
+ "brandKey": "dw-women",
+ "category": "unisex",
+ "cover": "assets/collection/DW WOMEN/20231121_095854.jpg.jpg",
+ "items": [
+  {
+   "id": "dw-women-1",
+   "name": "DW Quadro Collection (Assorted Colours)",
+   "images": [
+    "assets/collection/DW WOMEN/20231121_095854.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 44995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (assorted colours) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/20231121_095854.jpg.jpg"
+  },
+  {
+   "id": "dw-women-2",
+   "name": "DW Quadro Pressed (White Dial, Silver Mesh)",
+   "images": [
+    "assets/collection/DW WOMEN/DW00100486_Quadro_Un-xgA0kotP.webp.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 white dial with a silver mesh, the signature DW WOMEN silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/DW00100486_Quadro_Un-xgA0kotP.webp.jpg"
+  },
+  {
+   "id": "dw-women-3",
+   "name": "DW Quadro (Black Dial, Rose-Gold Mesh)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20230130-WA0020.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a rose-gold mesh, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20230130-WA0020.jpg.jpg"
+  },
+  {
+   "id": "dw-women-4",
+   "name": "DW Quadro (White Dial, Rose-Gold Mesh)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20230130-WA0048.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: white dial, a rose-gold mesh, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20230130-WA0048.jpg.jpg"
+  },
+  {
+   "id": "dw-women-5",
+   "name": "DW Quadro Evergold (Gold Dial, Gold Mesh)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20230202-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 gold dial with a gold mesh, the signature DW WOMEN silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20230202-WA0002.jpg.jpg"
+  },
+  {
+   "id": "dw-women-6",
+   "name": "DW Quadro (Black Dial, Rose-Gold Mesh Bracelet)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20230202-WA0003.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a rose-gold mesh bracelet, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20230202-WA0003.jpg.jpg"
+  },
+  {
+   "id": "dw-women-7",
+   "name": "DW Quadro Gift Set (6 Styles)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20230205-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 44995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (6 styles) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20230205-WA0004.jpg.jpg"
+  },
+  {
+   "id": "dw-women-8",
+   "name": "DW Quadro (White Dial, Silver Mesh)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20231120-WA1342.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 white dial with a silver mesh, the signature DW WOMEN silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20231120-WA1342.jpg.jpg"
+  },
+  {
+   "id": "dw-women-9",
+   "name": "DW Quadro (Emerald Dial, Rose-Gold Mesh)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20231121-WA0093.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 emerald dial on an rose-gold mesh, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20231121-WA0093.jpg.jpg"
+  },
+  {
+   "id": "dw-women-10",
+   "name": "DW Quadro (Blush Dial, Rose-Gold Mesh)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20231121-WA0101.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: blush dial, a rose-gold mesh, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20231121-WA0101.jpg.jpg"
+  },
+  {
+   "id": "dw-women-11",
+   "name": "DW Quadro (Blush Dial, Rose-Gold Mesh Bracelet)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20231121-WA0103.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 blush dial with a rose-gold mesh bracelet, the signature DW WOMEN silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20231121-WA0103.jpg.jpg"
+  },
+  {
+   "id": "dw-women-12",
+   "name": "DW Quadro (White Dial, Rose-Gold Mesh)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20231121-WA0105.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 white dial on a rose-gold mesh, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20231121-WA0105.jpg.jpg"
+  },
+  {
+   "id": "dw-women-13",
+   "name": "DW Quadro (Black Dial, Gold Mesh)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20231121-WA0107.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, a gold mesh, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20231121-WA0107.jpg.jpg"
+  },
+  {
+   "id": "dw-women-14",
+   "name": "Crystal-Bezel Bracelet Watch (White Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20240320-WA0009.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 16995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a white dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20240320-WA0009.jpg.jpg"
+  },
+  {
+   "id": "dw-women-15",
+   "name": "Crystal-Bezel Bracelet Watch (Rose-Gold, Rose Dial)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20240330-WA0006.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 16995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: rose dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20240330-WA0006.jpg.jpg"
+  },
+  {
+   "id": "dw-women-16",
+   "name": "DW Classic Petite Sheffield 28mm (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20240531-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 19799,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, a black leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "28mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20240531-WA0005.jpg.jpg"
+  },
+  {
+   "id": "dw-women-17",
+   "name": "Crystal-Bezel Bracelet Watch (White Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG-20241003-WA0015.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 16995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: white dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG-20241003-WA0015.jpg.jpg"
+  },
+  {
+   "id": "dw-women-18",
+   "name": "DW Classic Petite Mesh Set (White & Black Dials, Silver)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG_0431.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (white & black dials, silver) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "28mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG_0431.jpg.jpg"
+  },
+  {
+   "id": "dw-women-19",
+   "name": "DW Classic Petite Mesh Set (Ice-Blue & Black Dials, Rose-Gold)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG_20201229_121541__01.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (ice-blue & black dials, rose-gold) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "28mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG_20201229_121541__01.jpg.jpg"
+  },
+  {
+   "id": "dw-women-20",
+   "name": "DW Classic Petite Mesh Set (Emerald & Black Dials)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG_20210712_121807_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A matching pair (emerald & black dials) \u2014 one for you and one for them, with matching dials and finish.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "28mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG_20210712_121807_1.jpg.jpg"
+  },
+  {
+   "id": "dw-women-21",
+   "name": "DW Quadro (Emerald Dial, Rose-Gold Mesh)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG_20240404_194530_147.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 emerald dial on an rose-gold mesh, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG_20240404_194530_147.jpg.jpg"
+  },
+  {
+   "id": "dw-women-22",
+   "name": "DW Quadro (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/DW WOMEN/IMG_20240510_132422_249.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, a black leather, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "26mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/dw-women/IMG_20240510_132422_249.jpg.jpg"
+  }
+ ]
+}

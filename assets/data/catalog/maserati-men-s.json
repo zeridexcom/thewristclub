@@ -1,0 +1,65 @@
+{
+ "brand": "Maserati Men's",
+ "brandKey": "maserati-men-s",
+ "category": "him",
+ "cover": "assets/collection/Maserati Men's/IMG-20240123-WA0008.jpg.jpg",
+ "items": [
+  {
+   "id": "maserati-men-s-1",
+   "name": "Maserati Potenza (Rose-Gold & Black Rubber)",
+   "images": [
+    "assets/collection/Maserati Men's/IMG-20240123-WA0008.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 16500,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A rose-gold case with brushed black trident-pattern dial, black rubber strap and signature engraved side bars \u2014 pure motorsport attitude.",
+   "specs": {
+    "Movement": "Quartz three-hand",
+    "Case": "Rose-gold-tone stainless steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/maserati-men-s/IMG-20240123-WA0008.jpg.jpg"
+  },
+  {
+   "id": "maserati-men-s-2",
+   "name": "Maserati Three-Hand Date (Fluted Bezel, All-Black)",
+   "images": [
+    "assets/collection/Maserati Men's/IMG-20251118-WA0009(1).jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 16500,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An all-black fluted bezel surrounds a black dial with rose-gold indices, trident logo and cyclops date window, on a black link bracelet rated to 100 metres.",
+   "specs": {
+    "Movement": "Quartz three-hand",
+    "Case": "Black ion-plated stainless steel",
+    "Diameter": "41mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/maserati-men-s/IMG-20251118-WA0009(1).jpg.jpg"
+  },
+  {
+   "id": "maserati-men-s-3",
+   "name": "Maserati Potenza Automatic Skeleton (All-Black)",
+   "images": [
+    "assets/collection/Maserati Men's/IMG_20240510_193407_323.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 29500,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A fully skeletonised dial reveals the automatic movement beneath a bold trident bridge, housed in a blackened case on a black rubber strap.",
+   "specs": {
+    "Movement": "Automatic skeleton",
+    "Case": "Blackened stainless steel",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/maserati-men-s/IMG_20240510_193407_323.jpg.jpg"
+  }
+ ]
+}

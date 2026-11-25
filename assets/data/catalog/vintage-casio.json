@@ -1,0 +1,369 @@
+{
+ "brand": "Casio Vintage",
+ "brandKey": "vintage-casio",
+ "category": "unisex",
+ "cover": "assets/collection/VINTAGE CASIO/2a89d1da-ffd1-4317-8999-96ccbab01995.JPG.jpg",
+ "items": [
+  {
+   "id": "vintage-casio-1",
+   "name": "Casio G-Shock Square Digital (Blue Camo Resin)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/2a89d1da-ffd1-4317-8999-96ccbab01995.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 6995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A translucent blue G-Shock square with camo print, iconic shock-resistant resin build and full digital module.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Resin",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/2a89d1da-ffd1-4317-8999-96ccbab01995.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-2",
+   "name": "Casio G-Shock Square Digital (All-Black, Grid Face)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/3cffb484-f43d-4882-9dd9-8c900603618b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 6995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An all-black G-Shock square with a technical grid-print dial and classic PROTECTION bezel.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Resin",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/3cffb484-f43d-4882-9dd9-8c900603618b.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-3",
+   "name": "Casio G-Shock Square Digital (Full Gold Resin)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/6dcd681f-ffa2-4d08-a7cc-8046ceeda094.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 6995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A head-turning full-gold G-Shock square in resin with the timeless DW-5600 silhouette.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Resin",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/6dcd681f-ffa2-4d08-a7cc-8046ceeda094.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-4",
+   "name": "Casio G-Shock Full-Metal Square (Rose-Gold)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/70b9818f-6949-4c25-828c-0d85aa50fd71.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 31995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A rose-gold full-metal G-Shock square with sapphire crystal and steel bracelet, presented in its box.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Stainless Steel",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/70b9818f-6949-4c25-828c-0d85aa50fd71.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-5",
+   "name": "Casio G-Shock Square Digital (Colourway Set)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/7319bb40-89f6-4323-8745-6b18006df4df.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 6995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A trio of G-Shock squares in transparent blue, full gold and black resin colorways.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Resin",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/7319bb40-89f6-4323-8745-6b18006df4df.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-6",
+   "name": "Casio G-Shock Full-Metal Square (Colourway Set)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/982580f9-3c68-4253-a97f-7e636a524a22.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 16995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A set of full-metal G-Shock squares across silver, gold-accent and black steel finishes.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Stainless Steel",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/982580f9-3c68-4253-a97f-7e636a524a22.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-7",
+   "name": "Casio G-Shock Square Digital (Grey Resin)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/a049cf6b-5c9e-4f7d-8ff3-eaeb9d53fa33.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 6995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A smoked grey translucent G-Shock square with inverted LCD and rugged resin case.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Resin",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/a049cf6b-5c9e-4f7d-8ff3-eaeb9d53fa33.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-8",
+   "name": "Casio Vintage A1000 Octagon (Silver, White Dial)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/a4c587be-a996-4192-b154-72770a68fde8.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 8995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A full-metal Casio Vintage octagon with polished silver bezel and clean white digital dial.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Stainless Steel",
+    "Diameter": "38 mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/a4c587be-a996-4192-b154-72770a68fde8.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-9",
+   "name": "Casio G-Shock Square Digital (Black, Orange Accents)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/a8876621-e262-4ff4-ae25-479ba60446ad.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 6995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A black G-Shock square with orange dial accents, steel-tone bezel hardware and resin strap.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Resin",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/a8876621-e262-4ff4-ae25-479ba60446ad.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-10",
+   "name": "Casio Vintage Square Digital (Gold & Rose-Gold Set)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/aa3c9f1b-a503-4d93-b10e-7e7b1cd84536.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 5295,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A gift-card pair of Casio vintage squares in full gold and rose-gold metal finishes.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Stainless Steel",
+    "Diameter": "36 mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/aa3c9f1b-a503-4d93-b10e-7e7b1cd84536.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-11",
+   "name": "Casio Vintage A158W (Silver)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/afd965b2-433c-4bf4-9942-d1714607b044.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1895,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The iconic retro Casio A158W with silver bracelet, dark LCD and classic rectangular face.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Stainless Steel",
+    "Diameter": "33.2 mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/afd965b2-433c-4bf4-9942-d1714607b044.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-12",
+   "name": "Casio G-Shock Full-Metal Square (All-Black)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/c266ce26-1b96-4386-bff3-7481a3f38ea9.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 16995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A stealth full-metal G-Shock square in black steel with matching black bracelet.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Stainless Steel",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/c266ce26-1b96-4386-bff3-7481a3f38ea9.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-13",
+   "name": "Casio Vintage A168WG (Gold-Tone, Black Dial)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/c5f6b4df-dd83-4586-9854-f92a972c0f7a.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 5295,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A gold-tone Casio Vintage world-time square with black dial and stainless steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "36 mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/c5f6b4df-dd83-4586-9854-f92a972c0f7a.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-14",
+   "name": "Casio Vintage A700W (Silver)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/da68a7bd-b92f-4c17-be70-6a9a433b5dcd.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 3995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A slim Casio Vintage A700W in silver with textured white dial and ultra-thin profile.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Stainless Steel",
+    "Diameter": "37 mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/da68a7bd-b92f-4c17-be70-6a9a433b5dcd.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-15",
+   "name": "Casio G-Shock Full-Metal Square (Full Gold)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/dc4771a5-835b-4f56-8c8f-1bf970bffd1d.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 31995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A fully gold G-Shock square in forged steel, boxed and ready for the collection.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Stainless Steel",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/dc4771a5-835b-4f56-8c8f-1bf970bffd1d.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-16",
+   "name": "Casio Vintage Square Digital (Steel & Black Set)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/de3ac648-21a3-4aca-b12e-5f73fa33ef22.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 2995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A two-piece Casio vintage square set in polished steel and black colorways on display cards.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Stainless Steel",
+    "Diameter": "36 mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/de3ac648-21a3-4aca-b12e-5f73fa33ef22.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-17",
+   "name": "Casio Vintage A168 Two-Tone (Gold/Silver)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/e3f2ccf9-e259-4d19-9307-a87b894606d4.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 5295,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A two-tone Casio Vintage square mixing gold accents with silver steel and a retro digital dial.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "36 mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/e3f2ccf9-e259-4d19-9307-a87b894606d4.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-18",
+   "name": "Casio G-Shock Square Digital (Black Camo Grid)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/ecb5e622-2a59-450d-a7c8-e08d525aea96.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 6995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A black G-Shock square with camo grid dial print and matte resin build.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Resin",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/ecb5e622-2a59-450d-a7c8-e08d525aea96.JPG.jpg"
+  },
+  {
+   "id": "vintage-casio-19",
+   "name": "Casio G-Shock Full-Metal Square (Steel & Black)",
+   "images": [
+    "assets/collection/VINTAGE CASIO/f29a13d9-352f-41a2-b203-9bec3a238059.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 16995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A full-metal G-Shock square pairing a silver steel bezel with black dial details.",
+   "specs": {
+    "Movement": "Quartz Digital",
+    "Case": "Stainless Steel",
+    "Diameter": "42.8 mm",
+    "Water Resistance": "20 ATM"
+   },
+   "thumb": "assets/collection-thumbs/vintage-casio/f29a13d9-352f-41a2-b203-9bec3a238059.JPG.jpg"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "brand": "Longines",
+ "brandKey": "longines",
+ "category": "unisex",
+ "cover": "assets/collection/Longines/IMG-20241010-WA0002.jpg.jpg",
+ "items": [
+  {
+   "id": "longines-1",
+   "name": "Longines Master Collection Moonphase Chronograph (Two-Tone)",
+   "images": [
+    "assets/collection/Longines/IMG-20241010-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 425000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A silver sunray dial with Roman numerals, complete calendar subdial and moonphase aperture, crowned by a two-tone steel-and-gold bracelet and blued hands.",
+   "specs": {
+    "Movement": "Automatic chronograph",
+    "Case": "Two-tone stainless steel",
+    "Diameter": "42mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/longines/IMG-20241010-WA0002.jpg.jpg"
+  },
+  {
+   "id": "longines-2",
+   "name": "Longines Conquest Automatic Chronograph (Black Panda Dial)",
+   "images": [
+    "assets/collection/Longines/IMG-20241224-WA0011.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 425000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Black dial with three silvery registers, red-tipped chronograph hands and a black tachymeter bezel on a brushed steel bracelet.",
+   "specs": {
+    "Movement": "Automatic chronograph",
+    "Case": "Stainless steel",
+    "Diameter": "42mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/longines/IMG-20241224-WA0011.jpg.jpg"
+  },
+  {
+   "id": "longines-3",
+   "name": "Longines Conquest Chronograph (Blue Dial, Blue Ceramic Bezel)",
+   "images": [
+    "assets/collection/Longines/IMG-20250115-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 425000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A deep blue dial under a glossy blue ceramic tachymeter bezel, finished with a supple stainless steel bracelet \u2014 a modern sportive classic.",
+   "specs": {
+    "Movement": "Automatic chronograph",
+    "Case": "Stainless steel",
+    "Diameter": "42mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/longines/IMG-20250115-WA0001.jpg.jpg"
+  }
+ ]
+}

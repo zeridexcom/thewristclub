@@ -1,0 +1,46 @@
+{
+ "brand": "Richard Mille",
+ "brandKey": "richard-mille",
+ "category": "unisex",
+ "cover": "assets/collection/Richard Mille/IMG-20240205-WA0053.jpg.jpg",
+ "items": [
+  {
+   "id": "richard-mille-1",
+   "name": "Richard Mille RM 056-Style Skeleton Chronograph (Blue Rubber)",
+   "images": [
+    "assets/collection/Richard Mille/IMG-20240205-WA0053.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A fully transparent sapphire-style tonneau case showcasing a skeletonised chronograph dial, accented in blue with a matching blue rubber strap.",
+   "specs": {
+    "Movement": "Skeleton chronograph",
+    "Case": "Transparent sapphire-style composite",
+    "Diameter": "42mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/richard-mille/IMG-20240205-WA0053.jpg.jpg"
+  },
+  {
+   "id": "richard-mille-2",
+   "name": "Richard Mille RM 056-Style Skeleton Chronograph (Red Rubber)",
+   "images": [
+    "assets/collection/Richard Mille/IMG-20240220-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "The same open-worked tonneau chronograph in a red-framed execution, with transparent case and vivid red rubber strap.",
+   "specs": {
+    "Movement": "Skeleton chronograph",
+    "Case": "Transparent sapphire-style composite",
+    "Diameter": "42mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/richard-mille/IMG-20240220-WA0001.jpg.jpg"
+  }
+ ]
+}

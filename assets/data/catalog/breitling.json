@@ -1,0 +1,27 @@
+{
+ "brand": "Breitling",
+ "brandKey": "breitling",
+ "category": "unisex",
+ "cover": "assets/collection/Breitling/Screenshot_20240406_131407_WhatsApp.jpg.jpg",
+ "items": [
+  {
+   "id": "breitling-1",
+   "name": "Breitling Avenger Chronograph (Black Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Breitling/Screenshot_20240406_131407_WhatsApp.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 450000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The Breitling look, executed to premium first-copy grade: black dial, a steel bracelet, a premium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black-Coated Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/breitling/Screenshot_20240406_131407_WhatsApp.jpg.jpg"
+  }
+ ]
+}

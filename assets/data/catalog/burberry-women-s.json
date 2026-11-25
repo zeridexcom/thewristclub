@@ -1,0 +1,331 @@
+{
+ "brand": "Burberry (Ladies)",
+ "brandKey": "burberry-women-s",
+ "category": "unisex",
+ "cover": "assets/collection/Burberry Women\u2019s/2e72b1bb-bd4b-42ac-9847-6b136a163c91.JPG.jpg",
+ "items": [
+  {
+   "id": "burberry-women-s-1",
+   "name": "Burberry The City Check (Two-Tone, Brown Check Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/2e72b1bb-bd4b-42ac-9847-6b136a163c91.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 37995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: brown check dial, its signature strap, and a two-tone finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/2e72b1bb-bd4b-42ac-9847-6b136a163c91.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-2",
+   "name": "Burberry The City Check (Rose-Gold, Brown Check Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/47150993-59ce-4ab3-9571-2ecc1f533b80.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 38995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a brown check dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/47150993-59ce-4ab3-9571-2ecc1f533b80.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-3",
+   "name": "Burberry The City Check (Beige Leather Strap, Check Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/4bec4112-3d4b-49b5-a69c-91691e22e8b2.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 36995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: check dial, a beige leather strap, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/4bec4112-3d4b-49b5-a69c-91691e22e8b2.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-4",
+   "name": "Burberry The City Check (Rose-Gold, Grey Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/5741ba83-fea6-4b7e-8c58-5037c1b6e2a4.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 38995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a grey dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/5741ba83-fea6-4b7e-8c58-5037c1b6e2a4.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-5",
+   "name": "Burberry The City Check (Two-Tone, Pink Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/73800afc-59ec-46be-a438-e5a5e99d6ea6.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 37995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: pink dial, its signature strap, and a two-tone finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/73800afc-59ec-46be-a438-e5a5e99d6ea6.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-6",
+   "name": "Burberry The City Check (Rose-Gold, Silver Check Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/816f536c-1b63-4f95-89ae-31833b2a0830.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 38995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a silver check dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/816f536c-1b63-4f95-89ae-31833b2a0830.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-7",
+   "name": "Burberry The City Check (Beige Leather, Grey Check Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/8da4aa58-ca18-465f-86cb-1742f652bc73.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 36995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: grey check dial, a beige leather, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/8da4aa58-ca18-465f-86cb-1742f652bc73.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-8",
+   "name": "Burberry The City Check (Rose-Gold, Grey Check Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/97f41e24-4a2e-4966-b197-b9a3aa7645ae.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 38995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a grey check dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/97f41e24-4a2e-4966-b197-b9a3aa7645ae.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-9",
+   "name": "Burberry The City (Two-Tone, Silver Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/abed84db-ad22-41b1-97e8-beb8a47bedcb.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 37995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: silver dial, its signature strap, and a two-tone finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/abed84db-ad22-41b1-97e8-beb8a47bedcb.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-10",
+   "name": "Burberry The City Check (Rose-Gold, Beige Leather)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/ac213d16-d8d4-40c8-adb2-54c6d1c55752.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 36995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a signature dial on a beige leather, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/ac213d16-d8d4-40c8-adb2-54c6d1c55752.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-11",
+   "name": "Burberry The City (Beige Leather, White Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/b88368cb-380d-4527-8e06-ecdd81d134d3.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 36995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: white dial, a beige leather, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/b88368cb-380d-4527-8e06-ecdd81d134d3.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-12",
+   "name": "Burberry The City Check (Rose-Gold, Rose Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/baf0e7a4-24af-4d09-8178-4325e3d1b529.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 38995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a rose dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/baf0e7a4-24af-4d09-8178-4325e3d1b529.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-13",
+   "name": "Burberry The City Check (Rose-Gold, Silver Check Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/c0088b63-b848-4f68-9624-bfc60df82c12.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 38995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: silver check dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/c0088b63-b848-4f68-9624-bfc60df82c12.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-14",
+   "name": "Burberry The City Check (Two-Tone, Grey Check Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/c069d3a2-36b8-4f9f-ab3f-47fb08984807.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 37995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a grey check dial on its signature strap, a two-tone finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/c069d3a2-36b8-4f9f-ab3f-47fb08984807.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-15",
+   "name": "Burberry The City (Rose-Gold, White Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/cd73e70b-2716-4892-ad18-0f8320788b52.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 38995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: white dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/cd73e70b-2716-4892-ad18-0f8320788b52.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-16",
+   "name": "Burberry The City (Two-Tone, Silver Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/ef36a486-e84d-4d23-943a-bbe2f428849b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 37995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a silver dial on its signature strap, a two-tone finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/ef36a486-e84d-4d23-943a-bbe2f428849b.JPG.jpg"
+  },
+  {
+   "id": "burberry-women-s-17",
+   "name": "Burberry The City Check (Rose-Gold, Grey Check Dial)",
+   "images": [
+    "assets/collection/Burberry Women\u2019s/f606fcac-a19d-4f2a-91b4-b8f5f33ea806.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 38995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: grey check dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold PVD Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/burberry-women-s/f606fcac-a19d-4f2a-91b4-b8f5f33ea806.JPG.jpg"
+  }
+ ]
+}

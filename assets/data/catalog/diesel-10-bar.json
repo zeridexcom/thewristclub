@@ -1,0 +1,274 @@
+{
+ "brand": "Diesel",
+ "brandKey": "diesel-10-bar",
+ "category": "unisex",
+ "cover": "assets/collection/Diesel 10 Bar/04d5a9d1-ca40-4d0e-9447-300f417d25ec.JPG.jpg",
+ "items": [
+  {
+   "id": "diesel-10-bar-1",
+   "name": "Diesel Mega Chief Chronograph (All-Black, Steel Bracelet)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/04d5a9d1-ca40-4d0e-9447-300f417d25ec.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A dive-inspired signature dial with luminous markers on a steel bracelet, an all-black finish \u2014 athletic presence, executed faithfully.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/04d5a9d1-ca40-4d0e-9447-300f417d25ec.JPG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-2",
+   "name": "Diesel Mega Chief Chronograph (Gold-Tone, Black Dial)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/429b0a53-6590-4082-9ae1-5bf4921540f7.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Dive-ready attitude: a black dial with rotating bezel on its signature strap, a gold-tone finish \u2014 bold, sporty, built to impress.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/429b0a53-6590-4082-9ae1-5bf4921540f7.JPG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-3",
+   "name": "Diesel Mega Chief Chronograph (Black Dial, Black Bracelet)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/502438cb-183c-4633-9d7a-b6b588e60666.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A dive-inspired black dial with luminous markers on a black bracelet, a premium finish \u2014 athletic presence, executed faithfully.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/502438cb-183c-4633-9d7a-b6b588e60666.JPG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-4",
+   "name": "Diesel Mega Chief Chronograph (All-Black)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/66c9cdcc-2e30-4e1e-b0ab-7168430c2d18.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Dive-ready attitude: a signature dial with rotating bezel on its signature strap, an all-black finish \u2014 bold, sporty, built to impress.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/66c9cdcc-2e30-4e1e-b0ab-7168430c2d18.JPG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-5",
+   "name": "Diesel Mega Chief Chronograph (Gold-Tone, Silver Dial)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/6ec746b9-6df2-4efe-8646-a77b08901a22.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A dive-inspired silver dial with luminous markers on its signature strap, a gold-tone finish \u2014 athletic presence, executed faithfully.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/6ec746b9-6df2-4efe-8646-a77b08901a22.JPG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-6",
+   "name": "Diesel Mega Chief Chronograph (Gold-Tone, Black Subdials)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/71a00743-36d9-48bc-8900-6ac5ea6016c0.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Dive-ready attitude: a signature dial with rotating bezel on its signature strap, a gold-tone finish \u2014 bold, sporty, built to impress.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/71a00743-36d9-48bc-8900-6ac5ea6016c0.JPG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-7",
+   "name": "Diesel Mega Chief Chronograph (Black, Silver Accents)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/796326D4-9D28-45E6-92D1-2269B00793C0.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A dive-inspired signature dial with luminous markers on its signature strap, a black finish \u2014 athletic presence, executed faithfully.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/796326D4-9D28-45E6-92D1-2269B00793C0.JPEG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-8",
+   "name": "Diesel Mega Chief Chronograph (Gold-Tone, Brown Dial)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/AEA6078A-BD44-4F50-B177-E9969834146D.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Dive-ready attitude: a brown dial with rotating bezel on its signature strap, a gold-tone finish \u2014 bold, sporty, built to impress.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/AEA6078A-BD44-4F50-B177-E9969834146D.JPEG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-9",
+   "name": "Diesel Mega Chief Chronograph (Blue Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/E6AC2FD0-07BA-429B-A57C-9C409FC7E882.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A dive-inspired blue dial with luminous markers on a steel bracelet, a premium finish \u2014 athletic presence, executed faithfully.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/E6AC2FD0-07BA-429B-A57C-9C409FC7E882.JPEG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-10",
+   "name": "Diesel Mega Chief Chronograph (Black Mesh Bracelet)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/b13c693e-b040-40b3-bc54-9b8f7b56cc73.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Dive-ready attitude: a signature dial with rotating bezel on a black mesh bracelet, a premium finish \u2014 bold, sporty, built to impress.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/b13c693e-b040-40b3-bc54-9b8f7b56cc73.JPG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-11",
+   "name": "Diesel Mega Chief Chronograph (Black Dial, Silver Accents)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/cab564e2-a37f-4634-b38c-8391a7b20e44.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A dive-inspired black dial with luminous markers on its signature strap, a silver accents finish \u2014 athletic presence, executed faithfully.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/cab564e2-a37f-4634-b38c-8391a7b20e44.JPG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-12",
+   "name": "Diesel Mega Chief Chronograph (Orange Dial, Black Case)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/d5292348-2179-4782-915f-795a9d190b37.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Dive-ready attitude: a orange dial with rotating bezel on its signature strap, a black case finish \u2014 bold, sporty, built to impress.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/d5292348-2179-4782-915f-795a9d190b37.JPG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-13",
+   "name": "Diesel Mega Chief Chronograph (Black, Blue Accents)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/e58b2718-f3ea-4e29-8c37-3287724cbbf2.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A dive-inspired signature dial with luminous markers on its signature strap, a black finish \u2014 athletic presence, executed faithfully.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/e58b2718-f3ea-4e29-8c37-3287724cbbf2.JPG.jpg"
+  },
+  {
+   "id": "diesel-10-bar-14",
+   "name": "Diesel Mega Chief Chronograph (Blue Dial, Black Bezel)",
+   "images": [
+    "assets/collection/Diesel 10 Bar/ee37e129-65d3-4fdd-8a17-cec58996947b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Dive-ready attitude: a blue dial with rotating bezel on its signature strap, a black bezel finish \u2014 bold, sporty, built to impress.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "51mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/diesel-10-bar/ee37e129-65d3-4fdd-8a17-cec58996947b.JPG.jpg"
+  }
+ ]
+}

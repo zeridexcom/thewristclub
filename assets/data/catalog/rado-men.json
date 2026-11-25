@@ -1,0 +1,198 @@
+{
+ "brand": "Rado Men",
+ "brandKey": "rado-men",
+ "category": "him",
+ "cover": "assets/collection/Rado Men/IMG-20241017-WA0005.jpg.jpg",
+ "items": [
+  {
+   "id": "rado-men-1",
+   "name": "Rado DiaStar Original (Gold, Diamond-Set Stripe)",
+   "images": [
+    "assets/collection/Rado Men/IMG-20241017-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 225400,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The legendary scratch-proof oval in full gold tone, with a diamond-studded black central stripe and day-date window on a gold link bracelet.",
+   "specs": {
+    "Movement": "Quartz with day-date",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "38mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-men/IMG-20241017-WA0005.jpg.jpg"
+  },
+  {
+   "id": "rado-men-2",
+   "name": "Rado DiaStar Original (Gold, Black Dial, Diamond Bezel)",
+   "images": [
+    "assets/collection/Rado Men/IMG-20250404-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 225400,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A black sunburst dial ringed with sparkling diamond-set segments, cased in the iconic gold DiaStar oval with sapphire crystal.",
+   "specs": {
+    "Movement": "Quartz with day-date",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "38mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-men/IMG-20250404-WA0000.jpg.jpg"
+  },
+  {
+   "id": "rado-men-3",
+   "name": "Rado DiaStar Original (Gold, Bowtie Dial, Diamond Markers)",
+   "images": [
+    "assets/collection/Rado Men/IMG-20250421-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 225400,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The classic DiaStar bow-tie dial layout in black and gold with diamond hour markers, on the signature gold bracelet.",
+   "specs": {
+    "Movement": "Quartz with day-date",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "38mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-men/IMG-20250421-WA0001.jpg.jpg"
+  },
+  {
+   "id": "rado-men-4",
+   "name": "Rado DiaStar Original Automatic (Blue Dial, Steel)",
+   "images": [
+    "assets/collection/Rado Men/IMG-20250426-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 172400,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A deep blue sunray dial with day-date at 6 o'clock inside the unmistakable polished steel DiaStar oval \u2014 automatic, sapphire, 100m.",
+   "specs": {
+    "Movement": "Automatic with day-date",
+    "Case": "Stainless steel",
+    "Diameter": "38mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-men/IMG-20250426-WA0000.jpg.jpg"
+  },
+  {
+   "id": "rado-men-5",
+   "name": "Sky-Dweller-Style GMT Automatic (Steel, Black Dial)",
+   "images": [
+    "assets/collection/Rado Men/IMG-20251114-WA0007(1).jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A fluted bezel and jubilee-style bracelet frame a black dial with 24-hour GMT ring and cyclops date \u2014 a commanding traveller's watch.",
+   "specs": {
+    "Movement": "Automatic GMT",
+    "Case": "Stainless steel",
+    "Diameter": "41mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-men/IMG-20251114-WA0007(1).jpg.jpg"
+  },
+  {
+   "id": "rado-men-6",
+   "name": "Rado Centrix Chronograph (Two-Tone Black Ceramic)",
+   "images": [
+    "assets/collection/Rado Men/IMG_20240601_132635_050.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Black high-tech ceramic links alternating with gold-tone steel, a black dial with twin registers and date, Swiss made.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Steel & black ceramic",
+    "Diameter": "40mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-men/IMG_20240601_132635_050.jpg.jpg"
+  },
+  {
+   "id": "rado-men-7",
+   "name": "Rado True Square (Blue PVD, Blue Rubber)",
+   "images": [
+    "assets/collection/Rado Men/IMG_20240625_212839_553.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 180000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A sunray-blue dial in a cushion-square blue PVD case on a matching blue rubber strap \u2014 lightweight monobloc styling.",
+   "specs": {
+    "Movement": "Quartz two-hand",
+    "Case": "Blue PVD ceramic",
+    "Diameter": "38mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-men/IMG_20240625_212839_553.jpg.jpg"
+  },
+  {
+   "id": "rado-men-8",
+   "name": "Rado True Square Automatic Open Heart (White Ceramic)",
+   "images": [
+    "assets/collection/Rado Men/IMG_20240707_120850_769.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 371200,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "White high-tech ceramic monobloc case and bracelet over an open-heart skeleton dial with golden accents \u2014 Swiss automatic.",
+   "specs": {
+    "Movement": "Automatic open heart",
+    "Case": "White high-tech ceramic",
+    "Diameter": "38mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-men/IMG_20240707_120850_769.jpg.jpg"
+  },
+  {
+   "id": "rado-men-9",
+   "name": "Rado DiaStar Original Automatic Skeleton (Black)",
+   "images": [
+    "assets/collection/Rado Men/Screenshot_20241104-091007.png.jpg"
+   ],
+   "video": null,
+   "mrp": 300000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The DiaStar oval rendered fully in black high-tech ceramic, its dial opened to reveal a skeletonised automatic movement.",
+   "specs": {
+    "Movement": "Automatic skeleton",
+    "Case": "Black high-tech ceramic",
+    "Diameter": "38mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-men/Screenshot_20241104-091007.png.jpg"
+  },
+  {
+   "id": "rado-men-10",
+   "name": "Rado DiaStar Original Automatic (Black Dial, Steel)",
+   "images": [
+    "assets/collection/Rado Men/Screenshot_20250504-130908.WhatsApp.png.jpg"
+   ],
+   "video": null,
+   "mrp": 172400,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Black sunburst dial with day-date, rhodium hands and the classic polished steel DiaStar bracelet \u2014 the original scratch-proof icon.",
+   "specs": {
+    "Movement": "Automatic with day-date",
+    "Case": "Stainless steel",
+    "Diameter": "38mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-men/Screenshot_20250504-130908.WhatsApp.png.jpg"
+  }
+ ]
+}

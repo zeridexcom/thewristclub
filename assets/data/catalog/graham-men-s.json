@@ -1,0 +1,46 @@
+{
+ "brand": "Graham",
+ "brandKey": "graham-men-s",
+ "category": "him",
+ "cover": "assets/collection/Graham Men's/IMG-20240116-WA0007.jpg.jpg",
+ "items": [
+  {
+   "id": "graham-men-s-1",
+   "name": "Graham Chronofighter Superlight (Black Skeleton, Rubber)",
+   "images": [
+    "assets/collection/Graham Men's/IMG-20240116-WA0007.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 450000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The Graham Men's look, executed to premium first-copy grade: signature dial, a rubber, a black skeleton finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black-Coated Steel",
+    "Diameter": "47mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/graham-men-s/IMG-20240116-WA0007.jpg.jpg"
+  },
+  {
+   "id": "graham-men-s-2",
+   "name": "Graham Ladies Stone-Dial (Green, Steel Bracelet, Crystal Bezel)",
+   "images": [
+    "assets/collection/Graham Men's/IMG-20241211-WA0006.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a signature dial on a steel bracelet, a green finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel, Crystal-Set Bezel",
+    "Diameter": "40mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/graham-men-s/IMG-20241211-WA0006.jpg.jpg"
+  }
+ ]
+}

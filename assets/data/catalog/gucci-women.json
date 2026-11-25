@@ -1,0 +1,103 @@
+{
+ "brand": "Gucci Women",
+ "brandKey": "gucci-women",
+ "category": "unisex",
+ "cover": "assets/collection/Gucci Women/IMG-20240318-WA0004.jpg.jpg",
+ "items": [
+  {
+   "id": "gucci-women-1",
+   "name": "Gucci G-Frame GG (Silver Dial, Rose-Gold GG Bracelet)",
+   "images": [
+    "assets/collection/Gucci Women/IMG-20240318-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 89000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: silver dial, a rose-gold gg bracelet, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "29mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/gucci-women/IMG-20240318-WA0004.jpg.jpg"
+  },
+  {
+   "id": "gucci-women-2",
+   "name": "Gucci G-Frame GG (White Dial, Rose-Gold GG Bracelet)",
+   "images": [
+    "assets/collection/Gucci Women/IMG-20240318-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 89000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a white dial on a rose-gold gg bracelet, a premium finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "29mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/gucci-women/IMG-20240318-WA0005.jpg.jpg"
+  },
+  {
+   "id": "gucci-women-3",
+   "name": "Gucci G-Frame (Black Dial, Black Bracelet)",
+   "images": [
+    "assets/collection/Gucci Women/IMG-20240321-WA0018.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 89000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: black dial, a black bracelet, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "29mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/gucci-women/IMG-20240321-WA0018.jpg.jpg"
+  },
+  {
+   "id": "gucci-women-4",
+   "name": "Gucci G-Timeless (Two-Tone, Stars Dial)",
+   "images": [
+    "assets/collection/Gucci Women/IMG-20240930-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 85000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a stars dial on its signature strap, a two-tone finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/gucci-women/IMG-20240930-WA0004.jpg.jpg"
+  },
+  {
+   "id": "gucci-women-5",
+   "name": "Gucci G-Frame (Green Malachite Dial, Crystal Bezel)",
+   "images": [
+    "assets/collection/Gucci Women/IMG-20241211-WA0006.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: green malachite dial, its signature strap, and a crystal bezel finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel, Crystal-Set Bezel",
+    "Diameter": "36mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/gucci-women/IMG-20241211-WA0006.jpg.jpg"
+  }
+ ]
+}

@@ -1,0 +1,1813 @@
+{
+ "brand": "Hublot",
+ "brandKey": "hublot-fibre",
+ "category": "unisex",
+ "cover": "assets/collection/HUBLOT FIBRE/017f5830-a580-4404-8d80-fb702b6e9bee.JPG.jpg",
+ "items": [
+  {
+   "id": "hublot-fibre-1",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Grey Dial, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/017f5830-a580-4404-8d80-fb702b6e9bee.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: grey dial, a grey strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/017f5830-a580-4404-8d80-fb702b6e9bee.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-2",
+   "name": "Hublot Aerofusion Chronograph (Skeleton, Blue Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/02da6769-2c8f-4c6e-b9dd-90294b7d7648.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a blue strap and a skeleton finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/02da6769-2c8f-4c6e-b9dd-90294b7d7648.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-3",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Rose Dial, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/0329b0bb-5aca-45c8-962f-82cd8a4fc77b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 rose dial, a grey strap, and a king gold finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/0329b0bb-5aca-45c8-962f-82cd8a4fc77b.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-4",
+   "name": "Hublot Aerofusion Chronograph (Rose-Gold, Skeleton, Black Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/04f9ad34-4475-452c-b9a8-236a13568ad3.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1250000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a black rubber and a rose-gold finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/04f9ad34-4475-452c-b9a8-236a13568ad3.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-5",
+   "name": "Hublot Classic Fusion Chronograph (Blue Dial, Navy Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/05962156-ae6c-452b-ac36-e833c82588c0.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 blue dial on a navy rubber, a premium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/05962156-ae6c-452b-ac36-e833c82588c0.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-6",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Grey Dial, Green Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/08e45ca1-4865-44fc-ab02-993597b8f7da.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 grey dial, a green strap, and a titanium finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/08e45ca1-4865-44fc-ab02-993597b8f7da.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-7",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Grey Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/0d8c0e63-25fc-4f51-a9c8-716f28673c22.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: signature dial, a grey rubber, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/0d8c0e63-25fc-4f51-a9c8-716f28673c22.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-8",
+   "name": "Hublot Aerofusion Chronograph (Black Magic, Skeleton)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/0ff27abb-978c-4a12-9ce5-3d262ec1672b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a black magic finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/0ff27abb-978c-4a12-9ce5-3d262ec1672b.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-9",
+   "name": "Hublot Classic Fusion Chronograph (Steel, Black Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/119916da-e969-442c-9c20-49bdc4dbe829.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 black dial, its signature strap, and a steel finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/119916da-e969-442c-9c20-49bdc4dbe829.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-10",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Rose Dial, Tan Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/158a87c0-badf-4d10-a420-e795c13509d7.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: rose dial, a tan strap, a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/158a87c0-badf-4d10-a420-e795c13509d7.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-11",
+   "name": "Hublot Aerofusion Chronograph (Skeleton, Sage Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/17b0e5b2-aab7-4598-b94f-0e36738576b1.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a sage strap, and a skeleton finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/17b0e5b2-aab7-4598-b94f-0e36738576b1.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-12",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/19a09d05-fa38-49fc-a2eb-3747b8c56590.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 black dial, a grey strap, and a titanium finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/19a09d05-fa38-49fc-a2eb-3747b8c56590.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-13",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Grey Dial, Green Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/277b5939-4265-4b1e-b7cb-c7e5075765af.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: grey dial, a green strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/277b5939-4265-4b1e-b7cb-c7e5075765af.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-14",
+   "name": "Hublot Aerofusion Chronograph (Skeleton, Green Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/2a5f97af-9538-4f31-9921-cb29a4fae9d5.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a green strap and a skeleton finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/2a5f97af-9538-4f31-9921-cb29a4fae9d5.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-15",
+   "name": "Hublot Aerofusion Chronograph (Titanium, Skeleton, Grey Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/2a62d4cc-1b54-4f39-9433-4a542d991b17.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a grey rubber, and a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/2a62d4cc-1b54-4f39-9433-4a542d991b17.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-16",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial, Blue Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/2c708970-5c6d-45db-bb63-b64ae5dca54a.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: black dial, a blue strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/2c708970-5c6d-45db-bb63-b64ae5dca54a.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-17",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, White Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/3155d973-6420-41c8-b590-727db4cedd3e.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 signature dial on a white strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/3155d973-6420-41c8-b590-727db4cedd3e.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-18",
+   "name": "Hublot Aerofusion Chronograph (Skeleton, Green Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/34daf474-489c-4119-a045-baf8629c25e8.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a green strap and a skeleton finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/34daf474-489c-4119-a045-baf8629c25e8.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-19",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Brown Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/3555fb94-616b-49cf-b9cb-6201e294dc89.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: brown dial, its signature strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/3555fb94-616b-49cf-b9cb-6201e294dc89.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-20",
+   "name": "Hublot Aerofusion Chronograph (Green, Skeleton)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/38d91fae-6652-412f-9dbf-03cf45ac4b98.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a green finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Green PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/38d91fae-6652-412f-9dbf-03cf45ac4b98.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-21",
+   "name": "Hublot Classic Fusion Chronograph (Blue, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/3ee233b2-a3cb-4ff3-bcbe-79f6f4cb5016.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 signature dial, a grey strap, and a blue finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/3ee233b2-a3cb-4ff3-bcbe-79f6f4cb5016.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-22",
+   "name": "Hublot Aerofusion Chronograph (Rose-Gold, Skeleton, Black Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/473fba6e-3cdc-4ac7-860b-24f967aea554.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1250000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a black rubber and a rose-gold finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/473fba6e-3cdc-4ac7-860b-24f967aea554.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-23",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Blue Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/4ec946d1-f1d2-4ca7-a0b9-f0c75cb3986a.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 signature dial on a blue rubber, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/4ec946d1-f1d2-4ca7-a0b9-f0c75cb3986a.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-24",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Blue Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/50a831a7-2c35-4743-bb4e-de5b0a36524b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 signature dial, a blue strap, and a titanium finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/50a831a7-2c35-4743-bb4e-de5b0a36524b.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-25",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Grey Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/5a2e1499-596f-4871-b1d0-97b83f40d31c.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: signature dial, a grey rubber, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/5a2e1499-596f-4871-b1d0-97b83f40d31c.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-26",
+   "name": "Hublot Big Bang (King Gold, Skeleton, Red Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/5b9914f3-7a35-4519-8f35-b17b574160ad.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1800000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a red strap and a king gold finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/5b9914f3-7a35-4519-8f35-b17b574160ad.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-27",
+   "name": "Hublot Aerofusion Chronograph (Titanium, Skeleton, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/5c56f635-d41a-4801-835d-a5683d65c841.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a grey strap, and a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/5c56f635-d41a-4801-835d-a5683d65c841.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-28",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Rose Dial, Blue Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/5da9a05c-e325-4e9b-a738-342b235cb617.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: rose dial, a blue strap, a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/5da9a05c-e325-4e9b-a738-342b235cb617.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-29",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Black Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/5e3fd7ee-8c27-4400-9ff0-9cd7c5ce0243.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 black dial on its signature strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/5e3fd7ee-8c27-4400-9ff0-9cd7c5ce0243.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-30",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Rose Dial, Black Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/5ec95aea-3c7c-48f2-a5af-192821d9b614.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 rose dial, a black rubber, and a king gold finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/5ec95aea-3c7c-48f2-a5af-192821d9b614.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-31",
+   "name": "Hublot Aerofusion Chronograph (Titanium, Skeleton, Tan Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/5ed8ebc2-19f7-455b-840d-ce5e318b183b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a tan strap, and a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/5ed8ebc2-19f7-455b-840d-ce5e318b183b.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-32",
+   "name": "Hublot Aerofusion Chronograph (Titanium, Skeleton, Blue Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/605487ac-0a7d-4f10-bd8b-5aaf53efdcbb.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a blue strap and a titanium finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/605487ac-0a7d-4f10-bd8b-5aaf53efdcbb.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-33",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Black Dial, Brown Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/641c32f4-f232-45d3-baef-bfb20d57e095.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 black dial, a brown strap, and a king gold finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/641c32f4-f232-45d3-baef-bfb20d57e095.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-34",
+   "name": "Hublot Classic Fusion (Black Magic, Rose-Gold Accents)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/64af5e9a-bd28-41f8-867e-907d1c789cd4.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: signature dial, its signature strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/64af5e9a-bd28-41f8-867e-907d1c789cd4.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-35",
+   "name": "Hublot Classic Fusion Chronograph (Green, Black Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/713c3495-7010-40ee-8c7a-828373a5bfe9.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1000000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 black dial on its signature strap, a green finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Green PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/713c3495-7010-40ee-8c7a-828373a5bfe9.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-36",
+   "name": "Hublot Aerofusion Chronograph (Titanium, Skeleton, Blue Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/74c2cec7-c1f4-4667-a510-984e6f82d03b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a blue strap and a titanium finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/74c2cec7-c1f4-4667-a510-984e6f82d03b.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-37",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Black Dial, Black Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/7d118c3a-237b-4ac1-bc99-2258b6470901.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: black dial, a black rubber, a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/7d118c3a-237b-4ac1-bc99-2258b6470901.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-38",
+   "name": "Hublot Classic Fusion Chronograph (Green, Blue Dial, Tan Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/86e00ec8-1a12-44bc-85bc-a6e210d93946.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1000000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 blue dial on a tan strap, a green finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Green PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/86e00ec8-1a12-44bc-85bc-a6e210d93946.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-39",
+   "name": "Hublot Aerofusion Chronograph (Skeleton, Silver Subdials)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/89f556eb-c984-4c4e-9dce-0882857c4df7.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, its signature strap, and a skeleton finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/89f556eb-c984-4c4e-9dce-0882857c4df7.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-40",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Blue Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/8c566100-2fbd-4264-aa54-bb861d922c74.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: signature dial, a blue strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/8c566100-2fbd-4264-aa54-bb861d922c74.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-41",
+   "name": "Hublot Aerofusion Chronograph (Black Magic, Skeleton)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/91643468-982f-4226-9f43-7dd3c771addd.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, its signature strap, and a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/91643468-982f-4226-9f43-7dd3c771addd.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-42",
+   "name": "Hublot Aerofusion Chronograph (Green, Skeleton, Sage Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/94fbb53b-b91b-44e1-9b84-bf9bf0d2c77f.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a sage strap and a green finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Green PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/94fbb53b-b91b-44e1-9b84-bf9bf0d2c77f.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-43",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Rose Dial, Tan Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/9ef4514e-02d1-496b-ad4f-49bb22fa6849.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: rose dial, a tan strap, a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/9ef4514e-02d1-496b-ad4f-49bb22fa6849.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-44",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Grey Dial, Green Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/Hublot 3 Chronograph.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 grey dial on a green rubber, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/Hublot 3 Chronograph.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-45",
+   "name": "Hublot Aerofusion Chronograph (Black Magic, Skeleton)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/Hublot Big Bang Strap.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, its signature strap, and a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/Hublot Big Bang Strap.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-46",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/Hublot Mattee Grey.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: black dial, its signature strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/Hublot Mattee Grey.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-47",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Orange Accents)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG-20231221-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 signature dial on its signature strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG-20231221-WA0001.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-48",
+   "name": "Hublot Aerofusion Chronograph (Rose-Gold, Skeleton, Grey Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG-20240111-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1250000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a grey rubber and a rose-gold finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG-20240111-WA0001.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-49",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG-20240112-WA0008.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: black dial, a steel bracelet, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG-20240112-WA0008.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-50",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG-20240116-WA0003.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 black dial on a grey strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG-20240116-WA0003.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-51",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Black Dial, Black Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG-20251118-WA0021.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 black dial, a black strap, and a king gold finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG-20251118-WA0021.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-52",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_20210703_120211_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: black dial, its signature strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_20210703_120211_1.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-53",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Blue Strap Pair)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_20210703_175102_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1900000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (titanium, blue strap pair) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_20210703_175102_1.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-54",
+   "name": "Hublot Big Bang Unico (Skeleton, Blue Carbon)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_20210921_184742_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a skeleton finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_20210921_184742_1.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-55",
+   "name": "Hublot Big Bang Unico (Skeleton, Black Magic)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_20210921_184814_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, its signature strap, and a skeleton finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_20210921_184814_1.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-56",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Grey Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_20210921_184904_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 grey dial on its signature strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_20210921_184904_1.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-57",
+   "name": "Hublot Big Bang Unico (King Gold, Skeleton)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_20210921_185043_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1800000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, its signature strap, and a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_20210921_185043_1.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-58",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, White Dial, Grey Alligator)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_20210921_185312_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: white dial, a grey alligator, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_20210921_185312_1.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-59",
+   "name": "Hublot Big Bang Unico (King Gold, Skeleton, Black Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_20240105_134739_615.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1800000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a black rubber, and a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_20240105_134739_615.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-60",
+   "name": "Hublot Big Bang Unico (King Gold, Skeleton)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_20240105_134739_615__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1800000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a king gold finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_20240105_134739_615__2.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-61",
+   "name": "Hublot Classic Fusion Chronograph (White & Black Pair)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_4786.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1900000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Presented as a set (white & black pair) with matching dials and coordinated straps \u2014 perfect for couples.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_4786.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-62",
+   "name": "Hublot Aerofusion Chronograph (Titanium, Skeleton, Black Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_5121.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a black strap and a titanium finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_5121.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-63",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Blue Dial, Tan Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_5184.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 blue dial, a tan strap, and a king gold finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_5184.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-64",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Grey Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_6222.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: grey dial, its signature strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_6222.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-65",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial, Black Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/IMG_7315.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 black dial on a black strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/IMG_7315.jpg.jpg"
+  },
+  {
+   "id": "hublot-fibre-66",
+   "name": "Hublot Aerofusion Chronograph (Black Magic, Skeleton, Grey Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/a55601ba-5bc4-4f6f-aa34-67ed4b59fd79.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a grey rubber and a black magic finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/a55601ba-5bc4-4f6f-aa34-67ed4b59fd79.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-67",
+   "name": "Hublot Aerofusion Chronograph (Rose-Gold, Skeleton, Black Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/a78a95c2-1bbd-4253-9093-396600c9cfb3.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1250000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a black rubber, and a rose-gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/a78a95c2-1bbd-4253-9093-396600c9cfb3.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-68",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Black Dial, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/ab251bac-90d9-4f3c-a289-277b8180d826.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 black dial on a grey strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/ab251bac-90d9-4f3c-a289-277b8180d826.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-69",
+   "name": "Hublot Aerofusion Chronograph (Titanium, Skeleton, Blue Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/ae790f6e-89f4-4e8d-aa39-ed991713eccf.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a blue strap, and a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/ae790f6e-89f4-4e8d-aa39-ed991713eccf.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-70",
+   "name": "Hublot Aerofusion Chronograph (Titanium, Skeleton)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/af7bb6a9-e449-490e-b027-d0c2c635165a.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a titanium finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/af7bb6a9-e449-490e-b027-d0c2c635165a.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-71",
+   "name": "Hublot Classic Fusion Chronograph (Green, Blue Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/b082a881-b65a-43e0-84f9-04b67595ddef.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1000000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 blue dial on its signature strap, a green finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Green PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/b082a881-b65a-43e0-84f9-04b67595ddef.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-72",
+   "name": "Hublot Aerofusion Chronograph (King Gold, Skeleton)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/b474415c-b3ad-4b0c-9ff2-1d537c295df5.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1250000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a king gold finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/b474415c-b3ad-4b0c-9ff2-1d537c295df5.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-73",
+   "name": "Hublot Aerofusion Chronograph (Rose-Gold Bezel, Skeleton)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/b53bf53e-5b1a-4a7d-a445-098ee10b4f88.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1250000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, its signature strap, and a rose-gold bezel finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/b53bf53e-5b1a-4a7d-a445-098ee10b4f88.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-74",
+   "name": "Hublot Classic Fusion Chronograph (Green, Black Dial, Tan Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/b8602c72-550a-46fa-a1d1-95a152cdbbc9.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1000000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 black dial on a tan strap, a green finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Green PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/b8602c72-550a-46fa-a1d1-95a152cdbbc9.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-75",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Rose Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/ba855062-9375-4aba-9ebd-e68dc6f1360b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 rose dial, its signature strap, and a king gold finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/ba855062-9375-4aba-9ebd-e68dc6f1360b.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-76",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Grey Dial, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/be342949-95a0-4d65-8d3c-4715e2207750.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: grey dial, a grey strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/be342949-95a0-4d65-8d3c-4715e2207750.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-77",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Grey Dial, Brown Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/c380a211-9fa3-415b-b959-d760b05e401e.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 grey dial on a brown strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/c380a211-9fa3-415b-b959-d760b05e401e.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-78",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Black Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/c626bc05-6d95-4e07-9bf7-a39c53f29142.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 black dial, its signature strap, and a black magic finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/c626bc05-6d95-4e07-9bf7-a39c53f29142.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-79",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, White Accents)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/c81b5d5e-4d61-45ec-9ac8-19f2aa69c7f7.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: signature dial, its signature strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/c81b5d5e-4d61-45ec-9ac8-19f2aa69c7f7.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-80",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Blue Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/cfca2348-8698-461c-9c5d-43e7641563ce.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 signature dial on a blue strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/cfca2348-8698-461c-9c5d-43e7641563ce.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-81",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Grey Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/d787ff62-7dff-4eda-a4e6-5d63946b7ebb.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 grey dial, its signature strap, and a titanium finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/d787ff62-7dff-4eda-a4e6-5d63946b7ebb.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-82",
+   "name": "Hublot Aerofusion Chronograph (Rose-Gold, Skeleton, Red Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/d851760e-46ff-499f-95eb-5b8baaf9542b.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1250000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 a red strap and a rose-gold finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/d851760e-46ff-499f-95eb-5b8baaf9542b.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-83",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Black Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/e0ef9245-8d3c-452a-917f-b24319439ba5.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 black dial on its signature strap, a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/e0ef9245-8d3c-452a-917f-b24319439ba5.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-84",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Perforated Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/e1599949-1ef4-4f6d-b5a9-3792f31a27a1.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 signature dial, a perforated rubber, and a black magic finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/e1599949-1ef4-4f6d-b5a9-3792f31a27a1.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-85",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Orange Accents)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/e72d4cdb-46c1-4323-bb54-4bdc3a3250bb.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: signature dial, its signature strap, a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/e72d4cdb-46c1-4323-bb54-4bdc3a3250bb.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-86",
+   "name": "Hublot Classic Fusion Chronograph (Titanium, Grey Dial, Blue Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/e76b9e37-7f0d-433e-b100-048694f44317.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 950000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 grey dial on a blue strap, a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/e76b9e37-7f0d-433e-b100-048694f44317.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-87",
+   "name": "Hublot Aerofusion Chronograph (Steel, Skeleton, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/e7c71200-c8ff-4e12-9b2d-9108bb9dde85.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a grey strap, and a steel finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/e7c71200-c8ff-4e12-9b2d-9108bb9dde85.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-88",
+   "name": "Hublot Aerofusion Chronograph (Black Magic, Skeleton)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/e8d9d524-f800-472a-b096-d25114cd62d6.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a black magic finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/e8d9d524-f800-472a-b096-d25114cd62d6.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-89",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Grey Rubber)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/ea47d718-9314-4e88-8201-90ce8e750af0.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 signature dial on a grey rubber, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/ea47d718-9314-4e88-8201-90ce8e750af0.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-90",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Tan Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/eb64068f-4b36-46ad-afaa-83abb81e10a2.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 signature dial, a tan strap, and a black magic finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/eb64068f-4b36-46ad-afaa-83abb81e10a2.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-91",
+   "name": "Hublot Classic Fusion Chronograph (Rose-Gold Bezel, Black Dial, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/ecac0dc6-468a-4e97-9d58-718220c0c0f9.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: black dial, a grey strap, a rose-gold bezel finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/ecac0dc6-468a-4e97-9d58-718220c0c0f9.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-92",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Rose Dial, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/f2706eaf-0fe2-401a-8da2-49a516fbfba9.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Bold luxury-sport chronograph styling \u2014 rose dial on a grey strap, a king gold finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/f2706eaf-0fe2-401a-8da2-49a516fbfba9.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-93",
+   "name": "Hublot Classic Fusion Chronograph (King Gold, Rose Dial, Tan Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/f4e85305-2e1e-46a5-9874-8ca627ce89ba.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1650000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An inspired take on the iconic HUBLOT FIBRE chronograph \u2014 rose dial, a tan strap, and a king gold finish with an unmistakable silhouette.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "King-Gold-Style Case",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/f4e85305-2e1e-46a5-9874-8ca627ce89ba.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-94",
+   "name": "Hublot Classic Fusion Chronograph (Black Magic, Grey Dial)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/f7c509c8-bf3d-4e94-b898-8794f9109ee5.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 850000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The HUBLOT FIBRE look, executed to premium first-copy grade: grey dial, its signature strap, a black magic finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/f7c509c8-bf3d-4e94-b898-8794f9109ee5.JPG.jpg"
+  },
+  {
+   "id": "hublot-fibre-95",
+   "name": "Hublot Aerofusion Chronograph (Titanium, Skeleton, Grey Strap)",
+   "images": [
+    "assets/collection/HUBLOT FIBRE/ff539489-7fc4-4ac5-97b4-2f831a228f2c.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Skeleton craftsmanship on display: exposed dial architecture, a grey strap, and a titanium finish.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Titanium-Style Steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/hublot-fibre/ff539489-7fc4-4ac5-97b4-2f831a228f2c.JPG.jpg"
+  }
+ ]
+}

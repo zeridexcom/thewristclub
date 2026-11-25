@@ -1,0 +1,198 @@
+{
+ "brand": "RADO LADIES",
+ "brandKey": "rado-ladies",
+ "category": "her",
+ "cover": "assets/collection/RADO LADIES/BeautyPlus_20180503110407826_save.jpg.jpg",
+ "items": [
+  {
+   "id": "rado-ladies-1",
+   "name": "Rado Centrix Jubil\u00e9 (Gold, Champagne Diamond Dial)",
+   "images": [
+    "assets/collection/RADO LADIES/BeautyPlus_20180503110407826_save.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 140000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A champagne dial with sparkling diamond-pair markers and date window, fully gold-toned with a slim link bracelet \u2014 Swiss made elegance.",
+   "specs": {
+    "Movement": "Quartz two-hand with date",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-ladies/BeautyPlus_20180503110407826_save.jpg.jpg"
+  },
+  {
+   "id": "rado-ladies-2",
+   "name": "Rado Centrix Jubil\u00e9 (Black Ceramic & Rose-Gold)",
+   "images": [
+    "assets/collection/RADO LADIES/BeautyPlus_20180709162058106_save.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 140000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Glossy black ceramic links with rose-gold accents cradle a diamond-set black dial with date \u2014 the Jubil\u00e9 at its most striking.",
+   "specs": {
+    "Movement": "Quartz two-hand with date",
+    "Case": "Steel & black ceramic",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-ladies/BeautyPlus_20180709162058106_save.jpg.jpg"
+  },
+  {
+   "id": "rado-ladies-3",
+   "name": "Rado Centrix Jubil\u00e9 (Black Ceramic, Diamond Dial)",
+   "images": [
+    "assets/collection/RADO LADIES/BeautyPlus_20190527084343638_save.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 140000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A deep black dial punctuated by diamond cluster markers and a date window, on gleaming black high-tech ceramic.",
+   "specs": {
+    "Movement": "Quartz two-hand with date",
+    "Case": "Steel & black ceramic",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-ladies/BeautyPlus_20190527084343638_save.jpg.jpg"
+  },
+  {
+   "id": "rado-ladies-4",
+   "name": "Rado Centrix Jubil\u00e9 (Gold & Black Ceramic, Black Dial)",
+   "images": [
+    "assets/collection/RADO LADIES/IMG_20190527_101830_384.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 140000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Gold-tone links over black ceramic carry a jet-black Jubil\u00e9 dial with diamond accents and date \u2014 presented in a lacquer box.",
+   "specs": {
+    "Movement": "Quartz two-hand with date",
+    "Case": "Steel, gold-tone & black ceramic",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-ladies/IMG_20190527_101830_384.jpg.jpg"
+  },
+  {
+   "id": "rado-ladies-5",
+   "name": "Rado Centrix Jubil\u00e9 (All-Black Ceramic, Rose-Gold Accents)",
+   "images": [
+    "assets/collection/RADO LADIES/IMG_20190527_102001_779.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 140000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An all-black ceramic bracelet and rose-gold hands frame a diamond-set black dial with date \u2014 quietly commanding.",
+   "specs": {
+    "Movement": "Quartz two-hand with date",
+    "Case": "Black high-tech ceramic",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-ladies/IMG_20190527_102001_779.jpg.jpg"
+  },
+  {
+   "id": "rado-ladies-6",
+   "name": "Rado Centrix Jubil\u00e9 (White Ceramic & Gold, White Dial)",
+   "images": [
+    "assets/collection/RADO LADIES/IMG_20190527_102048_581.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 140000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Snow-white ceramic links with gold-tone caps around a white Jubil\u00e9 dial with diamond markers and date window.",
+   "specs": {
+    "Movement": "Quartz two-hand with date",
+    "Case": "Steel, gold-tone & white ceramic",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-ladies/IMG_20190527_102048_581.jpg.jpg"
+  },
+  {
+   "id": "rado-ladies-7",
+   "name": "Rado Centrix Jubil\u00e9 (Black Ceramic & Steel, Black Dial)",
+   "images": [
+    "assets/collection/RADO LADIES/IMG_20190527_102138_906.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 140000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Brushed steel flanks and black ceramic links, with a mirror-black dial carrying diamond pairs and a discreet date.",
+   "specs": {
+    "Movement": "Quartz two-hand with date",
+    "Case": "Steel & black ceramic",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-ladies/IMG_20190527_102138_906.jpg.jpg"
+  },
+  {
+   "id": "rado-ladies-8",
+   "name": "Rado Centrix Jubil\u00e9 (White Ceramic & Rose-Gold, White Dial)",
+   "images": [
+    "assets/collection/RADO LADIES/IMG_20190527_102222_840.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 140000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Rose-gold and white ceramic interlace around a porcelain-white dial with diamond markers and date \u2014 bridal-level luminosity.",
+   "specs": {
+    "Movement": "Quartz two-hand with date",
+    "Case": "Steel, rose-gold-tone & white ceramic",
+    "Diameter": "30mm",
+    "Water Resistance": "3 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-ladies/IMG_20190527_102222_840.jpg.jpg"
+  },
+  {
+   "id": "rado-ladies-9",
+   "name": "Rado True Square Automatic Open Heart (White Ceramic)",
+   "images": [
+    "assets/collection/RADO LADIES/IMG_20190701_100642_446.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 371200,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A monobloc white ceramic case and bracelet, the dial opened to reveal the automatic calibre with golden embellishments.",
+   "specs": {
+    "Movement": "Automatic open heart",
+    "Case": "White high-tech ceramic",
+    "Diameter": "38mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-ladies/IMG_20190701_100642_446.jpg.jpg"
+  },
+  {
+   "id": "rado-ladies-10",
+   "name": "Rado True Square Automatic Open Heart (White Ceramic)",
+   "images": [
+    "assets/collection/RADO LADIES/IMG_20240707_120850_769.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 371200,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The True Square Open Heart in full white ceramic \u2014 a light-catchingly sculptural Swiss automatic on a link bracelet.",
+   "specs": {
+    "Movement": "Automatic open heart",
+    "Case": "White high-tech ceramic",
+    "Diameter": "38mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rado-ladies/IMG_20240707_120850_769.jpg.jpg"
+  }
+ ]
+}

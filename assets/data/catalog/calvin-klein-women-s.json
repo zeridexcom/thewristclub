@@ -1,0 +1,65 @@
+{
+ "brand": "Calvin Klein (Ladies)",
+ "brandKey": "calvin-klein-women-s",
+ "category": "him",
+ "cover": "assets/collection/Calvin Klein Women's/IMG-20241114-WA0000.jpg.jpg",
+ "items": [
+  {
+   "id": "calvin-klein-women-s-1",
+   "name": "Calvin Klein Minimal (Rose-Gold, Pink Dial)",
+   "images": [
+    "assets/collection/Calvin Klein Women's/IMG-20241114-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 18995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: pink dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/calvin-klein-women-s/IMG-20241114-WA0000.jpg.jpg"
+  },
+  {
+   "id": "calvin-klein-women-s-2",
+   "name": "Calvin Klein Minimal (Steel, Silver Dial)",
+   "images": [
+    "assets/collection/Calvin Klein Women's/IMG-20241211-WA0015.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 18995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a silver dial on its signature strap, a steel finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/calvin-klein-women-s/IMG-20241211-WA0015.jpg.jpg"
+  },
+  {
+   "id": "calvin-klein-women-s-3",
+   "name": "Calvin Klein Seduce (Rose-Gold, Crystal-Set Bezel)",
+   "images": [
+    "assets/collection/Calvin Klein Women's/IMG-20241229-WA0007.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: signature dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/calvin-klein-women-s/IMG-20241229-WA0007.jpg.jpg"
+  }
+ ]
+}

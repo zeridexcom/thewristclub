@@ -1,0 +1,46 @@
+{
+ "brand": "Cartier",
+ "brandKey": "cartier",
+ "category": "unisex",
+ "cover": "assets/collection/Cartier/IMG-20240317-WA0005.jpg.jpg",
+ "items": [
+  {
+   "id": "cartier-1",
+   "name": "Cartier Santos de Cartier (Steel, Black Dial)",
+   "images": [
+    "assets/collection/Cartier/IMG-20240317-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 700000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Elegant heritage styling: black dial, its signature strap, and a steel finish inspired by the Cartier icon.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "39mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/cartier/IMG-20240317-WA0005.jpg.jpg"
+  },
+  {
+   "id": "cartier-2",
+   "name": "Cartier Rotonde de Cartier Skeleton (Rose-Gold, Roman Numerals)",
+   "images": [
+    "assets/collection/Cartier/IMG_20240509_121526_868.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 4500000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An open-heart skeleton dial that shows its gears \u2014 its signature strap and a rose-gold finish for a technical, luxurious look.",
+   "specs": {
+    "Movement": "Manual Skeleton",
+    "Case": "Rose-Gold-Style",
+    "Diameter": "42mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/cartier/IMG_20240509_121526_868.jpg.jpg"
+  }
+ ]
+}

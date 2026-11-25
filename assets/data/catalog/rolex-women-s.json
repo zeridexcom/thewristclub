@@ -1,0 +1,65 @@
+{
+ "brand": "Rolex (Ladies)",
+ "brandKey": "rolex-women-s",
+ "category": "him",
+ "cover": "assets/collection/Rolex Women's/D973197C-96D7-4D50-9227-667C3F042827.JPEG.jpg",
+ "items": [
+  {
+   "id": "rolex-women-s-1",
+   "name": "Rolex Lady-Datejust Two-Tone (Silver Roman Dial)",
+   "images": [
+    "assets/collection/Rolex Women's/D973197C-96D7-4D50-9227-667C3F042827.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 1469000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A 28mm Lady-Datejust pairing a fluted bezel and silver Roman-numeral dial with the iconic two-tone Jubilee bracelet.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel and Yellow Gold",
+    "Diameter": "28 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rolex-women-s/D973197C-96D7-4D50-9227-667C3F042827.JPEG.jpg"
+  },
+  {
+   "id": "rolex-women-s-2",
+   "name": "Rolex Lady-Datejust Two-Tone (Green Dial)",
+   "images": [
+    "assets/collection/Rolex Women's/IMG_3228_1ykkkk_1lop.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 1469000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A striking Lady-Datejust in steel and yellow gold with a sunburst green dial, fluted bezel and Jubilee bracelet, complete with box and papers.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel and Yellow Gold",
+    "Diameter": "28 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rolex-women-s/IMG_3228_1ykkkk_1lop.JPG.jpg"
+  },
+  {
+   "id": "rolex-women-s-3",
+   "name": "Rolex Lady-Datejust Two-Tone (Chocolate Dial, Everose)",
+   "images": [
+    "assets/collection/Rolex Women's/IMG_5355.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 1297000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A warm chocolate-dial Lady-Datejust framed by an Everose gold fluted bezel on a steel-and-rose-gold Jubilee bracelet.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel and Everose Gold",
+    "Diameter": "28 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/rolex-women-s/IMG_5355.jpg.jpg"
+  }
+ ]
+}

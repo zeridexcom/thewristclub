@@ -1,0 +1,1756 @@
+{
+ "brand": "Tag Heuer",
+ "brandKey": "tag-heuer",
+ "category": "unisex",
+ "cover": "assets/collection/Tag Heuer/01e0772f-d3f2-4eeb-a609-5396e0ecb8ae.JPG.jpg",
+ "items": [
+  {
+   "id": "tag-heuer-1",
+   "name": "Tag Heuer Formula 1 Chronograph (Blue Dial, Black Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/01e0772f-d3f2-4eeb-a609-5396e0ecb8ae.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with deep blue dial, tachymeter bezel and perforated black leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/01e0772f-d3f2-4eeb-a609-5396e0ecb8ae.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-2",
+   "name": "Tag Heuer Carrera Calibre 5 (Black Dial, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/0684ACFD-71E0-42E5-877C-AD013F5C6B2A.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A refined Carrera with black dial, day-date window and polished steel bracelet.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/0684ACFD-71E0-42E5-877C-AD013F5C6B2A.JPEG.jpg"
+  },
+  {
+   "id": "tag-heuer-3",
+   "name": "Tag Heuer Carrera Chronograph (All-Black, Steel Bracelet)",
+   "images": [
+    "assets/collection/Tag Heuer/0f01028e-d02d-4d96-bbbf-8393dcc5b158.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A stealth all-black Carrera chronograph with open sub-dial detail and blackened steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/0f01028e-d02d-4d96-bbbf-8393dcc5b158.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-4",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Grey Fabric Strap)",
+   "images": [
+    "assets/collection/Tag Heuer/0f4bde67-2234-4038-9193-2588cbce13c4.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with black dial, red accents and textured grey fabric strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/0f4bde67-2234-4038-9193-2588cbce13c4.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-5",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Red Accents)",
+   "images": [
+    "assets/collection/Tag Heuer/11c54c34-ea91-4fab-a748-c9630fc833fb.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial, red-ringed registers and racing strap, boxed.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/11c54c34-ea91-4fab-a748-c9630fc833fb.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-6",
+   "name": "Tag Heuer Formula 1 Chronograph (Rose-Gold, Copper Dial, Brown Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/1812a2ad-f02d-4909-ada3-fc9ada0f0a0e.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A warm rose-gold Formula 1 style chronograph with copper dial on chestnut leather.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/1812a2ad-f02d-4909-ada3-fc9ada0f0a0e.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-7",
+   "name": "Tag Heuer Carrera Chronograph (Blue Dial, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/198dd96e-89fc-4d03-952a-922760523c87.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with sunburst blue dial, tachymeter ring and steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/198dd96e-89fc-4d03-952a-922760523c87.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-8",
+   "name": "Tag Heuer Grand Carrera Chronograph (Black Dial, Rubber)",
+   "images": [
+    "assets/collection/Tag Heuer/1f7ed01f-921b-4e32-acfe-ba8d636ede6a.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 175000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Grand Carrera style chronograph with black dial, tachymeter bezel and black rubber strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/1f7ed01f-921b-4e32-acfe-ba8d636ede6a.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-9",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Tag Heuer/2224b0d7-b68d-4763-8c3a-5832a2b61058.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial and brushed steel bracelet, boxed.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/2224b0d7-b68d-4763-8c3a-5832a2b61058.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-10",
+   "name": "Tag Heuer Carrera Calibre 5 (Blue Dial, Blue Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/2600f4d9-48e3-4772-adc3-54e97e737e57.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera with vivid blue dial and matching blue alligator-grain leather strap.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/2600f4d9-48e3-4772-adc3-54e97e737e57.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-11",
+   "name": "Tag Heuer Carrera Chronograph (All-Black, Bracelet)",
+   "images": [
+    "assets/collection/Tag Heuer/28bde057-8b4e-4211-8be8-742b43275de3.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A fully blacked-out Carrera chronograph with black dial and matching steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/28bde057-8b4e-4211-8be8-742b43275de3.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-12",
+   "name": "Tag Heuer Carrera Chronograph (Open-Heart Dial, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/28fe8635-bdcd-4f32-a58a-5405c6bc4df4.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A Carrera style chronograph with a partially open-worked dial revealing gears, on steel.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/28fe8635-bdcd-4f32-a58a-5405c6bc4df4.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-13",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Black Leather, Boxed)",
+   "images": [
+    "assets/collection/Tag Heuer/2a3c8094-3b16-4b02-b552-fbe7f3eca514.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with black dial on black leather, presented with its box and card.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/2a3c8094-3b16-4b02-b552-fbe7f3eca514.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-14",
+   "name": "Tag Heuer Carrera Chronograph (All-Black, Black Dial)",
+   "images": [
+    "assets/collection/Tag Heuer/2cf2afa4-0e04-41d2-846c-afdf08484e56.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A stealth Carrera chronograph in all-black with matching black bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/2cf2afa4-0e04-41d2-846c-afdf08484e56.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-15",
+   "name": "Tag Heuer Carrera Calibre 16 (Blue Dial, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/33ae053d-9dea-49e2-81f9-166d114f9bdf.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 16 style chronograph with blue dial and steel bracelet.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/33ae053d-9dea-49e2-81f9-166d114f9bdf.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-16",
+   "name": "Tag Heuer Carrera Calibre 5 Day-Date (Blue Dial)",
+   "images": [
+    "assets/collection/Tag Heuer/33b2a006-dc3c-416e-a0a3-fee8970b218e.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 5 with blue dial, day-date window and steel bracelet.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/33b2a006-dc3c-416e-a0a3-fee8970b218e.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-17",
+   "name": "Tag Heuer Moon-Phase Chronograph (Silver & Black, Pair)",
+   "images": [
+    "assets/collection/Tag Heuer/36423521-51B4-45F2-8266-07784D086E95.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A matched pair of moon-phase chronographs, one in polished steel and one in black.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41-43 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/36423521-51B4-45F2-8266-07784D086E95.JPEG.jpg"
+  },
+  {
+   "id": "tag-heuer-18",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Steel, Boxed)",
+   "images": [
+    "assets/collection/Tag Heuer/36d25bc1-c7e4-4929-8116-da6b7836a26f.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with black dial and steel bracelet, boxed with guarantee card.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/36d25bc1-c7e4-4929-8116-da6b7836a26f.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-19",
+   "name": "Tag Heuer Link Chronograph (Silver Dial)",
+   "images": [
+    "assets/collection/Tag Heuer/37ae40cf-b620-4bbc-98e2-6ff5f573aa84.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Link chronograph with crisp silver dial and the signature S-link steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/37ae40cf-b620-4bbc-98e2-6ff5f573aa84.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-20",
+   "name": "Tag Heuer Skeleton Chronograph (Grey Dial, Grey Fabric)",
+   "images": [
+    "assets/collection/Tag Heuer/38e6b473-e5d5-4162-b4a9-7ef9c04e2f73.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A skeletonized chronograph with exposed movement, grey dial and grey fabric strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/38e6b473-e5d5-4162-b4a9-7ef9c04e2f73.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-21",
+   "name": "Tag Heuer Carrera Calibre 5 Day-Date (Blue Dial, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/3a2204f6-beb5-4b24-a3c4-72b5a833cada.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 5 with blue dial and day-date display on steel.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/3a2204f6-beb5-4b24-a3c4-72b5a833cada.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-22",
+   "name": "Tag Heuer Carrera Chronograph (Silver Dial, Rose-Gold Case)",
+   "images": [
+    "assets/collection/Tag Heuer/3ae62b04-2b4d-4334-85dd-1636986a2fa8.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A rose-gold Carrera chronograph with silver dial and brown leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/3ae62b04-2b4d-4334-85dd-1636986a2fa8.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-23",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Red-Stitched Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/3b3e8aec-575c-4e27-98d5-a98dea6f77fc.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial and red-stitched black leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/3b3e8aec-575c-4e27-98d5-a98dea6f77fc.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-24",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Orange Accents)",
+   "images": [
+    "assets/collection/Tag Heuer/3e62d6c3-59fe-4ba7-942b-ebca131f9e5f.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with black dial and bold orange register accents, boxed.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/3e62d6c3-59fe-4ba7-942b-ebca131f9e5f.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-25",
+   "name": "Tag Heuer Carrera Calibre 16 (Blue Dial)",
+   "images": [
+    "assets/collection/Tag Heuer/3f2c9881-f0b0-48e0-b8d2-41e29e7712f5.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 16 chronograph with blue dial and steel bracelet, shown in detail.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/3f2c9881-f0b0-48e0-b8d2-41e29e7712f5.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-26",
+   "name": "Tag Heuer Aquaracer Chronograph (Black Dial, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/4466b745-3234-4492-bbfa-4c64d48d8a6a.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 130000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An Aquaracer chronograph with black dial, diver bezel and steel link bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/4466b745-3234-4492-bbfa-4c64d48d8a6a.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-27",
+   "name": "Tag Heuer Grand Carrera (Skeleton Dial, Black)",
+   "images": [
+    "assets/collection/Tag Heuer/46263b99-83ba-48a6-81ab-3bde694bf229.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A Grand Carrera style piece with blackened skeleton dial and black steel bracelet.",
+   "specs": {
+    "Movement": "Automatic Skeleton",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/46263b99-83ba-48a6-81ab-3bde694bf229.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-28",
+   "name": "Tag Heuer Formula 1 Chronograph (Blue Dial, Perforated Rubber)",
+   "images": [
+    "assets/collection/Tag Heuer/46ab2a3b-9ed5-4c06-b2f2-16da5da2f082.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with blue dial and perforated black rubber strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/46ab2a3b-9ed5-4c06-b2f2-16da5da2f082.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-29",
+   "name": "Tag Heuer Carrera Chronograph (White Dial, Rose-Gold-Tone)",
+   "images": [
+    "assets/collection/Tag Heuer/47913558-caea-454a-8129-84ecb00b2aba.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A rose-gold Carrera chronograph with clean white dial and rich brown leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/47913558-caea-454a-8129-84ecb00b2aba.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-30",
+   "name": "Tag Heuer Monaco Chronograph (Black Dial)",
+   "images": [
+    "assets/collection/Tag Heuer/48b5daa1-be57-45d6-be77-5264055bb5f1.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 195000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The iconic square Monaco chronograph with black dial and black alligator strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/48b5daa1-be57-45d6-be77-5264055bb5f1.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-31",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Brown Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/4a635c43-d12c-48da-a5ef-9285a3340229.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial, date and brown leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/4a635c43-d12c-48da-a5ef-9285a3340229.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-32",
+   "name": "Tag Heuer Carrera Chronograph (White Dial, Perforated Brown Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/4dd392bb-e105-49dd-8ea0-0b496d1a2df9.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with white dial, blue registers and tan perforated racing strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/4dd392bb-e105-49dd-8ea0-0b496d1a2df9.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-33",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Blue Markers)",
+   "images": [
+    "assets/collection/Tag Heuer/4ee9260d-2db9-424a-8add-555d078d5485.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with black dial, blue accents and black leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/4ee9260d-2db9-424a-8add-555d078d5485.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-34",
+   "name": "Tag Heuer Aquaracer (Blue Dial, Blue Bezel)",
+   "images": [
+    "assets/collection/Tag Heuer/4f16da26-21db-434c-8c75-e7448094c246.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 110000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An Aquaracer with sunburst blue dial, matching blue bezel and steel bracelet.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/4f16da26-21db-434c-8c75-e7448094c246.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-35",
+   "name": "Tag Heuer Carrera Chronograph (White Dial, Two-Tone Rose)",
+   "images": [
+    "assets/collection/Tag Heuer/4f8b261b-2616-4e4f-8436-729d7ab49e7c.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A two-tone Carrera chronograph with white dial and rose-gold accents, boxed.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel and Rose-Gold-Tone Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/4f8b261b-2616-4e4f-8436-729d7ab49e7c.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-36",
+   "name": "Tag Heuer Carrera Chronograph (Blue Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Tag Heuer/5dcd4017-322d-413d-8e4b-13500399d168.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with blue dial and polished steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/5dcd4017-322d-413d-8e4b-13500399d168.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-37",
+   "name": "Tag Heuer Carrera Chronograph (White Dial, Rose-Gold, Tan Racing Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/5dcd78ad-c87c-4d7a-a15d-30a62ce5ae32.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A rose-gold Carrera with white dial on tan perforated racing leather.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/5dcd78ad-c87c-4d7a-a15d-30a62ce5ae32.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-38",
+   "name": "Tag Heuer Open-Heart Chronograph (Steel & Black, Pair)",
+   "images": [
+    "assets/collection/Tag Heuer/61501447-FF54-4B47-BA18-26DEB807F6FA.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A matched pair of open-dial chronographs in steel and black finishes.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41-43 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/61501447-FF54-4B47-BA18-26DEB807F6FA.JPEG.jpg"
+  },
+  {
+   "id": "tag-heuer-39",
+   "name": "Tag Heuer Monaco Skeleton (Black Dial)",
+   "images": [
+    "assets/collection/Tag Heuer/62faa817-8104-4226-8305-a0f1622b1f03.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 195000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A square Monaco with open-worked black skeleton dial and black leather strap.",
+   "specs": {
+    "Movement": "Automatic Skeleton",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/62faa817-8104-4226-8305-a0f1622b1f03.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-40",
+   "name": "Tag Heuer Carrera Chronograph (White Dial, Blue Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/7121baae-8498-4ef5-86a9-5b982da1ea3e.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with white dial, blue numerals and blue alligator strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/7121baae-8498-4ef5-86a9-5b982da1ea3e.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-41",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Red-Stitched Leather, Detail)",
+   "images": [
+    "assets/collection/Tag Heuer/74f3d473-5024-43eb-b02c-4ae8c7f8bf79.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with red-stitched strap, shown with caseback detail.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/74f3d473-5024-43eb-b02c-4ae8c7f8bf79.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-42",
+   "name": "Tag Heuer Aquaracer (Black Dial, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/7aedaf72-c729-45ae-8257-5fbc52f8e62c.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 110000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An Aquaracer with black dial, date window and steel link bracelet.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/7aedaf72-c729-45ae-8257-5fbc52f8e62c.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-43",
+   "name": "Tag Heuer Skeleton Chronograph (Skeleton Dial, Grey Fabric)",
+   "images": [
+    "assets/collection/Tag Heuer/80351820-e394-46da-ae76-2a6d82c7b232.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A blackened skeleton chronograph with red hands on a grey fabric strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/80351820-e394-46da-ae76-2a6d82c7b232.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-44",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Gold-Tone, Brown Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/82bb2f16-f3a0-4af7-ba3b-3d3520c062f2.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A gold-toned Carrera chronograph with black dial and brown leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/82bb2f16-f3a0-4af7-ba3b-3d3520c062f2.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-45",
+   "name": "Tag Heuer Carrera Chronograph (Blue Dial, Steel Bracelet, Boxed)",
+   "images": [
+    "assets/collection/Tag Heuer/85dead47-d0ce-42cc-bafc-59b453a4cf07.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with blue dial and steel bracelet, boxed with TAG Heuer card.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/85dead47-d0ce-42cc-bafc-59b453a4cf07.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-46",
+   "name": "Tag Heuer Carrera Calibre 5 (Blue Dial, Black Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/873ea743-9c12-40f3-8c4e-7a3c6a0deeac.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera with blue dial and black alligator-grain leather strap.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/873ea743-9c12-40f3-8c4e-7a3c6a0deeac.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-47",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Steel Bracelet, Boxed)",
+   "images": [
+    "assets/collection/Tag Heuer/88c73fcb-13b9-4e14-a431-fea199614bce.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial and steel bracelet, boxed.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/88c73fcb-13b9-4e14-a431-fea199614bce.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-48",
+   "name": "Tag Heuer Skeleton Chronograph (Grey Skeleton Dial, Grey Fabric)",
+   "images": [
+    "assets/collection/Tag Heuer/8c797b8b-3671-401c-abcb-c3c8576d0959.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A grey skeleton chronograph with red accents on a grey fabric strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/8c797b8b-3671-401c-abcb-c3c8576d0959.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-49",
+   "name": "Tag Heuer Carrera Calibre 36 (Blue Dial, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/916882da-e759-49df-9821-9100b6f7e0af.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 175000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 36 style chronograph with blue sub-dial ring and steel bracelet.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/916882da-e759-49df-9821-9100b6f7e0af.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-50",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Black Croc Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/94601ed2-d3a2-49fe-9d8b-9099b7d37361.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial and black croc-embossed strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/94601ed2-d3a2-49fe-9d8b-9099b7d37361.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-51",
+   "name": "Tag Heuer Aquaracer (Blue Dial, Blue Bezel, Steel Bracelet)",
+   "images": [
+    "assets/collection/Tag Heuer/94a4da68-7acf-4604-bb4a-448bb951bbbd.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 110000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An Aquaracer with blue dial, blue bezel and steel link bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/94a4da68-7acf-4604-bb4a-448bb951bbbd.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-52",
+   "name": "Tag Heuer Carrera Chronograph (All-Black, Skeleton Dial, Boxed)",
+   "images": [
+    "assets/collection/Tag Heuer/97e7f74b-0ce5-462e-b2da-2b768c55bda7.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "An all-black Carrera style chronograph with skeleton dial, boxed with card.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/97e7f74b-0ce5-462e-b2da-2b768c55bda7.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-53",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Brown Leather, Boxed)",
+   "images": [
+    "assets/collection/Tag Heuer/CB43E8EA-457E-457C-9229-9B2C02F90D26.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with black dial on brown leather, presented in its box.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/CB43E8EA-457E-457C-9229-9B2C02F90D26.JPEG.jpg"
+  },
+  {
+   "id": "tag-heuer-54",
+   "name": "Tag Heuer Carrera Calibre 5 (Silver Dial, Day-Date, Brown Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/E2B21665-5326-46CB-95C3-FDD937B08640.JPEG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 5 with silvery dial, day-date and chestnut leather strap.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/E2B21665-5326-46CB-95C3-FDD937B08640.JPEG.jpg"
+  },
+  {
+   "id": "tag-heuer-55",
+   "name": "Tag Heuer Carrera Calibre 5 (Black Dial, Rose Accents, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/FF072E71-752C-417B-B454-A6E96C4C1817.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 5 with black dial, rose-gold hands and steel bracelet.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/FF072E71-752C-417B-B454-A6E96C4C1817.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-56",
+   "name": "Tag Heuer Carrera Chronograph (Silver Dial, Grey Fabric Strap)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20240115-WA0019.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with silver dial, day-date and grey fabric strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20240115-WA0019.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-57",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Rose-Gold, Black Croc)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20240131-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A rose-gold Carrera chronograph with black dial and black croc-embossed strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20240131-WA0004.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-58",
+   "name": "Tag Heuer Carrera Chronograph (White Dial, Rose-Gold, Brown Croc)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20240205-WA0038.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A rose-gold Carrera chronograph with white dial and brown croc strap, shown with details.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20240205-WA0038.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-59",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Red Accents, Bracelet)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20240222-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial, red accents and black bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20240222-WA0001.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-60",
+   "name": "Tag Heuer Skeleton Chronograph (Grey Dial, Grey Fabric Strap)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20240318-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A skeleton chronograph with grey-blue dial and red hands on grey fabric.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20240318-WA0000.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-61",
+   "name": "Tag Heuer Carrera Calibre 16 Heritage (White Dial, Blue Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20240706-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A heritage Carrera chronograph with white dial, blue numerals and blue leather strap.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20240706-WA0001.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-62",
+   "name": "Tag Heuer Carrera Chronograph (Blue Dial, Boxed)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20240718-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with blue dial and steel bracelet, shown with official listing.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20240718-WA0004.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-63",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Black Croc Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20240724-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with black dial and black croc-embossed leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20240724-WA0002.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-64",
+   "name": "Tag Heuer Carrera Chronograph (White Dial, Brown Croc Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20240808-WA0031.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with white dial, date and rich brown croc strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20240808-WA0031.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-65",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Red Accents, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20241116-WA0007.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial, red accents and steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20241116-WA0007.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-66",
+   "name": "Tag Heuer Carrera Calibre 16 (White Dial, Day-Date, Tan Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20241216-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 16 chronograph with white dial, day-date and tan leather strap.",
+   "specs": {
+    "Movement": "Automatic Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20241216-WA0001.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-67",
+   "name": "Tag Heuer Grand Carrera Chronograph (Black Dial, Tan Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20241218-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 175000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Grand Carrera style chronograph with black dial, moon-phase sub-dial and embossed tan strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20241218-WA0000.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-68",
+   "name": "Tag Heuer Formula 1 Chronograph (Yellow Dial, Yellow Rubber)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20250113-WA0021.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A striking Formula 1 chronograph with yellow dial and matching yellow rubber strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20250113-WA0021.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-69",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Red Accents, Black Bracelet)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG-20250428-WA0003.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial and red accents on a blackened bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG-20250428-WA0003.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-70",
+   "name": "Tag Heuer Aquaracer Calibre 5 Day-Date (Blue Dial)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG_20210706_193048_1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 120000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An Aquaracer Calibre 5 with blue dial, day-date and black leather strap.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG_20210706_193048_1.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-71",
+   "name": "Tag Heuer Aquaracer (Grey Open-Heart Dial, Grey Fabric)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG_20231229_202236_400.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "An Aquaracer style piece with grey open-worked dial on a grey fabric strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG_20231229_202236_400.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-72",
+   "name": "Tag Heuer Skeleton Chronograph (Skeleton Dial, Brown Rubber)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG_2218.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A blackened skeleton chronograph with blue-grey open dial on embossed brown rubber.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG_2218.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-73",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Steel Bracelet, Date)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG_2283.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial, date and steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG_2283.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-74",
+   "name": "Tag Heuer Carrera Calibre 5 (Black Dial, Day-Date, Steel)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG_2826.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 5 with black dial and day-date window on steel.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG_2826.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-75",
+   "name": "Tag Heuer Carrera Calibre 5 (Blue Dial, Day-Date, Blue Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG_2951.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 5 with blue dial, day-date and blue leather strap.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG_2951.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-76",
+   "name": "Tag Heuer Moon-Phase Chronograph (Silver Dial, Tan Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/IMG_3667.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A silver chronograph with moon-phase sub-dial and tan leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/IMG_3667.jpg.jpg"
+  },
+  {
+   "id": "tag-heuer-77",
+   "name": "Tag Heuer Aquaracer (Blue Dial, Blue Bezel, Bracelet)",
+   "images": [
+    "assets/collection/Tag Heuer/aee57875-d66f-4939-8772-08f0822ae5d3.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 110000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An Aquaracer with blue dial and bezel on a steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "30 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/aee57875-d66f-4939-8772-08f0822ae5d3.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-78",
+   "name": "Tag Heuer Skeleton Chronograph (Rose-Gold, Brown Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/b7b3d2e3-67df-4497-9d06-91cd177bf117.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A rose-gold skeleton chronograph with open-worked dial on embossed brown leather.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/b7b3d2e3-67df-4497-9d06-91cd177bf117.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-79",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Red-Stitched Croc)",
+   "images": [
+    "assets/collection/Tag Heuer/bcd35414-410d-4d3d-916a-aae82e7aef33.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial and red-stitched croc leather.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/bcd35414-410d-4d3d-916a-aae82e7aef33.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-80",
+   "name": "Tag Heuer Skeleton Chronograph (Steel, Boxed)",
+   "images": [
+    "assets/collection/Tag Heuer/bda46002-6468-4b72-a8fb-8dceb421dbd9.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A full-skeleton chronograph in polished steel with red accents, boxed and tagged.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/bda46002-6468-4b72-a8fb-8dceb421dbd9.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-81",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Grey Bracelet)",
+   "images": [
+    "assets/collection/Tag Heuer/cdfaa0f3-a698-49e6-9c8f-f388c78dcd78.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial and grey-ionized steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/cdfaa0f3-a698-49e6-9c8f-f388c78dcd78.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-82",
+   "name": "Tag Heuer Carrera Chronograph (Blue Dial, Rose-Gold, Black Croc)",
+   "images": [
+    "assets/collection/Tag Heuer/d0d7c50c-1ce5-4135-88f0-a99ff8e0b9b0.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A rose-gold Carrera chronograph with blue dial and black croc-embossed strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/d0d7c50c-1ce5-4135-88f0-a99ff8e0b9b0.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-83",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Rose-Gold, Orange-Stitched Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/d87c9d89-3941-4d8d-acac-767f2564e605.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A rose-gold Carrera chronograph with black dial and orange-stitched black leather.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/d87c9d89-3941-4d8d-acac-767f2564e605.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-84",
+   "name": "Tag Heuer Carrera Chronograph (Blue & Black, Pair)",
+   "images": [
+    "assets/collection/Tag Heuer/e2a9d813-e83a-4191-8ef1-9ae48aa81d3f.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A matched pair of Carrera chronographs, one in steel with blue dial and one all-black.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41-43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/e2a9d813-e83a-4191-8ef1-9ae48aa81d3f.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-85",
+   "name": "Tag Heuer Carrera Chronograph (Black Dial, Open Sub-Dial, Boxed)",
+   "images": [
+    "assets/collection/Tag Heuer/e4f26406-ce4d-475a-953e-d0421416764e.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 155000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera chronograph with black dial and skeletonized sub-dial, boxed.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/e4f26406-ce4d-475a-953e-d0421416764e.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-86",
+   "name": "Tag Heuer Formula 1 Chronograph (Copper Dial, Rose-Gold, Brown Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/eef48b45-bb1d-4ca1-b648-cd66b5cc3fcb.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A rose-gold Formula 1 style chronograph with copper dial and brown leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/eef48b45-bb1d-4ca1-b648-cd66b5cc3fcb.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-87",
+   "name": "Tag Heuer Carrera Chronograph (Skeleton Dial, Steel, Boxed)",
+   "images": [
+    "assets/collection/Tag Heuer/f198b29d-93a0-4cc2-9433-969830ca0e34.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": null,
+   "mrpNote": "",
+   "price": "Price on Request",
+   "desc": "A steel Carrera style chronograph with open-worked dial, boxed and tagged.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/f198b29d-93a0-4cc2-9433-969830ca0e34.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-88",
+   "name": "Tag Heuer Carrera Calibre 5 (Blue Dial, Two-Tone Bracelet)",
+   "images": [
+    "assets/collection/Tag Heuer/f32195ee-488b-43cf-9fee-41ceb09ca46d.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Carrera Calibre 5 with blue dial and two-tone gold-and-steel bracelet.",
+   "specs": {
+    "Movement": "Automatic",
+    "Case": "Stainless Steel and Gold-Tone Steel",
+    "Diameter": "39 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/f32195ee-488b-43cf-9fee-41ceb09ca46d.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-89",
+   "name": "Tag Heuer Grand Carrera Chronograph (Black Dial, Red-Lined Leather)",
+   "images": [
+    "assets/collection/Tag Heuer/f836d0ca-2d3a-40ea-9563-c9ab429fb01c.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 175000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Grand Carrera style chronograph with black dial and red-lined black leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/f836d0ca-2d3a-40ea-9563-c9ab429fb01c.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-90",
+   "name": "Tag Heuer Link Chronograph (Black Dial)",
+   "images": [
+    "assets/collection/Tag Heuer/f87b42d0-16f4-42c3-9d58-dd245b6dbd8c.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 150000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Link chronograph with black dial, tachymeter ring and S-link steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "41 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/f87b42d0-16f4-42c3-9d58-dd245b6dbd8c.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-91",
+   "name": "Tag Heuer Grand Carrera (All-Black, Red Accents)",
+   "images": [
+    "assets/collection/Tag Heuer/fb0bce92-9d30-4887-9464-8a501958f3e1.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 175000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "An all-black Grand Carrera style chronograph with red accents and calibre window.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/fb0bce92-9d30-4887-9464-8a501958f3e1.JPG.jpg"
+  },
+  {
+   "id": "tag-heuer-92",
+   "name": "Tag Heuer Formula 1 Chronograph (Black Dial, Blue Bezel)",
+   "images": [
+    "assets/collection/Tag Heuer/fc5e91f3-11b6-44af-8224-403a141d55e8.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 95000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Formula 1 style chronograph with black dial, blue tachymeter bezel and steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43 mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tag-heuer/fc5e91f3-11b6-44af-8224-403a141d55e8.JPG.jpg"
+  }
+ ]
+}

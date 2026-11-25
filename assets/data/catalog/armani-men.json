@@ -1,0 +1,388 @@
+{
+ "brand": "Emporio Armani",
+ "brandKey": "armani-men",
+ "category": "him",
+ "cover": "assets/collection/Armani Men/IMG-20231208-WA0002.jpg.jpg",
+ "items": [
+  {
+   "id": "armani-men-1",
+   "name": "Emporio Armani Mario Minimalist (All-Black)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20231208-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 19995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: signature dial, its signature strap, and an all-black finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Black Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20231208-WA0002.jpg.jpg"
+  },
+  {
+   "id": "armani-men-2",
+   "name": "Emporio Armani Mario Minimalist (Gold-Tone)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20231214-WA0021.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 19995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 signature dial with its signature strap, the signature Armani Men silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20231214-WA0021.jpg.jpg"
+  },
+  {
+   "id": "armani-men-3",
+   "name": "Emporio Armani Classic Dress (White Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20231214-WA0023.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 white dial on a steel bracelet, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20231214-WA0023.jpg.jpg"
+  },
+  {
+   "id": "armani-men-4",
+   "name": "Emporio Armani Mario Chronograph (Rose-Gold Case, Brown Leather)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20240216-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a brown leather; the Armani Men signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20240216-WA0002.jpg.jpg"
+  },
+  {
+   "id": "armani-men-5",
+   "name": "Emporio Armani Renato Chronograph (White Dial, Teal Subdials, Steel Bracelet)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20240710-WA0005.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: white chronograph dial on a steel bracelet, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20240710-WA0005.jpg.jpg"
+  },
+  {
+   "id": "armani-men-6",
+   "name": "Emporio Armani Renato Chronograph (Black, Steel Bracelet)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20241013-WA0003.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and a steel bracelet, finished in a black finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20241013-WA0003.jpg.jpg"
+  },
+  {
+   "id": "armani-men-7",
+   "name": "Emporio Armani Mario Minimalist (Black Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20241023-WA0003.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 19995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, a steel bracelet, and a premium finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20241023-WA0003.jpg.jpg"
+  },
+  {
+   "id": "armani-men-8",
+   "name": "Emporio Armani Davos Diver Two-Tone (Black Dial)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20241115-WA0006.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Dive-ready attitude: a black dial with rotating bezel on its signature strap, a premium finish \u2014 bold, sporty, built to impress.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20241115-WA0006.jpg.jpg"
+  },
+  {
+   "id": "armani-men-9",
+   "name": "Emporio Armani Renato Chronograph (All-Black)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20241118-WA0008.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and its signature strap, finished in an all-black finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black PVD Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20241118-WA0008.jpg.jpg"
+  },
+  {
+   "id": "armani-men-10",
+   "name": "Emporio Armani Chronograph Two-Tone (Black Dial)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20241207-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Dive-ready attitude: a black dial with rotating bezel on its signature strap, a premium finish \u2014 bold, sporty, built to impress.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20241207-WA0000.jpg.jpg"
+  },
+  {
+   "id": "armani-men-11",
+   "name": "Emporio Armani Renato Chronograph (Two-Tone, Black Bezel)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20241212-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A dive-inspired signature dial with luminous markers on its signature strap, a two-tone finish \u2014 athletic presence, executed faithfully.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20241212-WA0000.jpg.jpg"
+  },
+  {
+   "id": "armani-men-12",
+   "name": "Emporio Armani Luigi Minimalist (All-Black)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20241217-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 18995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 signature dial on its signature strap, finished in an all-black finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Grey Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20241217-WA0001.jpg.jpg"
+  },
+  {
+   "id": "armani-men-13",
+   "name": "Emporio Armani Renato Chronograph (Black Mesh Bracelet)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20250424-WA0004.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a black mesh bracelet; the Armani Men signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Black Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20250424-WA0004.jpg.jpg"
+  },
+  {
+   "id": "armani-men-14",
+   "name": "Emporio Armani Davos Diver (Blue-Red Bezel, Steel Bracelet)",
+   "images": [
+    "assets/collection/Armani Men/IMG-20250501-WA0004(1).jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Dive-ready attitude: a signature dial with rotating bezel on a steel bracelet, a blue-red bezel finish \u2014 bold, sporty, built to impress.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG-20250501-WA0004(1).jpg.jpg"
+  },
+  {
+   "id": "armani-men-15",
+   "name": "Emporio Armani Mario Chronograph (Black, Leather Strap)",
+   "images": [
+    "assets/collection/Armani Men/IMG_20240404_140011_426.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bold chronograph look with a signature dial and a leather strap, finished in a black finish \u2014 unmistakable wrist presence at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG_20240404_140011_426.jpg.jpg"
+  },
+  {
+   "id": "armani-men-16",
+   "name": "Emporio Armani Square Skeleton (Blue Rubber Strap)",
+   "images": [
+    "assets/collection/Armani Men/IMG_20240422_172705_562.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Sporty chronograph layout with three registers, a signature dial and a blue rubber strap; the Armani Men signature look, faithfully reproduced.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG_20240422_172705_562.jpg.jpg"
+  },
+  {
+   "id": "armani-men-17",
+   "name": "Emporio Armani Chronograph (Green Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Armani Men/IMG_20240530_210422_738.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Time the moment in style: green chronograph dial on a steel bracelet, built to look every bit the original.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG_20240530_210422_738.jpg.jpg"
+  },
+  {
+   "id": "armani-men-18",
+   "name": "Emporio Armani Luigi Minimalist (Black Dial, Black Leather)",
+   "images": [
+    "assets/collection/Armani Men/IMG_20240605_132657_500.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 19995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Clean three-hand minimalism \u2014 black dial on a black leather, finished in a premium finish, for a quietly premium everyday look.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Black Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/IMG_20240605_132657_500.jpg.jpg"
+  },
+  {
+   "id": "armani-men-19",
+   "name": "Emporio Armani Rectangular Dress Watch (Gold-Tone, Black Dial)",
+   "images": [
+    "assets/collection/Armani Men/Screenshot_20240422_041104_WhatsApp.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 20995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Understated and elegant: black dial, its signature strap, and a gold-tone finish that slips under any cuff.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Gold-Tone Stainless Steel",
+    "Diameter": "38mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/Screenshot_20240422_041104_WhatsApp.jpg.jpg"
+  },
+  {
+   "id": "armani-men-20",
+   "name": "Emporio Armani Classic Dress (Blue Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Armani Men/Screenshot_20240603_202813_WhatsApp.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A minimalist classic \u2014 blue dial with a steel bracelet, the signature Armani Men silhouette at a premium first-copy grade.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "43mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-men/Screenshot_20240603_202813_WhatsApp.jpg.jpg"
+  }
+ ]
+}

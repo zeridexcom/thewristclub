@@ -1,0 +1,10 @@
+{
+  "name": "wristclubx-export",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static HTML clone of https://conscientious-windows-397582.framer.app/",
+  "scripts": {
+    "preview": "npx serve .",
+    "start": "npx serve ."
+  }
+}

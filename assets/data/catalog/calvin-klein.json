@@ -1,0 +1,46 @@
+{
+ "brand": "Calvin Klein",
+ "brandKey": "calvin-klein",
+ "category": "unisex",
+ "cover": "assets/collection/Calvin Klein/IMG-20240927-WA0016.jpg.jpg",
+ "items": [
+  {
+   "id": "calvin-klein-1",
+   "name": "Calvin Klein Automatic (Open-Heart, Black Leather)",
+   "images": [
+    "assets/collection/Calvin Klein/IMG-20240927-WA0016.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 29995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Automatic styling with a skeletonised heart: signature dial, a black leather, and an open-heart finish.",
+   "specs": {
+    "Movement": "Automatic (Open-Heart)",
+    "Case": "Black Ion-Plated Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/calvin-klein/IMG-20240927-WA0016.jpg.jpg"
+  },
+  {
+   "id": "calvin-klein-2",
+   "name": "Calvin Klein Automatic (All-Black Open-Heart)",
+   "images": [
+    "assets/collection/Calvin Klein/IMG-20241008-WA0016.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 29995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A detailed open-heart automatic look \u2014 signature dial with visible movement, its signature strap, an all-black open-heart finish.",
+   "specs": {
+    "Movement": "Automatic (Open-Heart)",
+    "Case": "Black Ion-Plated Steel",
+    "Diameter": "40mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/calvin-klein/IMG-20241008-WA0016.jpg.jpg"
+  }
+ ]
+}

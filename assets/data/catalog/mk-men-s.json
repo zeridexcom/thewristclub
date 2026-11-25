@@ -1,0 +1,388 @@
+{
+ "brand": "MK Men's",
+ "brandKey": "mk-men-s",
+ "category": "him",
+ "cover": "assets/collection/MK Men\u2019s/ABB40C9C-8335-4248-9DF0-889218BBFCE1.jpg.jpg",
+ "items": [
+  {
+   "id": "mk-men-s-1",
+   "name": "Michael Kors Lexington Chronograph (Black & Rose-Gold)",
+   "images": [
+    "assets/collection/MK Men\u2019s/ABB40C9C-8335-4248-9DF0-889218BBFCE1.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A black sunray dial with rose-gold fluted bezel and mixed black-and-rose-gold jubilee bracelet \u2014 Lexington's boldest two-tone execution.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Black IP & rose-gold-tone steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/ABB40C9C-8335-4248-9DF0-889218BBFCE1.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-2",
+   "name": "Michael Kors Lexington Chronograph (Rose Gold, Black Dial)",
+   "images": [
+    "assets/collection/MK Men\u2019s/File_002-6gty.jpeg.jpg"
+   ],
+   "video": null,
+   "mrp": 27495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "All-rose-gold Lexington with a black sunray dial, gold Roman XII, three registers and date \u2014 with case back marked 10 ATM.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Rose-gold-tone stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/File_002-6gty.jpeg.jpg"
+  },
+  {
+   "id": "mk-men-s-3",
+   "name": "Michael Kors Brecken Chronograph (Steel, Black Dial)",
+   "images": [
+    "assets/collection/MK Men\u2019s/IMG-20240110-WA0003.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A stainless Brecken with black dial, applied Roman numerals, outer dive-scale ring and red-tipped sub-dial hands.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Stainless steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/IMG-20240110-WA0003.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-4",
+   "name": "Michael Kors Runway 100 Series Chronograph (Teal Dial, Gold)",
+   "images": [
+    "assets/collection/MK Men\u2019s/IMG-20240201-WA0008.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A golden Runway chrono bearing the distinctive teal map-patterned '100 Series' dial with gold registers and date window.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/IMG-20240201-WA0008.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-5",
+   "name": "Michael Kors Lexington Chronograph (Blue PVD)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-24.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Deep-blue ion-plated Lexington \u2014 blue fluted bezel, blue sunray dial and matching blue jubilee bracelet.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Blue ion-plated stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-24.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-6",
+   "name": "Michael Kors Brecken Chronograph (Gold, Black Roman Dial)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-24__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Gold-tone Brecken with black dial and gold Roman numerals, a date ring around the register and tachymeter-scale bezel.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-24__2.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-7",
+   "name": "Michael Kors Lexington Chronograph (Black IP, Gold Markers)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The Lexington MK8603 look \u2014 textured black IP case, black chronograph dial with gold-tone indexes and black 5-link bracelet.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Black ion-plated stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-8",
+   "name": "Michael Kors Lexington Chronograph (Green Dial, Gold)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__10.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A vivid green sunray dial under gold Roman XII and a coin-edge gold bezel, on the signature gold 5-link jubilee bracelet.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__10.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-9",
+   "name": "Michael Kors Brecken Chronograph (Gold-Tone, Black Dial)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__11.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Full gold-tone Brecken, black dial with triple registers and date sub-arc, complete with presentation box.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__11.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-10",
+   "name": "Michael Kors Lexington Chronograph (Gunmetal & Rose-Gold)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__12.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Gunmetal-grey case and dial with rose-gold fluted bezel and rose-gold link accents \u2014 a cool, contemporary two-tone Lexington.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Gunmetal & rose-gold-tone steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__12.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-11",
+   "name": "Michael Kors Brecken Chronograph (Gunmetal, Grey Dial)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__13.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Monochrome gunmetal Brecken with grey dial, applied Roman indices and orange-tipped accents for a technical edge.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Gunmetal ion-plated steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__13.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-12",
+   "name": "Michael Kors Lexington Chronograph (White Dial, Gold)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__14.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A bright silvery-white Lexington dial with gold stick markers, gold 5-link bracelet and date at 4 o'clock.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__14.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-13",
+   "name": "Michael Kors Lexington Chronograph (Gold, White Sunray Dial)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "The classic gold Lexington \u2014 white sunray dial, gold Roman XII, fluted bezel and 5-link gold jubilee bracelet.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__2.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-14",
+   "name": "Michael Kors Brecken Chronograph (Two-Tone, Blue Dial)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 19595,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Steel-and-gold Brecken with a rich blue dial, gold Roman numerals and date sub-arc \u2014 the MK8437 style, 100m rated.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Two-tone stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__3.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-15",
+   "name": "Michael Kors Lexington Chronograph (Blue Dial, Two-Tone Rose-Gold)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A gradient blue Lexington dial with rose-gold stick indices, rose-gold fluted bezel and steel-and-rose-gold jubilee bracelet.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Two-tone steel & rose-gold",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__4.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-16",
+   "name": "Michael Kors Brecken Chronograph (Black IP & Rose-Gold)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__5.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Black ion-plated case with polished rose-gold coin-edge bezel, black Roman-numeral dial and rose-gold-accented link bracelet.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Black IP & rose-gold-tone steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__5.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-17",
+   "name": "Michael Kors Lexington Chronograph (All-Black, Gold Stick Markers)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 24495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A stealth black-on-black Lexington lifted by gold-tone sticks, registers and fluted bezel, on a black jubilee bracelet.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Black ion-plated stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__6.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-18",
+   "name": "Michael Kors Lexington Chronograph (Two-Tone, White Dial)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__7.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Steel-and-gold Lexington with a clean white dial, gold Roman XII and date \u2014 case back marked 10 ATM stainless.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Two-tone stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__7.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-19",
+   "name": "Michael Kors Brecken Chronograph (Champagne Dial, Gold)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__8.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A champagne-gold dial with gold Roman numerals, sunray registers and date ring, boxed as a Watch Hunger Stop edition.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "45mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__8.jpg.jpg"
+  },
+  {
+   "id": "mk-men-s-20",
+   "name": "Michael Kors Lexington Chronograph (Black Dial, Full Gold)",
+   "images": [
+    "assets/collection/MK Men\u2019s/PHOTO-2022-11-28-07-45-25__9.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 27000,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Black sunray dial with gold Roman XII and slim gold registers, in the full-gold Lexington with coin-edge bezel.",
+   "specs": {
+    "Movement": "Quartz chronograph",
+    "Case": "Gold-tone stainless steel",
+    "Diameter": "44mm",
+    "Water Resistance": "10 ATM"
+   },
+   "thumb": "assets/collection-thumbs/mk-men-s/PHOTO-2022-11-28-07-45-25__9.jpg.jpg"
+  }
+ ]
+}

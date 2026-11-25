@@ -1,0 +1,540 @@
+{
+ "brand": "Emporio Armani (Ladies)",
+ "brandKey": "armani-womens",
+ "category": "him",
+ "cover": "assets/collection/Armani Womens/1b0bc97e-22c6-4a0d-bb45-bf99b8c7cd02.JPG.jpg",
+ "items": [
+  {
+   "id": "armani-womens-1",
+   "name": "Emporio Armani Gianni T-Bar (Rose-Gold Mesh)",
+   "images": [
+    "assets/collection/Armani Womens/1b0bc97e-22c6-4a0d-bb45-bf99b8c7cd02.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: signature dial, a rose-gold mesh, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/1b0bc97e-22c6-4a0d-bb45-bf99b8c7cd02.JPG.jpg"
+  },
+  {
+   "id": "armani-womens-2",
+   "name": "Emporio Armani Gianni T-Bar (Silver Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Armani Womens/634890bd-9ad1-4a82-bdc8-8b3483eccf06.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 21995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a silver dial on a steel bracelet, a premium finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/634890bd-9ad1-4a82-bdc8-8b3483eccf06.JPG.jpg"
+  },
+  {
+   "id": "armani-womens-3",
+   "name": "Emporio Armani Gianni T-Bar (White Starburst Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Armani Womens/9f4065fe-440e-4bd2-baae-d72fe8dc0029.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 26995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: white starburst dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/9f4065fe-440e-4bd2-baae-d72fe8dc0029.JPG.jpg"
+  },
+  {
+   "id": "armani-womens-4",
+   "name": "Emporio Armani Gianni T-Bar (Floral Black Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Armani Womens/IMG-20240209-WA0003.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 25995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a floral black dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/IMG-20240209-WA0003.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-5",
+   "name": "Emporio Armani Gianni T-Bar (White Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Armani Womens/IMG-20240212-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: white dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/IMG-20240212-WA0001.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-6",
+   "name": "Emporio Armani Retro (Black Dial, Rose-Gold Bracelet)",
+   "images": [
+    "assets/collection/Armani Womens/IMG-20240216-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 25995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a black dial on a rose-gold bracelet, a premium finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/IMG-20240216-WA0000.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-7",
+   "name": "Emporio Armani Gianni T-Bar (Black Dial, Two-Tone)",
+   "images": [
+    "assets/collection/Armani Womens/IMG-20240221-WA0003.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: black dial, its signature strap, and a two-tone finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/IMG-20240221-WA0003.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-8",
+   "name": "Emporio Armani Gianni T-Bar (Rose Pav\u00e9 Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Armani Womens/IMG-20240309-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 26995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a rose pav\u00e9 dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/IMG-20240309-WA0000.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-9",
+   "name": "Emporio Armani Gianni T-Bar (Rose-Gold, Textured Dial)",
+   "images": [
+    "assets/collection/Armani Womens/IMG-20250504-WA0000.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: textured dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/IMG-20250504-WA0000.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-10",
+   "name": "Emporio Armani Gianni T-Bar (White Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Armani Womens/IMG_7239.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a white dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/IMG_7239.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-11",
+   "name": "Emporio Armani Gianni T-Bar (White Dial, Two-Tone)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: white dial, its signature strap, and a two-tone finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-12",
+   "name": "Emporio Armani Gianni T-Bar (Rose Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31__10.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a rose dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31__10.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-13",
+   "name": "Emporio Armani Gianni T-Bar (White Dial, Rose-Gold Bracelet)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31__11.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: white dial, a rose-gold bracelet, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31__11.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-14",
+   "name": "Emporio Armani Gianni T-Bar (White Roman Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31__2.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a white roman dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31__2.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-15",
+   "name": "Emporio Armani Gianni T-Bar (Silver Dial, Two-Tone)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31__3.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: silver dial, its signature strap, and a two-tone finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31__3.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-16",
+   "name": "Emporio Armani Gianni T-Bar (Rose Dial, Two-Tone)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31__4.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a rose dial on its signature strap, a two-tone finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31__4.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-17",
+   "name": "Emporio Armani Gianni T-Bar (Silver Dial, Two-Tone Bracelet)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31__5.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: silver dial, a two-tone bracelet, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31__5.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-18",
+   "name": "Emporio Armani Gianni T-Bar (White Dial, Rose-Gold Mesh)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31__6.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a white dial on a rose-gold mesh, a premium finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31__6.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-19",
+   "name": "Emporio Armani Gianni T-Bar (Silver Pav\u00e9 Dial, Two-Tone)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31__7.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 22995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: silver pav\u00e9 dial, its signature strap, and a two-tone finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31__7.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-20",
+   "name": "Emporio Armani Gianni T-Bar (Rose Dial, Two-Tone Bracelet)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31__8.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a rose dial on a two-tone bracelet, a premium finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31__8.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-21",
+   "name": "Emporio Armani Gianni T-Bar (White Dial, Two-Tone Bracelet)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-31__9.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: white dial, a two-tone bracelet, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-31__9.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-22",
+   "name": "Emporio Armani Gianni T-Bar (Grey Gradient Dial, Two-Tone)",
+   "images": [
+    "assets/collection/Armani Womens/PHOTO-2021-10-29-13-06-44.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a grey gradient dial on its signature strap, a two-tone finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Two-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/PHOTO-2021-10-29-13-06-44.jpg.jpg"
+  },
+  {
+   "id": "armani-womens-23",
+   "name": "Emporio Armani Gianni T-Bar (White Pav\u00e9 Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Armani Womens/a7034bc4-8377-4655-b6dc-1ea29a014896.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 26995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: white pav\u00e9 dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/a7034bc4-8377-4655-b6dc-1ea29a014896.JPG.jpg"
+  },
+  {
+   "id": "armani-womens-24",
+   "name": "Emporio Armani Gianni T-Bar (Grey Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Armani Womens/d4f0cd6a-87e5-4bdd-b1bd-2468c43bc77f.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a grey dial on its signature strap, a rose-gold finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/d4f0cd6a-87e5-4bdd-b1bd-2468c43bc77f.JPG.jpg"
+  },
+  {
+   "id": "armani-womens-25",
+   "name": "Emporio Armani Gianni T-Bar (Champagne Dial, Rose-Gold)",
+   "images": [
+    "assets/collection/Armani Womens/e14b48da-f9d8-4d65-84c5-25ddf938f0d0.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: champagne dial, its signature strap, and a rose-gold finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/e14b48da-f9d8-4d65-84c5-25ddf938f0d0.JPG.jpg"
+  },
+  {
+   "id": "armani-womens-26",
+   "name": "Emporio Armani Gianni T-Bar (White Pav\u00e9 Dial, Rose-Gold Bracelet)",
+   "images": [
+    "assets/collection/Armani Womens/ea002c9b-9e7d-4b1a-89fd-6f4bb9fe08dc.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 26995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a white pav\u00e9 dial on a rose-gold bracelet, a premium finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/ea002c9b-9e7d-4b1a-89fd-6f4bb9fe08dc.JPG.jpg"
+  },
+  {
+   "id": "armani-womens-27",
+   "name": "Emporio Armani Retro (Grey Dial, Rose-Gold Bracelet)",
+   "images": [
+    "assets/collection/Armani Womens/ea98c287-2855-4982-a8fe-f97909a63a71.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 25995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Delicate luxury styling: grey dial, a rose-gold bracelet, and a premium finish that dresses up any wrist.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "34mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/ea98c287-2855-4982-a8fe-f97909a63a71.JPG.jpg"
+  },
+  {
+   "id": "armani-womens-28",
+   "name": "Emporio Armani Gianni T-Bar (Grey Dial, Rose-Gold Mesh)",
+   "images": [
+    "assets/collection/Armani Womens/fa8a797b-72a2-4f74-9385-f7a48e94fa3e.JPG.jpg"
+   ],
+   "video": null,
+   "mrp": 23995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "Feminine and refined \u2014 a grey dial on a rose-gold mesh, a premium finish, for effortless everyday elegance.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "32mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/armani-womens/fa8a797b-72a2-4f74-9385-f7a48e94fa3e.JPG.jpg"
+  }
+ ]
+}

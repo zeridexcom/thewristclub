@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "sourceUrl": "https://conscientious-windows-397582.framer.app/",
+  "generatedAt": "2026-11-24T13:07:16.060Z",
+  "summary": {
+    "pages": 1,
+    "mappedAssets": 331,
+    "totalBytes": 13412310,
+    "missingPages": 0,
+    "missingAssets": 0,
+    "brokenLocalReferences": 0,
+    "externalResources": 13
+  },
+  "missingPageFiles": [],
+  "missingAssetFiles": [],
+  "brokenLocalReferences": [],
+  "referencesTruncated": false,
+  "externalResourceReferences": [
+    "https://framer.com/edit?framerSiteId=4e8ac01dc9681994772cf82c8db71f9cf44e5762f81a00810b87d9929b5b4f50&source=conscientious-windows-397582.framer.app&features=%7B%22editorBarDisableFrameAncestorsSecurity%22%3Afalse%7D&loadStart=1795525626987",
+    "https://framerusercontent.com./assets/S95rbrSQ82zuse1iv9F3e5qBDTY.mp4",
+    "https://framerusercontent.com/images/7hcItMJooU5sWao8JD7ByTdJuGA.png?scale-down-to=1024&width=2752&height=664",
+    "https://framerusercontent.com/images/7hcItMJooU5sWao8JD7ByTdJuGA.png?scale-down-to=512&width=2752&height=664",
+    "https://framerusercontent.com/images/7hcItMJooU5sWao8JD7ByTdJuGA.png?width=2752&height=664",
+    "https://framerusercontent.com/images/7w7WL4WNiTVXT5jvc3RjGnerNA.png?width=1328&height=1760",
+    "https://framerusercontent.com/images/GByYZPmgKkPzqOAWthgDAfG7VU.png?width=1328&height=1760",
+    "https://framerusercontent.com/images/JP8Cdymq6S8JknHJoYtjRMhho.png",
+    "https://framerusercontent.com/images/KUHmYRaxNAnqOwjqeC2KQ5la7O8.png",
+    "https://framerusercontent.com/images/PQTjPdkkoG4Helo9qM5eSSzK38.png?width=1333&height=2000",
+    "https://framerusercontent.com/images/gyZbpBn0Ym0cnpDCc2vjXIbbAM.png?width=1328&height=1760",
+    "https://framerusercontent.com/images/wSeRpJ31hoZI4I0vFnraR96TX0.png?width=1328&height=1760",
+    "https://framerusercontent.com/images/ya02ePQQ9hjsu8JCiyJvDJB3j8.png?width=1328&height=1760"
+  ],
+  "externalReferencesTruncated": false
+}

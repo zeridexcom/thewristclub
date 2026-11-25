@@ -1,0 +1,160 @@
+{
+ "brand": "Tommy Hilfiger",
+ "brandKey": "tommy-hilfiger",
+ "category": "unisex",
+ "cover": "assets/collection/Tommy Hilfiger/IMG-20240118-WA0001.jpg.jpg",
+ "items": [
+  {
+   "id": "tommy-hilfiger-1",
+   "name": "Tommy Hilfiger Chronograph (Blue Dial, Navy Leather)",
+   "images": [
+    "assets/collection/Tommy Hilfiger/IMG-20240118-WA0001.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14999,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tommy Hilfiger chronograph with a deep blue dial, rose-gold accents and a navy croc-embossed leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "44 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tommy-hilfiger/IMG-20240118-WA0001.jpg.jpg"
+  },
+  {
+   "id": "tommy-hilfiger-2",
+   "name": "Tommy Hilfiger Chronograph (Grey Dial, Brown Leather)",
+   "images": [
+    "assets/collection/Tommy Hilfiger/IMG-20240222-WA0020.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14999,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A refined Tommy Hilfiger chronograph pairing a grey sunray dial with a polished steel case and brown leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "44 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tommy-hilfiger/IMG-20240222-WA0020.jpg.jpg"
+  },
+  {
+   "id": "tommy-hilfiger-3",
+   "name": "Tommy Hilfiger Chronograph (All-Black)",
+   "images": [
+    "assets/collection/Tommy Hilfiger/IMG-20240314-WA0017.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 17495,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A stealth all-black Tommy Hilfiger chronograph with triple sub-dials on a black leather strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Ion-Plated Stainless Steel",
+    "Diameter": "44 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tommy-hilfiger/IMG-20240314-WA0017.jpg.jpg"
+  },
+  {
+   "id": "tommy-hilfiger-4",
+   "name": "Tommy Hilfiger Chronograph (Black Dial, Steel Bracelet)",
+   "images": [
+    "assets/collection/Tommy Hilfiger/IMG-20240328-WA0006.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14999,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tommy Hilfiger chronograph with a black dial, red-flag detail and a brushed stainless steel bracelet.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "44 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tommy-hilfiger/IMG-20240328-WA0006.jpg.jpg"
+  },
+  {
+   "id": "tommy-hilfiger-5",
+   "name": "Tommy Hilfiger Chronograph (Navy Dial, Steel & Fabric)",
+   "images": [
+    "assets/collection/Tommy Hilfiger/IMG-20250415-WA0002.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14999,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A sporty Tommy Hilfiger chronograph with a navy dial layered over a steel bracelet and navy fabric wrap strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "44 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tommy-hilfiger/IMG-20250415-WA0002.jpg.jpg"
+  },
+  {
+   "id": "tommy-hilfiger-6",
+   "name": "Tommy Hilfiger Chronograph (Green Dial, Green Rubber)",
+   "images": [
+    "assets/collection/Tommy Hilfiger/IMG_20240109_175939_269.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14999,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A fresh green-on-green Tommy Hilfiger chronograph with sunray dial, steel case and matching green silicone strap.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "44 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tommy-hilfiger/IMG_20240109_175939_269.jpg.jpg"
+  },
+  {
+   "id": "tommy-hilfiger-7",
+   "name": "Tommy Hilfiger Chronograph (Green Dial, Brown Leather)",
+   "images": [
+    "assets/collection/Tommy Hilfiger/IMG_20240401_191912_980.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 14999,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A Tommy Hilfiger chronograph combining a rich green dial with a tan brown leather strap and steel case.",
+   "specs": {
+    "Movement": "Quartz Chronograph",
+    "Case": "Stainless Steel",
+    "Diameter": "44 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tommy-hilfiger/IMG_20240401_191912_980.jpg.jpg"
+  },
+  {
+   "id": "tommy-hilfiger-8",
+   "name": "Tommy Hilfiger Open-Heart (Blue Dial, Blue Silicone)",
+   "images": [
+    "assets/collection/Tommy Hilfiger/IMG_20240621_175804_771.jpg.jpg"
+   ],
+   "video": null,
+   "mrp": 16995,
+   "mrpNote": "approx. India retail",
+   "price": "Price on Request",
+   "desc": "A statement Tommy Hilfiger with an open-heart skeleton dial in blue, rose-gold case and matching blue silicone strap.",
+   "specs": {
+    "Movement": "Quartz",
+    "Case": "Rose-Gold-Tone Stainless Steel",
+    "Diameter": "44 mm",
+    "Water Resistance": "5 ATM"
+   },
+   "thumb": "assets/collection-thumbs/tommy-hilfiger/IMG_20240621_175804_771.jpg.jpg"
+  }
+ ]
+}
